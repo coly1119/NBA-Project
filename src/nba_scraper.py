@@ -18,7 +18,7 @@ players = results.find_all('td', class_='player')
 max_players = 15   #fn input later
 player_names = []
 for player in players: 
-    if(len(player_names) > max_players):
+    if(len(player_names) >= max_players):
         break
     player_names.append(player.find('a').get_text())
 
@@ -47,4 +47,19 @@ for cap_val in cap_vals:
         contract_types.append(cap_val.get_text())
     i += 1
 
+print(player_names)
+print(ages)
+print(len(pos))
+print(len(contracts))
+print(len(contract_types))
+
+data = {'Team': ["Atlanta Hawks"]*max_players,
+        'Name':player_names,
+        'Age':ages,
+        'Pos':pos,
+        'Contract Value':contracts,
+        'Type': contract_types}
+
+df = pd.DataFrame(data)
+print(df)
 

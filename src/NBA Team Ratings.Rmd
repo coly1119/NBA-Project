@@ -1,0 +1,80 @@
+---
+title: "NBA team ratings"
+author: "Willis Lu"
+date: "3/15/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+```
+
+Filtering to only 2020 data. Using 538 elo data.
+```{r}
+dataall <- read.csv("nba_elo.csv")
+data2020 <- dataall %>% filter(season == 2020)
+```
+
+```{r}
+games <- data2020 %>% select(team1,team2,score1,score2)
+games$pt_diff <- games$score1 - games$score2
+games$location <- "H"
+games <- games %>% rename(
+  Home = team1,
+  Visitor = team2,
+  Home_Score = score1,
+  Away_Score = score2
+)
+```
+
+```{r}
+team <- character(length = 2*length(games$pt_diff))
+opponent <- character(length = 2*length(games$pt_diff))
+location <- character(length = 2*length(games$pt_diff))
+pt_diff <- vector(mode='numeric',length = 2*length(games$pt_diff))
+
+final <- data.frame(team,opponent,location,pt_diff)
+```
+
+Duplicating all game entries to have a home and away entry for each game. 
+
+```{r}
+for(i in 1:length(games$pt_diff)){
+  
+  final$team[i] <- games$Home[i]
+  final$opponent[i] <- games$Visitor[i]
+  final$location[i] <- "H"
+  final$pt_diff[i] <- games$pt_diff[i]
+  
+  
+  final$team[i + length(games$pt_dif)] <- games$Visitor[i]
+  final$opponent[i + length(games$pt_dif)] <- games$Home[i]
+  final$location[i + length(games$pt_dif)] <- "A"
+  final$pt_diff[i + length(games$pt_diff)] <- (-1)*games$pt_diff[i]
+}
+
+```
+
+```{r}
+boxplot(final$pt_diff, col = "blue", horizontal = TRUE, main = "NBA 2019-2020 Point Differentials", xlab = "Home Score - Away Score")
+abline( v = 0, col = "red")
+```
+We have a net mean of 0 point differential as expected after making home and away entries for each game.
+
+```{r}
+lm.nba2020 <- lm(pt_diff ~ team + opponent + location, data = final)
+summary(lm.nba2020)
+#note atlanta has been used as the base case.
+```
+
+```{r}
+teamratings <- data.frame("team" = sort(unique(final$team)),
+                       "rating" = rep(NA, 30))
+teamratings$rating <- c(0,lm.nba2020$coefficients[2:30])
+
+teamratings <- teamratings[(order(teamratings$rating, decreasing = T)),]
+```
+
+```{r}
+write.csv(teamratings, "NBA_RANKINGS.csv", row.names = FALSE)
+```

@@ -1,0 +1,433 @@
+,mu,sd,name,type
+0,1.7916666666666667,3,Marcus Morris,Bird
+1,2.2336,3,Jayson Tatum,Rookie
+2,1.72332,3,Jaylen Brown,Rookie
+3,1.0167966666666666,3,Terry Rozier,Rookie
+4,4.785916666666667,3,Robin Lopez,Cap Space
+5,2.82366,3,Cristiano Felicio,Cap Space
+6,0.5149836666666666,3,Wayne Selden,Minimum
+7,1.4615383333333334,3,Justin Holiday,NT-MLE
+8,0.459414,3,Tyler Dorsey,Minimum
+9,0.5042003333333334,3,Amir Johnson,Minimum
+10,4.933333333333334,3,Tobias Harris,Bird
+11,0.5335066666666667,3,T.J. McConnell,Minimum
+12,10.9,3,Kyle Lowry,Bird
+13,8.039675,3,Marc Gasol,Bird
+14,0.65092,3,OG Anunoby,Rookie
+15,4.0,3,Avery Bradley,Bird
+16,0.8456326666666667,3,Delon Wright,Rookie
+17,6.333333333333333,3,Jeff Teague,Cap Space
+18,0.8146843333333333,3,Tyus Jones,Rookie
+19,0.44979433333333335,3,Alfonzo McKinnie,Minimum
+20,5.823188333333333,3,Draymond Green,Bird
+22,0.459414,3,Jordan Bell,Minimum
+23,4.0,3,Kemba Walker,Bird
+24,1.06888,3,Miles Bridges,Rookie
+25,0.7943586666666667,3,Wayne Ellington,NT-MLE
+26,0.93324,3,Thon Maker,Rookie
+27,2.3333333333333335,3,Langston Galloway,NT-MLE
+28,8.478087666666667,3,Andre Drummond,Bird
+29,1.0430623333333333,3,Tomas Satoransky,Cap Space
+30,8.478087666666667,3,Bradley Beal,Bird
+31,0.459414,3,Thomas Bryant,Minimum
+32,1.45,3,Alex Len,Room
+33,1.78548,3,Trae Young,Rookie
+34,0.07895133333333333,3,Jaylen Adams,Minimum
+35,0.67804,3,Jarrett Allen,Rookie
+36,0.5676,3,Caris LeVert,Rookie
+37,6.166666666666667,3,Allen Crabbe,Cap Space
+38,5.133333333333334,3,DeMarre Carroll,Cap Space
+39,0.53944,3,Rodions Kurucs,Cap Space
+40,8.670637666666666,3,Otto Porter Jr.,Cap Space
+41,0.279488,3,Kenrich Williams,Minimum
+42,8.478087666666667,3,Anthony Davis,Bird
+43,2.880333333333333,3,Julius Randle,NT-MLE
+44,2.936228333333333,3,E'Twaun Moore,Cap Space
+45,2.72172,3,Deandre Ayton,Rookie
+46,0.31633333333333336,3,De'Anthony Melton,Cap Space
+47,1.18432,3,Mikal Bridges,Rookie
+48,0.5335066666666667,3,Richaun Holmes,Cap Space
+49,1.086183,3,Troy Daniels,Cap Space
+51,8.264567333333334,3,Harrison Barnes,Cap Space
+52,0.73568,3,Harry Giles III,Rookie
+53,3.845505,3,Alec Burks,Bird
+54,1.82364,3,De'Aaron Fox,Rookie
+55,0.8333333333333334,3,Reggie Bullock,Bird
+56,1.6666666666666667,3,Mike Muscala,Bird
+58,5.0,3,Eric Bledsoe,Bird
+59,1.1273333333333333,3,Brook Lopez,Bi-Annual
+60,4.333333333333333,3,Khris Middleton,Bird
+61,3.602381,3,Tony Snell,Bird
+62,0.84476,3,D.J. Wilson,Rookie
+63,9.325896333333333,3,Damian Lillard,Bird
+64,0.9316666666666666,3,Seth Curry,NT-MLE
+65,0.5149836666666666,3,Skal Labissiere,Rookie
+66,4.333333333333333,3,Michael Kidd-Gilchrist,Bird
+67,2.496124,3,Jeremy Lamb,Bird
+68,4.509363333333333,3,Cody Zeller,Bird
+69,2.4166666666666665,3,D.J. Augustin,Cap Space
+70,4.416666666666667,3,Nikola Vucevic,Bird
+71,3.5,3,Terrence Ross,Bird
+72,0.98528,3,Bam Adebayo,Rookie
+73,6.036391666666667,3,Goran Dragic,Bird
+74,0.5149836666666666,3,Rodney McGruder,Cap Space
+75,4.500125,3,Eric Gordon,Cap Space
+76,1.21716,3,Nene,Non-Bird
+77,0.5042003333333334,3,Gerald Green,Minimum
+78,0.735,3,Darius Miller,NT-MLE
+79,4.084309333333334,3,Solomon Hill,Cap Space
+80,6.329575,3,Klay Thompson,Bird
+81,7.195859666666666,3,Danilo Gallinari,Bird
+82,2.0,3,Montrezl Harrell,Bird
+83,2.622222333333333,3,JaMychal Green,Bird
+84,2.3732166666666665,3,Lance Thomas,Early Bird
+85,1.24664,3,Kevin Knox,Rookie
+86,0.459414,3,Damyean Dotson,Minimum
+87,1.4314933333333333,3,Emmanuel Mudiay,Rookie
+88,0.5042003333333334,3,JaVale McGee,Minimum
+89,0.3333333333333333,3,Isaac Bonga,Cap Space
+90,4.166666666666667,3,Nikola Mirotic,Cap Space
+91,3.334227,3,Jon Leuer,Cap Space
+92,3.85,3,Dion Waiters,Cap Space
+93,1.4401666666666666,3,Mike Scott,NT-MLE
+94,3.2104166666666667,3,Dwight Powell,Cap Space
+95,2.18688,3,Luka Doncic,Rookie
+96,0.41,3,Jalen Brunson,Cap Space
+97,0.98244,3,Jakob Poeltl,Rookie
+98,2.3333333333333335,3,Davis Bertans,Early Bird
+99,2.051282,3,Marco Belinelli,NT-MLE
+100,7.449005,3,LaMarcus Aldridge,Cap Space
+101,3.857143,3,Patty Mills,Bird
+102,5.333333333333333,3,Andre Iguodala,Bird
+103,2.7692306666666666,3,Shaun Livingston,Bird
+104,4.877083333333333,3,Brandon Knight,Bird
+105,4.166666666666667,3,Jordan Clarkson,Early Bird
+106,0.925,3,Cedi Osman,T-MLE
+107,0.16806666666666667,3,Nik Stauskas,Minimum
+108,0.65092,3,Ante Zizic,Rookie
+110,0.8234523333333333,3,Rondae Hollis-Jefferson,Rookie
+111,3.670412,3,Iman Shumpert,Bird
+112,7.830524333333333,3,Rudy Gobert,Bird
+113,2.52,3,Kyle Korver,Bird
+114,2.435275,3,Jae Crowder,Bird
+115,0.69144,3,Grayson Allen,Rookie
+116,4.266854,3,Wilson Chandler,Bird
+117,4.588015,3,Thaddeus Young,Bird
+118,0.17091533333333334,3,Wesley Matthews,Minimum
+119,2.6483333333333334,3,Cory Joseph,Cap Space
+120,0.80252,3,TJ Leaf,Rookie
+121,3.3333333333333335,3,Darren Collison,Cap Space
+122,2.3333333333333335,3,Boban Marjanovic,Cap Space
+123,0.06474,3,Dairis Bertans,Minimum
+124,1.1666,3,Jamal Murray,Rookie
+125,0.44979433333333335,3,Monte Morris,T-MLE
+126,0.72212,3,Juancho Hernangomez,Rookie
+127,0.70628,3,Terrance Ferguson,Rookie
+128,0.5858096666666667,3,Nerlens Noel,Minimum
+129,8.052434333333334,3,Steven Adams,Bird
+130,0.459414,3,Abdel Nader,Cap Space
+131,0.30764766666666665,3,Austin Rivers,Minimum
+132,0.8054073333333334,3,Jarell Martin,Rookie
+134,0.55148,3,Robert Williams III,Rookie
+136,0.15247266666666667,3,Chris Boucher,Minimum
+137,0.5042003333333334,3,Georges Niang,Non-Bird
+138,0.279488,3,Bruce Brown,NT-MLE
+139,1.149642,3,Justise Winslow,Rookie
+141,0.459414,3,Daniel Theis,Minimum
+142,6.400042333333333,3,Tim Hardaway Jr.,Cap Space
+143,0.5042003333333334,3,Devin Harris,Minimum
+144,0.14242966666666668,3,Markieff Morris,Minimum
+145,1.1273333333333333,3,Allonzo Trier,Bi-Annual
+146,2.1666666666666665,3,Mario Hezonja,NT-MLE
+147,0.459414,3,Khem Birch,Minimum
+148,2.4352,3,Marvin Bagley III,Rookie
+149,1.0,3,Yogi Ferrell,Cap Space
+150,0.9200316666666667,3,Sam Dekker,Rookie
+151,0.289698,3,Chasson Randle,Minimum
+152,3.1224,3,Norman Powell,Early Bird
+153,2.8586386666666668,3,Jerryd Bayless,Cap Space
+154,5.823188333333333,3,Tristan Thompson,Bird
+155,1.3562,3,Collin Sexton,Rookie
+156,6.029962333333334,3,Kent Bazemore,Cap Space
+157,0.84228,3,Taurean Prince,Rookie
+158,0.082609,3,Danuel House Jr.,Minimum
+159,0.459414,3,Sterling Brown,NT-MLE
+160,1.14916,3,Malik Monk,Rookie
+162,2.9131666666666667,3,Kosta Koufos,Cap Space
+163,4.133333333333334,3,Tyreke Evans,Cap Space
+164,0.279488,3,Alize Johnson,Minimum
+165,0.5149836666666666,3,Pascal Siakam,Rookie
+167,0.56328,3,Kyle Kuzma,Rookie
+168,3.0,3,Rajon Rondo,Cap Space
+169,0.7166666666666667,3,Raul Neto,Bird
+170,4.991666666666666,3,Ricky Rubio,Bird
+171,0.7574636666666666,3,Larry Nance Jr.,Rookie
+173,0.459414,3,Royce O'Neale,Cap Space
+175,0.003158,3,Duncan Robinson,NT-MLE
+176,0.4951466666666667,3,Mitchell Robinson,NT-MLE
+177,0.030001666666666666,3,Chris Chiozza,Minimum
+178,1.7312,3,Aron Baynes,Non-Bird
+179,0.8386826666666667,3,Justin Anderson,Rookie
+180,0.5520306666666667,3,Spencer Dinwiddie,Cap Space
+181,0.8892,3,Guerschon Yabusele,Rookie
+182,0.459414,3,Semi Ojeleye,Cap Space
+183,7.704688666666667,3,Kawhi Leonard,Bird
+184,0.5983383333333333,3,Trey Burke,Minimum
+186,0.056971666666666664,3,Jimmer Fredette,Minimum
+187,5.956284,3,Evan Turner,Cap Space
+188,0.5149836666666666,3,Ivica Zubac,Cap Space
+189,0.44979433333333335,3,Tyrone Wallace,Minimum
+190,8.489083333333333,3,Joel Embiid,Bird
+192,4.084593333333333,3,Courtney Lee,Cap Space
+193,2.656512333333333,3,PJ Tucker,NT-MLE
+194,0.004737,3,Yante Maten,Minimum
+195,1.9166666666666667,3,Anthony Tolliver,NT-MLE
+196,0.279488,3,Keita Bates-Diop,NT-MLE
+197,0.014211333333333333,3,Billy Garrett,Minimum
+199,0.547,3,Pat Connaughton,NT-MLE
+200,0.5042003333333334,3,Quincy Pondexter,Minimum
+201,3.5318353333333334,3,Meyers Leonard,Bird
+202,0.5149836666666666,3,Damian Jones,Rookie
+203,7.0,3,Victor Oladipo,Bird
+204,1.483,3,Kyle O'Quinn,Room
+205,1.62168,3,Mo Bamba,Rookie
+206,1.65636,3,Jonathan Isaac,Rookie
+207,10.140618,3,James Harden,Cap Space
+208,0.279488,3,Isaiah Hartenstein,T-MLE
+210,2.01384,3,Josh Jackson,Rookie
+211,1.1047883333333333,3,Devin Booker,Rookie
+212,3.4880306666666665,3,Robert Covington,Cap Space
+213,2.77996,3,Markelle Fultz,Rookie
+214,0.58,3,Furkan Korkmaz,Rookie
+216,2.880333333333333,3,Kyle Anderson,NT-MLE
+217,0.459414,3,Dillon Brooks,NT-MLE
+219,0.827,3,Donte DiVincenzo,Rookie
+220,3.775822,3,John Henson,Bird
+221,3.2025,3,Matthew Dellavedova,Cap Space
+222,0.16236966666666666,3,Enes Kanter,Minimum
+223,0.5042003333333334,3,Noah Vonleh,Minimum
+224,0.44979433333333335,3,Ryan Arcidiacono,Minimum
+225,11.884716666666666,3,LeBron James,Cap Space
+226,2.48732,3,Lonzo Ball,Rookie
+227,1.157629,3,Rodney Hood,Qualifying Offer
+228,0.050529,3,Deonte Burton,Minimum
+229,0.495898,3,Svi Mykhailiuk,Cap Space
+231,0.54488,3,DeAndre' Bembry,Rookie
+233,2.4,3,Dewayne Dedmon,Cap Space
+234,8.478087666666667,3,Hassan Whiteside,Cap Space
+235,0.279488,3,Chimezie Metu,NT-MLE
+236,6.807182,3,Ryan Anderson,Cap Space
+238,1.565625,3,Willie Cauley-Stein,Rookie
+239,2.0,3,Ish Smith,Cap Space
+240,0.459414,3,Frank Jackson,NT-MLE
+242,1.0416666666666667,3,Bryn Forbes,Early Bird
+243,5.166666666666667,3,Dennis Schroder,Bird
+244,11.884716666666666,3,Russell Westbrook,Bird
+246,1.4804,3,Wendell Carter Jr.,Rookie
+247,0.459414,3,Ivan Rabb,NT-MLE
+248,4.666666666666667,3,Taj Gibson,Cap Space
+249,2.613145,3,Karl-Anthony Towns,Rookie
+251,5.505952333333333,3,Gary Harris,Bird
+252,9.743589666666667,3,Paul Millsap,Cap Space
+253,1.6666666666666667,3,Tony Parker,NT-MLE
+254,0.5149836666666666,3,Quinn Cook,Minimum
+255,0.5042003333333334,3,Vince Carter,Minimum
+256,0.75032,3,Kevin Huerter,Rookie
+257,0.5042003333333334,3,Derrick Jones Jr.,Minimum
+258,0.437088,3,Shaquille Harrison,Minimum
+260,0.55172,3,Josh Hart,Rookie
+261,1.779,3,Dwight Howard,T-MLE
+262,0.54408,3,Dzanan Musa,Rookie
+264,3.5,3,Bojan Bogdanovic,Cap Space
+265,0.279488,3,Brad Wanamaker,Minimum
+266,0.17091533333333334,3,Salah Mejri,Minimum
+269,8.586588666666668,3,CJ McCollum,Bird
+271,0.76636,3,John Collins,Rookie
+275,3.1766666666666667,3,Jared Dudley,Cap Space
+277,0.72024,3,Josh Okogie,Rookie
+279,6.415123333333334,3,Tyler Johnson,Cap Space
+280,5.633333333333334,3,Derrick Favors,Bird
+282,1.0695433333333333,3,Kelly Oubre Jr.,Rookie
+284,0.44438,3,Tyson Chandler,Minimum
+285,0.59128,3,Malik Beasley,Rookie
+286,0.26207033333333335,3,Patrick McCaw,Minimum
+287,0.8314486666666666,3,Bobby Portis,Rookie
+290,3.9434526666666665,3,Will Barton,Bird
+291,10.696310666666667,3,Blake Griffin,Bird
+292,0.5042003333333334,3,Zaza Pachulia,Minimum
+293,7.222222333333334,3,Serge Ibaka,Bird
+294,6.666666666666667,3,Jabari Parker,Cap Space
+295,1.51204,3,Lauri Markkanen,Rookie
+296,0.001579,3,Theo Pinson,Minimum
+298,0.5042003333333334,3,Luol Deng,Minimum
+299,0.5042003333333334,3,Dwyane Wade,Minimum
+301,4.120370333333334,3,Jusuf Nurkic,Bird
+302,2.0,3,Jonathon Simmons,Cap Space
+303,0.5149836666666666,3,Cheick Diallo,Cap Space
+304,0.62488,3,Tyler Lydon,Rookie
+306,0.5149836666666666,3,Timothe Luwawu-Cabarrot,Rookie
+307,8.035752666666667,3,Chandler Parsons,Cap Space
+308,2.7777776666666667,3,CJ Miles,NT-MLE
+309,0.91636,3,Troy Brown Jr.,Rookie
+310,0.58736,3,Moritz Wagner,Rookie
+311,1.2092806666666667,3,Frank Kaminsky,Rookie
+312,0.5149836666666666,3,Willy Hernangomez,Cap Space
+313,2.6666666666666665,3,Lou Williams,Bird
+315,0.61184,3,Anfernee Simons,Rookie
+316,0.5633333333333334,3,Jonah Bolden,Cap Space
+317,12.485718,3,Stephen Curry,Bird
+318,2.6666666666666665,3,Garrett Temple,Cap Space
+319,2.4444446666666666,3,Doug McDermott,Cap Space
+320,0.6666666666666666,3,Torrey Craig,Cap Space
+321,9.642903,3,Al Horford,Cap Space
+322,5.666666666666667,3,Evan Fournier,Bird
+323,0.15247266666666667,3,Malcolm Miller,Minimum
+324,0.061582,3,Ray Spalding,Minimum
+325,3.445693,3,Maurice Harkless,Bird
+326,4.695833333333334,3,Marvin Williams,Early Bird
+327,2.1666666666666665,3,Nemanja Bjelica,Cap Space
+328,0.5042003333333334,3,David Nwaba,Minimum
+329,0.5397533333333333,3,Luke Kornet,Non-Bird
+331,1.1367613333333333,3,Myles Turner,Rookie
+333,0.279488,3,Jevon Carter,Minimum
+334,1.3134673333333333,3,Stanley Johnson,Rookie
+335,10.173705,3,Mike Conley,Bird
+336,0.5042003333333334,3,Ian Clark,Minimum
+337,1.75,3,Thabo Sefolosha,Cap Space
+338,2.3398993333333333,3,D'Angelo Russell,Rookie
+339,1.3583333333333334,3,Glenn Robinson III,NT-MLE
+340,2.8846156666666665,3,Jerami Grant,Bird
+341,1.0154,3,Jerome Robinson,Rookie
+342,4.083333333333333,3,JJ Redick,Cap Space
+345,0.459414,3,Maxi Kleber,Minimum
+347,6.333333333333333,3,George Hill,Cap Space
+348,1.27332,3,Dennis Smith Jr.,Rookie
+351,5.056929,3,Gorgui Dieng,Bird
+352,8.489083333333333,3,Andrew Wiggins,Bird
+354,0.01994,3,Donatas Motiejunas,Minimum
+355,5.6811593333333334,3,Reggie Jackson,Bird
+358,11.884716666666666,3,Chris Paul,Bird
+359,5.0,3,Trevor Ariza,Cap Space
+360,5.314718,3,Ian Mahinmi,Cap Space
+361,0.5149836666666666,3,Malcolm Brogdon,Cap Space
+362,0.44979433333333335,3,Antonio Blakeney,Minimum
+363,1.483,3,Lance Stephenson,Cap Space
+364,0.279488,3,Hamidou Diallo,T-MLE
+365,0.5149836666666666,3,Dorian Finney-Smith,Cap Space
+366,3.1224,3,Josh Richardson,Bird
+369,0.829,3,Dante Cunningham,NT-MLE
+371,1.97168,3,Jaren Jackson Jr.,Rookie
+372,0.58,3,Caleb Swanigan,Rookie
+373,0.5042003333333334,3,Raymond Felton,Minimum
+374,0.5042003333333334,3,Jamal Crawford,Minimum
+375,0.19895733333333335,3,Gary Clark,T-MLE
+377,0.8866,3,Domantas Sabonis,Rookie
+378,5.513108666666667,3,Jonas Valanciunas,Bird
+379,3.2,3,Dante Exum,Bird
+380,2.8846156666666665,3,Fred VanVleet,Early Bird
+381,2.14484,3,Ben Simmons,Rookie
+382,0.06551766666666667,3,Tim Frazier,Minimum
+383,8.0,3,Nicolas Batum,Bird
+385,2.7777776666666667,3,Joe Harris,Cap Space
+386,8.052434333333334,3,Giannis Antetokounmpo,Bird
+387,0.279488,3,Khyri Thomas,NT-MLE
+388,3.3624,3,Rudy Gay,Non-Bird
+389,0.16236966666666666,3,Jeremy Lin,Minimum
+390,6.5,3,Zach LaVine,Cap Space
+393,0.227887,3,Kenneth Faried,Minimum
+394,0.01994,3,Greg Monroe,Minimum
+396,0.5042003333333334,3,Isaiah Thomas,Minimum
+397,0.54808,3,Jacob Evans,Rookie
+398,0.8797713333333333,3,Jerian Grant,Rookie
+399,0.56788,3,Landry Shamet,Rookie
+400,2.319035,3,Al-Farouq Aminu,Cap Space
+401,0.5404716666666667,3,James Ennis III,Minimum
+402,1.779,3,DeMarcus Cousins,T-MLE
+403,10.0,3,Kevin Durant,Non-Bird
+404,1.12512,3,Shai Gilgeous-Alexander,Rookie
+405,6.699729333333333,3,Kyrie Irving,Bird
+407,3.0,3,Bogdan Bogdanovic,Cap Space
+408,0.459414,3,Dwayne Bacon,NT-MLE
+409,1.06872,3,Marquese Chriss,Rookie
+410,0.279488,3,Gary Trent Jr.,NT-MLE
+411,0.5042003333333334,3,Jonas Jerebko,Minimum
+412,8.039675,3,Kevin Love,Bird
+413,0.16217333333333334,3,John Jenkins,Minimum
+414,0.005697333333333334,3,Jordan McRae,Minimum
+415,1.38524,3,Frank Ntilikina,Rookie
+416,0.10254933333333334,3,Andrew Bogut,Minimum
+418,0.17405,3,Bruno Caboclo,Minimum
+420,1.0,3,Elfrid Payton,Bi-Annual
+421,1.12,3,Ekpe Udoh,Room
+422,0.033035666666666665,3,Walter Lemon Jr.,Minimum
+423,0.55572,3,Derrick White,Rookie
+424,0.015790333333333333,3,Isaac Humphries,Minimum
+425,10.1869,3,Paul George,Bird
+426,1.6666666666666667,3,Dirk Nowitzki,Cap Space
+428,2.3333333333333335,3,Ersan Ilyasova,NT-MLE
+429,0.5042003333333334,3,Channing Frye,Minimum
+431,0.8706,3,Zhaire Smith,Rookie
+432,4.597701,3,Clint Capela,Bird
+434,6.3899333333333335,3,John Wall,Bird
+435,0.5042003333333334,3,Shelvin Mack,Minimum
+437,4.0,3,Kentavious Caldwell-Pope,Non-Bird
+438,1.09176,3,Luke Kennard,Rookie
+439,4.906666666666666,3,JR Smith,Bird
+440,0.459414,3,Frank Mason,Cap Space
+442,1.55376,3,Dragan Bender,Rookie
+444,0.55984,3,Tony Bradley,Rookie
+445,1.1214163333333333,3,Trey Lyles,Rookie
+446,0.647474,3,Shabazz Napier,Cap Space
+447,0.54016,3,Omari Spellman,Rookie
+448,1.407,3,Kris Dunn,Rookie
+449,0.36461933333333335,3,Joakim Noah,Minimum
+451,6.815259666666667,3,Jimmy Butler,Bird
+452,0.5042003333333334,3,Derrick Rose,Minimum
+453,0.5042003333333334,3,Jeff Green,Minimum
+454,8.658703666666666,3,Jrue Holiday,Bird
+455,0.6666666666666666,3,Corey Brewer,Room
+457,1.6756756666666666,3,Patrick Beverley,Bird
+458,1.20964,3,Zach Collins,Rookie
+459,1.03716,3,Donovan Mitchell,Rookie
+460,4.305936,3,Mason Plumlee,Bird
+461,0.279488,3,Jarred Vanderbilt,Cap Space
+462,10.404765,3,Gordon Hayward,Cap Space
+463,0.005697333333333334,3,Eric Moreland,Minimum
+464,7.196969666666667,3,Aaron Gordon,Bird
+465,3.3333333333333335,3,Danny Green,Bird
+466,0.329488,3,Devonte' Graham,NT-MLE
+467,0.11394366666666667,3,Henry Ellenson,Minimum
+468,0.14993133333333333,3,Edmond Sumner,Minimum
+469,0.5042003333333334,3,Christian Wood,Minimum
+470,4.045842333333334,3,Kelly Olynyk,Cap Space
+471,0.04557733333333333,3,Jodie Meeks,Minimum
+472,0.93596,3,Justin Jackson,Rookie
+473,0.008545666666666667,3,Deyonta Davis,Minimum
+474,0.5042003333333334,3,Treveon Graham,Minimum
+475,9.246658333333333,3,DeMar DeRozan,Bird
+478,0.5042003333333334,3,Udonis Haslem,Minimum
+481,1.27792,3,Buddy Hield,Rookie
+482,1.23695,3,J.J. Barea,Cap Space
+483,0.5042003333333334,3,Jose Calderon,Minimum
+484,4.166666666666667,3,Miles Plumlee,Bird
+488,0.279488,3,Ryan Broekhoff,Cap Space
+492,3.8869053333333334,3,Marcus Smart,Bird
+494,0.84228,3,Dario Saric,Rookie
+495,5.666666666666667,3,Bismack Biyombo,Cap Space
+496,1.483,3,Ed Davis,Room
+497,0.5223356666666666,3,Jahlil Okafor,Minimum
+498,0.111095,3,Pau Gasol,Minimum
+499,0.5149836666666666,3,Jake Layman,Cap Space
+500,0.5042003333333334,3,Kevon Looney,Minimum
+501,0.459414,3,Sindarius Thornwell,NT-MLE
+502,7.6324,3,DeAndre Jordan,Cap Space
+503,4.348485,3,Joe Ingles,Bird
+504,0.63732,3,Aaron Holiday,Rookie
+505,8.489083333333333,3,Nikola Jokic,Bird
+507,0.78572,3,Lonnie Walker IV,Rookie
+508,1.8172,3,Patrick Patterson,T-MLE
+509,4.8839,3,James Johnson,Cap Space
+510,0.01994,3,Michael Carter-Williams,Minimum
+513,3.9166666666666665,3,T.J. Warren,Bird
+514,1.91904,3,Brandon Ingram,Rookie
+515,0.66384,3,Chandler Hutchison,Rookie

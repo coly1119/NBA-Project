@@ -1,0 +1,94 @@
+---
+title: "NBA Ridge"
+author: "Willis Lu"
+date: "4/6/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(broom)
+library(glmnet)
+```
+
+Manipulate Dataset a little.
+```{r}
+nba1819 <- read.csv("../data/finalds.csv")
+nba1819$rating <- -1*nba1819$rating
+
+set.seed(123)
+train_ind = sample(seq_len(nrow(nba1819)),size = floor(0.75*nrow(nba1819)))
+train = nba1819[train_ind,]
+test = nba1819[-train_ind,]
+
+y <- train$coefs
+x <- train %>% select(rating, mu) %>% data.matrix()
+
+ytest <- test$coefs
+xtest <- test %>% select(rating, mu) %>% data.matrix()
+
+xall <- nba1819 %>% select(rating, mu) %>% data.matrix()
+yall <-nba1819$coefs
+```
+
+Ridge Regression
+```{r}
+lambdas <- 10^seq(3, -2, by = -.1)
+fit <- glmnet(x,y, alpha=0, lambda = lambdas)
+summary(fit)
+
+cv_fit <- cv.glmnet(x,y,alpha=0)
+plot(cv_fit)
+
+lambda1se <- cv_fit$lambda.1se
+lambdamin <- cv_fit$lambda.min
+
+ridge_reg <- cv_fit$glmnet.fit
+```
+
+
+Prediction Accuracy Train
+```{r}
+ypred <- predict(ridge_reg, s=lambdamin, newx = x)
+sst <- sum((y-mean(y))^2)
+sse <- sum((ypred-y)^2)
+
+R2 <- 1 - sse / sst
+R2
+
+RMSE = sqrt(sse/nrow(x))
+RMSE
+```
+
+Prediction Accuracy Test
+```{r}
+ypredtest <- predict(ridge_reg, s=lambdamin, newx = xtest)
+sst <- sum((ytest-mean(ytest))^2)
+sse <- sum((ypredtest-ytest)^2)
+
+R2 <- 1 - sse / sst
+R2
+
+RMSE = sqrt(sse/nrow(x))
+RMSE
+```
+
+Using our Ridge formulation to create a prior for each player.
+```{r}
+finalpriors <- predict(ridge_reg, s=lambdamin, newx=xall)
+
+#error metrics
+sst <- sum((yall-mean(yall))^2)
+sse <- sum((finalpriors-yall)^2)
+
+R2 <- 1 - sse / sst
+R2
+
+RMSE = sqrt(sse/nrow(x))
+RMSE
+```
+```{r}
+nba1819$finalpriors <- finalpriors
+write.csv(nba1819, "Ridge_Priors.csv", row.names = FALSE)
+```
+

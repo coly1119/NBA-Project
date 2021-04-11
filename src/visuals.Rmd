@@ -1,0 +1,67 @@
+---
+title: "visuals"
+output: pdf_document
+---
+
+Contracts data:
+
+```{r}
+library(ggplot2)
+contracts <- read.csv("../data/contract_all.csv")
+length(unique(contracts$Name))
+length(unique(contracts$Team))
+head(contracts)
+```
+
+Graphic of Avg salary by year:
+```{r, warning = F}
+library(dplyr)
+
+contracts$Contract.Value <- as.numeric(gsub('[$,]', '', 
+                                            contracts$Contract.Value))
+
+mean_val_year <- contracts %>% group_by(Year) %>%
+  summarize(mean(Contract.Value))
+
+names(mean_val_year) <- c("Year", "Mean") 
+sal_plot <- ggplot(mean_val_year, aes(x = Year, y = Mean)) + 
+  geom_bar(stat="identity", fill = "blue") + 
+  ylab("Mean Salary (Unadjusted USD)") + 
+  ggtitle("Mean Salary by Season")
+sal_plot
+```
+
+# Games Data
+```{r}
+games <- read.csv("../data/nba_elo.csv")
+
+#head(games)
+games <- games[games$season >=1990 & games$season <= 2020,
+               c("season", "team1", "team2", "score1", "score2")]
+
+
+home_score_plot <- ggplot(games, aes(x = score1)) + 
+  geom_histogram(fill = "blue", binwidth = 5) + 
+  xlab("Points Scored") + ylab("Count") +
+  ggtitle("Distribution of Home Points Scored")
+
+away_score_plot <- ggplot(games, aes(x = score2)) + 
+  geom_histogram(fill = "red", binwidth = 5) + 
+  xlab("Points Scored") + ylab("Count") +
+  ggtitle("Distribution of Away Points Scored")
+home_score_plot
+away_score_plot
+```
+
+Shifts Data:
+```{r}
+shifts <- read.csv("../data/shifts_data_final_2018_19.csv")
+head(shifts)
+
+diff_score_plot <- ggplot(shifts, aes(x = point_diff_per_100*100)) + 
+  geom_histogram(fill = "blue", binwidth = 20) + 
+  xlab("Point Differential") + ylab("Count") +
+  ggtitle("Distribution of Point Differential, 2018-2019 Season")
+
+diff_score_plot
+```

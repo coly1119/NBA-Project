@@ -1,0 +1,536 @@
+,rating,Team,mu,sd,name
+0,13.21905832,Houston Rockets,8.199831667,5,Chris Paul
+1,13.21905832,Houston Rockets,0.778173333,5,Clint Capela
+2,13.21905832,Houston Rockets,4.31434,5,Eric Gordon
+3,13.21905832,Houston Rockets,0.066666667,5,Isaiah Canaan
+4,13.21905832,Houston Rockets,9.433133,5,James Harden
+5,13.21905832,Houston Rockets,0.705651667,5,Luc Mbah a Moute
+6,13.21905832,Houston Rockets,6.526151667,5,Ryan Anderson
+7,13.21905832,Houston Rockets,2.473637333,5,Trevor Ariza
+8,13.21905832,Houston Rockets,0.490460667,5,Troy Williams
+9,13.21905832,Houston Rockets,0.271871667,5,Zhou Qi
+10,12.68894695,Golden State Warriors,4.938271667,5,Andre Iguodala
+11,12.68894695,Golden State Warriors,0.437537,5,Damian Jones
+12,12.68894695,Golden State Warriors,5.466666667,5,Draymond Green
+13,12.68894695,Golden State Warriors,0.705651667,5,JaVale McGee
+14,12.68894695,Golden State Warriors,0.271871667,5,Jordan Bell
+15,12.68894695,Golden State Warriors,8.333333333,5,Kevin Durant
+16,12.68894695,Golden State Warriors,0.490460667,5,Kevon Looney
+17,12.68894695,Golden State Warriors,5.94205,5,Klay Thompson
+18,12.68894695,Golden State Warriors,1.730666667,5,Nick Young
+19,12.68894695,Golden State Warriors,0.702156667,5,Omri Casspi
+20,12.68894695,Golden State Warriors,0.437537,5,Patrick McCaw
+21,12.68894695,Golden State Warriors,2.564102667,5,Shaun Livingston
+22,12.68894695,Golden State Warriors,11.56085,5,Stephen Curry
+23,12.68894695,Golden State Warriors,1.1592,5,Zaza Pachulia
+24,9.70057401,Philadelphia 76ers,3.666666667,5,Amir Johnson
+25,9.70057401,Philadelphia 76ers,2.05628,5,Ben Simmons
+26,9.70057401,Philadelphia 76ers,0.80752,5,Dario Saric
+27,9.70057401,Philadelphia 76ers,0.48864,5,Furkan Korkmaz
+28,9.70057401,Philadelphia 76ers,1.66504,5,Jahlil Okafor
+29,9.70057401,Philadelphia 76ers,3,5,Jerryd Bayless
+30,9.70057401,Philadelphia 76ers,2.033422,5,Joel Embiid
+31,9.70057401,Philadelphia 76ers,0.52648,5,Justin Anderson
+32,9.70057401,Philadelphia 76ers,2.34208,5,Markelle Fultz
+33,9.70057401,Philadelphia 76ers,1.269048667,5,Nik Stauskas
+34,9.70057401,Philadelphia 76ers,0.490460667,5,Richaun Holmes
+35,9.70057401,Philadelphia 76ers,5.566034333,5,Robert Covington
+36,9.70057401,Philadelphia 76ers,0.490460667,5,T.J. McConnell
+37,9.70057401,Philadelphia 76ers,0.4622,5,Timothe Luwawu-Cabarrot
+38,9.675652863,Utah Jazz,3.615168667,5,Alec Burks
+39,9.675652863,Utah Jazz,1.664128333,5,Dante Exum
+40,9.675652863,Utah Jazz,4,5,Derrick Favors
+41,9.675652863,Utah Jazz,0.87376,5,Donovan Mitchell
+42,9.675652863,Utah Jazz,1.066666667,5,Ekpe Udoh
+43,9.675652863,Utah Jazz,4.712121333,5,Joe Ingles
+44,9.675652863,Utah Jazz,1.333333333,5,Jonas Jerebko
+45,9.675652863,Utah Jazz,0.490460667,5,Raul Neto
+46,9.675652863,Utah Jazz,4.758333333,5,Ricky Rubio
+47,9.675652863,Utah Jazz,0.795621333,5,Rodney Hood
+48,9.675652863,Utah Jazz,7.324906333,5,Rudy Gobert
+49,9.675652863,Utah Jazz,1.75,5,Thabo Sefolosha
+50,9.675652863,Utah Jazz,0.47164,5,Tony Bradley
+51,8.526489449,Oklahoma City Thunder,1.908333333,5,Alex Abrines
+52,8.526489449,Oklahoma City Thunder,8.74792,5,Carmelo Anthony
+53,8.526489449,Oklahoma City Thunder,0.508101667,5,Jerami Grant
+54,8.526489449,Oklahoma City Thunder,1.730666667,5,Patrick Patterson
+55,8.526489449,Oklahoma City Thunder,6.502986,5,Paul George
+56,8.526489449,Oklahoma City Thunder,0.776217333,5,Raymond Felton
+57,8.526489449,Oklahoma City Thunder,9.510202667,5,Russell Westbrook
+58,8.526489449,Oklahoma City Thunder,7.490636667,5,Steven Adams
+59,8.526489449,Oklahoma City Thunder,0.595,5,Terrance Ferguson
+60,8.267971906,Boston Celtics,0.389111,5,Abdel Nader
+61,8.267971906,Boston Celtics,9.244801667,5,Al Horford
+62,8.267971906,Boston Celtics,1.442666667,5,Aron Baynes
+63,8.267971906,Boston Celtics,0.271871667,5,Daniel Theis
+64,8.267971906,Boston Celtics,0.030952667,5,Demetrius Jackson
+65,8.267971906,Boston Celtics,9.9093,5,Gordon Hayward
+66,8.267971906,Boston Celtics,0.74916,5,Guerschon Yabusele
+67,8.267971906,Boston Celtics,1.65216,5,Jaylen Brown
+68,8.267971906,Boston Celtics,1.8818,5,Jayson Tatum
+69,8.267971906,Boston Celtics,6.289541667,5,Kyrie Irving
+70,8.267971906,Boston Celtics,1.666666667,5,Marcus Morris
+71,8.267971906,Boston Celtics,1.512673333,5,Marcus Smart
+72,8.267971906,Boston Celtics,0.430630667,5,Semi Ojeleye
+73,8.267971906,Boston Celtics,0.66284,5,Terry Rozier
+74,8.012503388,San Antonio Spurs,0.437537,5,Bryn Forbes
+75,8.012503388,San Antonio Spurs,3.333333333,5,Danny Green
+76,8.012503388,San Antonio Spurs,0.437537,5,Davis Bertans
+77,8.012503388,San Antonio Spurs,0.4682,5,Derrick White
+78,8.012503388,San Antonio Spurs,6.289541667,5,Kawhi Leonard
+79,8.012503388,San Antonio Spurs,0.717234667,5,Kyle Anderson
+80,8.012503388,San Antonio Spurs,7.15367,5,LaMarcus Aldridge
+81,8.012503388,San Antonio Spurs,3.571428667,5,Patty Mills
+82,8.012503388,San Antonio Spurs,5.333333333,5,Pau Gasol
+83,8.012503388,San Antonio Spurs,2.802,5,Rudy Gay
+84,8.012503388,San Antonio Spurs,5.151042,5,Tony Parker
+85,7.507833506,Minnesota Timberwolves,2.524774,5,Andrew Wiggins
+86,7.507833506,Minnesota Timberwolves,4.70412,5,Gorgui Dieng
+87,7.507833506,Minnesota Timberwolves,3.647587333,5,Jamal Crawford
+88,7.507833506,Minnesota Timberwolves,6.333333333,5,Jeff Teague
+89,7.507833506,Minnesota Timberwolves,6.43369,5,Jimmy Butler
+90,7.507833506,Minnesota Timberwolves,0.74916,5,Justin Patton
+91,7.507833506,Minnesota Timberwolves,2.07228,5,Karl-Anthony Towns
+92,7.507833506,Minnesota Timberwolves,1.316666333,5,Nemanja Bjelica
+93,7.507833506,Minnesota Timberwolves,4.666666667,5,Taj Gibson
+94,7.507833506,Minnesota Timberwolves,0.490460667,5,Tyus Jones
+95,7.476474607,Portland Trail Blazers,2.439678333,5,Al-Farouq Aminu
+96,7.476474607,Portland Trail Blazers,0.48864,5,Caleb Swanigan
+97,7.476474607,Portland Trail Blazers,8.717685667,5,Damian Lillard
+98,7.476474607,Portland Trail Blazers,2.117510333,5,Ed Davis
+99,7.476474607,Portland Trail Blazers,5.710382667,5,Evan Turner
+100,7.476474607,Portland Trail Blazers,0.437537,5,Jake Layman
+101,7.476474607,Portland Trail Blazers,0.982435,5,Jusuf Nurkic
+102,7.476474607,Portland Trail Blazers,3.387640667,5,Maurice Harkless
+103,7.476474607,Portland Trail Blazers,3.301498333,5,Meyers Leonard
+104,7.476474607,Portland Trail Blazers,1.168411,5,Noah Vonleh
+105,7.476474607,Portland Trail Blazers,0.490460667,5,Pat Connaughton
+106,7.476474607,Portland Trail Blazers,0.78712,5,Shabazz Napier
+107,7.476474607,Portland Trail Blazers,1.01908,5,Zach Collins
+108,7.100591941,New Orleans Pelicans,7.925168667,5,Anthony Davis
+109,7.100591941,New Orleans Pelicans,0.437537,5,Cheick Diallo
+110,7.100591941,New Orleans Pelicans,0.766666667,5,Dante Cunningham
+111,7.100591941,New Orleans Pelicans,0.7,5,Darius Miller
+112,7.100591941,New Orleans Pelicans,6.021283333,5,DeMarcus Cousins
+113,7.100591941,New Orleans Pelicans,0.271871667,5,Frank Jackson
+114,7.100591941,New Orleans Pelicans,0.525743333,5,Ian Clark
+115,7.100591941,New Orleans Pelicans,8.562222333,5,Jrue Holiday
+116,7.100591941,New Orleans Pelicans,0.033333333,5,Quinn Cook
+117,7.100591941,New Orleans Pelicans,1.1,5,Rajon Rondo
+118,7.100591941,New Orleans Pelicans,4.078845,5,Solomon Hill
+119,6.91526888,Indiana Pacers,3.5,5,Bojan Bogdanovic
+120,6.91526888,Indiana Pacers,2.543333333,5,Cory Joseph
+121,6.91526888,Indiana Pacers,3.333333333,5,Darren Collison
+122,6.91526888,Indiana Pacers,0.85,5,Domantas Sabonis
+123,6.91526888,Indiana Pacers,0.033333333,5,Georges Niang
+124,6.91526888,Indiana Pacers,0.316666667,5,Ike Anigbogu
+125,6.91526888,Indiana Pacers,1.393333333,5,Lance Stephenson
+126,6.91526888,Indiana Pacers,0.85664,5,Myles Turner
+127,6.91526888,Indiana Pacers,4.932116,5,Thaddeus Young
+128,6.91526888,Indiana Pacers,7,5,Victor Oladipo
+129,6.899803629,Denver Nuggets,1.12716,5,Emmanuel Mudiay
+130,6.899803629,Denver Nuggets,0.850018333,5,Gary Harris
+131,6.899803629,Denver Nuggets,1.11844,5,Jamal Murray
+132,6.899803629,Denver Nuggets,4.307116,5,Kenneth Faried
+133,6.899803629,Denver Nuggets,0.56688,5,Malik Beasley
+134,6.899803629,Denver Nuggets,4.680365333,5,Mason Plumlee
+135,6.899803629,Denver Nuggets,0.490460667,5,Nikola Jokic
+136,6.899803629,Denver Nuggets,10.423077,5,Paul Millsap
+137,6.899803629,Denver Nuggets,0.8138,5,Trey Lyles
+138,6.899803629,Denver Nuggets,0.52648,5,Tyler Lydon
+139,6.899803629,Denver Nuggets,1.177777667,5,Will Barton
+140,6.899803629,Denver Nuggets,4.005618,5,Wilson Chandler
+141,6.065728513,Washington Wizards,7.925168667,5,Bradley Beal
+142,6.065728513,Washington Wizards,5.553880333,5,Ian Mahinmi
+143,6.065728513,Washington Wizards,1.741666667,5,Jason Smith
+144,6.065728513,Washington Wizards,1.096666667,5,Jodie Meeks
+145,6.065728513,Washington Wizards,6.021283333,5,John Wall
+146,6.065728513,Washington Wizards,4.260869667,5,Marcin Gortat
+147,6.065728513,Washington Wizards,2.666666667,5,Markieff Morris
+148,6.065728513,Washington Wizards,0.569846,5,Mike Scott
+149,6.065728513,Washington Wizards,0.666666667,5,Tim Frazier
+150,6.065728513,Washington Wizards,1,5,Tomas Satoransky
+151,5.484227899,Los Angeles Clippers,3.941666667,5,Austin Rivers
+152,5.484227899,Los Angeles Clippers,9.837633333,5,Blake Griffin
+153,5.484227899,Los Angeles Clippers,6.853199667,5,Danilo Gallinari
+154,5.484227899,Los Angeles Clippers,7.54745,5,DeAndre Jordan
+155,5.484227899,Los Angeles Clippers,0.271871667,5,Jawun Evans
+156,5.484227899,Los Angeles Clippers,2.333333333,5,Lou Williams
+157,5.484227899,Los Angeles Clippers,2,5,Milos Teodosic
+158,5.484227899,Los Angeles Clippers,0.490460667,5,Montrezl Harrell
+159,5.484227899,Los Angeles Clippers,1.837838,5,Patrick Beverley
+160,5.484227899,Los Angeles Clippers,0.5982,5,Sam Dekker
+161,5.484227899,Los Angeles Clippers,0.271871667,5,Sindarius Thornwell
+162,5.484227899,Los Angeles Clippers,1.96042,5,Wesley Johnson
+163,5.37038963,Charlotte Hornets,4.194756667,5,Cody Zeller
+164,5.37038963,Charlotte Hornets,0.271871667,5,Dwayne Bacon
+165,5.37038963,Charlotte Hornets,7.833333333,5,Dwight Howard
+166,5.37038963,Charlotte Hornets,0.9492,5,Frank Kaminsky
+167,5.37038963,Charlotte Hornets,2.333333333,5,Jeremy Lamb
+168,5.37038963,Charlotte Hornets,4,5,Kemba Walker
+169,5.37038963,Charlotte Hornets,0.96816,5,Malik Monk
+170,5.37038963,Charlotte Hornets,4.389583333,5,Marvin Williams
+171,5.37038963,Charlotte Hornets,0.9,5,Michael Carter-Williams
+172,5.37038963,Charlotte Hornets,4.333333333,5,Michael Kidd-Gilchrist
+173,5.37038963,Charlotte Hornets,7.478261,5,Nicolas Batum
+174,5.37038963,Charlotte Hornets,0.437537,5,Treveon Graham
+175,5.129756323,Miami Heat,0.83012,5,Bam Adebayo
+176,5.129756323,Miami Heat,3.666666667,5,Dion Waiters
+177,5.129756323,Miami Heat,5.666816667,5,Goran Dragic
+178,5.129756323,Miami Heat,7.925168667,5,Hassan Whiteside
+179,5.129756323,Miami Heat,4.651333333,5,James Johnson
+180,5.129756323,Miami Heat,0.490460667,5,Josh Richardson
+181,5.129756323,Miami Heat,0.90168,5,Justise Winslow
+182,5.129756323,Miami Heat,3.535723,5,Kelly Olynyk
+183,5.129756323,Miami Heat,0.437537,5,Okaro White
+184,5.129756323,Miami Heat,0.437537,5,Rodney McGruder
+185,5.129756323,Miami Heat,1.96042,5,Tyler Johnson
+186,5.129756323,Miami Heat,0.776217333,5,Udonis Haslem
+187,5.129756323,Miami Heat,2.09,5,Wayne Ellington
+188,5.107920036,Milwaukee Bucks,0.71168,5,D.J. Wilson
+189,5.107920036,Milwaukee Bucks,4.833333333,5,Eric Bledsoe
+190,5.107920036,Milwaukee Bucks,7.490636667,5,Giannis Antetokounmpo
+191,5.107920036,Milwaukee Bucks,2.260797333,5,Jabari Parker
+192,5.107920036,Milwaukee Bucks,3.807512,5,John Henson
+193,5.107920036,Milwaukee Bucks,4.7,5,Khris Middleton
+194,5.107920036,Milwaukee Bucks,0.437537,5,Malcolm Brogdon
+195,5.107920036,Milwaukee Bucks,3.2025,5,Matthew Dellavedova
+196,5.107920036,Milwaukee Bucks,0.271871667,5,Sterling Brown
+197,5.107920036,Milwaukee Bucks,0.89472,5,Thon Maker
+198,5.107920036,Milwaukee Bucks,3.273809667,5,Tony Snell
+199,5.049265225,Detroit Pistons,7.925168667,5,Andre Drummond
+200,5.049265225,Detroit Pistons,1.096666667,5,Anthony Tolliver
+201,5.049265225,Detroit Pistons,2.936329667,5,Avery Bradley
+202,5.049265225,Detroit Pistons,2.333333333,5,Boban Marjanovic
+203,5.049265225,Detroit Pistons,0.579777667,5,Eric Moreland
+204,5.049265225,Detroit Pistons,0.5936,5,Henry Ellenson
+205,5.049265225,Detroit Pistons,2,5,Ish Smith
+206,5.049265225,Detroit Pistons,3.499106333,5,Jon Leuer
+207,5.049265225,Detroit Pistons,2.222222333,5,Langston Galloway
+208,5.049265225,Detroit Pistons,0.91976,5,Luke Kennard
+209,5.049265225,Detroit Pistons,0.833333333,5,Reggie Bullock
+210,5.049265225,Detroit Pistons,5.333333333,5,Reggie Jackson
+211,5.049265225,Detroit Pistons,1.0326,5,Stanley Johnson
+212,5.049265225,Detroit Pistons,5.333333333,5,Tobias Harris
+213,3.900598636,Los Angeles Lakers,0.776217333,5,Andrew Bogut
+214,3.900598636,Los Angeles Lakers,1.8398,5,Brandon Ingram
+215,3.900598636,Los Angeles Lakers,7.54745,5,Brook Lopez
+216,3.900598636,Los Angeles Lakers,2.526455333,5,Corey Brewer
+217,3.900598636,Los Angeles Lakers,0.437537,5,Ivica Zubac
+218,3.900598636,Los Angeles Lakers,3.854166667,5,Jordan Clarkson
+219,3.900598636,Los Angeles Lakers,0.46484,5,Josh Hart
+220,3.900598636,Los Angeles Lakers,1.383080667,5,Julius Randle
+221,3.900598636,Los Angeles Lakers,5.915298,5,Kentavious Caldwell-Pope
+222,3.900598636,Los Angeles Lakers,0.47452,5,Kyle Kuzma
+223,3.900598636,Los Angeles Lakers,2.09552,5,Lonzo Ball
+224,3.900598636,Los Angeles Lakers,5.73,5,Luol Deng
+225,3.900598636,Los Angeles Lakers,0.271871667,5,Thomas Bryant
+226,2.634309708,Dallas Mavericks,1.467515333,5,Devin Harris
+227,2.634309708,Dallas Mavericks,1.666666667,5,Dirk Nowitzki
+228,2.634309708,Dallas Mavericks,0.437537,5,Dorian Finney-Smith
+229,2.634309708,Dallas Mavericks,3.001041667,5,Dwight Powell
+230,2.634309708,Dallas Mavericks,7.704001333,5,Harrison Barnes
+231,2.634309708,Dallas Mavericks,1.3013,5,J.J. Barea
+232,2.634309708,Dallas Mavericks,0.271871667,5,Maxi Kleber
+233,2.634309708,Dallas Mavericks,1.395866333,5,Nerlens Noel
+234,2.634309708,Dallas Mavericks,0.490460667,5,Salah Mejri
+235,2.634309708,Dallas Mavericks,1.00947,5,Seth Curry
+236,2.634309708,Dallas Mavericks,5.961392,5,Wesley Matthews
+237,2.634309708,Dallas Mavericks,0.437537,5,Yogi Ferrell
+238,1.767519876,New York Knicks,0.437537,5,Chasson Randle
+239,1.767519876,New York Knicks,3.915963333,5,Courtney Lee
+240,1.767519876,New York Knicks,0.366666667,5,Damyean Dotson
+241,1.767519876,New York Knicks,1.098331333,5,Doug McDermott
+242,1.767519876,New York Knicks,6.855600667,5,Enes Kanter
+243,1.767519876,New York Knicks,1.16704,5,Frank Ntilikina
+244,1.767519876,New York Knicks,5.921666667,5,Joakim Noah
+245,1.767519876,New York Knicks,2.218441667,5,Lance Thomas
+246,1.767519876,New York Knicks,0.705651667,5,Michael Beasley
+247,1.767519876,New York Knicks,1.442666667,5,Ron Baker
+248,1.767519876,New York Knicks,0.478583333,5,Willy Hernangomez
+249,1.628278788,Brooklyn Nets,6.444166667,5,Allen Crabbe
+250,1.628278788,Brooklyn Nets,0.54416,5,Caris LeVert
+251,1.628278788,Brooklyn Nets,4.933333333,5,DeMarre Carroll
+252,1.628278788,Brooklyn Nets,0.57124,5,Jarrett Allen
+253,1.628278788,Brooklyn Nets,4,5,Jeremy Lin
+254,1.628278788,Brooklyn Nets,0.508101667,5,Joe Harris
+255,1.628278788,Brooklyn Nets,0.569846,5,Quincy Acy
+256,1.628278788,Brooklyn Nets,0.490460667,5,Rondae Hollis-Jefferson
+257,1.628278788,Brooklyn Nets,0.508101667,5,Spencer Dinwiddie
+258,1.628278788,Brooklyn Nets,0.569846,5,Tyler Zeller
+259,0.394281214,Orlando Magic,1.834806667,5,Aaron Gordon
+260,0.394281214,Orlando Magic,5.666666667,5,Bismack Biyombo
+261,0.394281214,Orlando Magic,2.416666667,5,D.J. Augustin
+262,0.394281214,Orlando Magic,1.11078,5,Elfrid Payton
+263,0.394281214,Orlando Magic,5.666666667,5,Evan Fournier
+264,0.394281214,Orlando Magic,1.39544,5,Jonathan Isaac
+265,0.394281214,Orlando Magic,2.1,5,Jonathon Simmons
+266,0.394281214,Orlando Magic,0.271871667,5,Khem Birch
+267,0.394281214,Orlando Magic,1.35944,5,Mario Hezonja
+268,0.394281214,Orlando Magic,4.083333333,5,Nikola Vucevic
+269,0.394281214,Orlando Magic,2,5,Shelvin Mack
+270,0.394281214,Orlando Magic,3.5,5,Terrence Ross
+271,-0.49881092,Memphis Grizzlies,0.437537,5,Andrew Harrison
+272,-0.49881092,Memphis Grizzlies,1.733333333,5,Ben McLemore
+273,-0.49881092,Memphis Grizzlies,7.704001333,5,Chandler Parsons
+274,-0.49881092,Memphis Grizzlies,0.437537,5,Deyonta Davis
+275,-0.49881092,Memphis Grizzlies,0.271871667,5,Dillon Brooks
+276,-0.49881092,Memphis Grizzlies,0.316666667,5,Ivan Rabb
+277,-0.49881092,Memphis Grizzlies,2.844444333,5,JaMychal Green
+278,-0.49881092,Memphis Grizzlies,0.490460667,5,Jarell Martin
+279,-0.49881092,Memphis Grizzlies,7.54745,5,Marc Gasol
+280,-0.49881092,Memphis Grizzlies,9.510202667,5,Mike Conley
+281,-0.49881092,Memphis Grizzlies,1.096666667,5,Tyreke Evans
+282,-0.49881092,Memphis Grizzlies,0.437537,5,Wayne Selden
+283,-1.257988701,Sacramento Kings,1.096666667,5,Anthony Tolliver
+284,-1.257988701,Sacramento Kings,3.156871333,5,Bogdan Bogdanovic
+285,-1.257988701,Sacramento Kings,1.22516,5,Buddy Hield
+286,-1.257988701,Sacramento Kings,0.394795,5,Frank Mason
+287,-1.257988701,Sacramento Kings,2.666666667,5,Garrett Temple
+288,-1.257988701,Sacramento Kings,6.666666667,5,George Hill
+289,-1.257988701,Sacramento Kings,0.78852,5,Justin Jackson
+290,-1.257988701,Sacramento Kings,2.797666667,5,Kosta Koufos
+291,-1.257988701,Sacramento Kings,0.50152,5,Malachi Richardson
+292,-1.257988701,Sacramento Kings,0.437537,5,Skal Labissiere
+293,-1.257988701,Sacramento Kings,2.666666667,5,Vince Carter
+294,-1.257988701,Sacramento Kings,1.23472,5,Willie Cauley-Stein
+295,-1.539041969,Chicago Bulls,0.50544,5,Bobby Portis
+296,-1.539041969,Chicago Bulls,0.73448,5,Cameron Payne
+297,-1.539041969,Chicago Bulls,2.6145,5,Cristiano Felicio
+298,-1.539041969,Chicago Bulls,0.437537,5,David Nwaba
+299,-1.539041969,Chicago Bulls,5.183333333,5,Dwyane Wade
+300,-1.539041969,Chicago Bulls,0.066666667,5,Isaiah Canaan
+301,-1.539041969,Chicago Bulls,0.57128,5,Jerian Grant
+302,-1.539041969,Chicago Bulls,1.538461667,5,Justin Holiday
+303,-1.539041969,Chicago Bulls,1.34892,5,Kris Dunn
+304,-1.539041969,Chicago Bulls,1.27388,5,Lauri Markkanen
+305,-1.539041969,Chicago Bulls,4.166666667,5,Nikola Mirotic
+306,-1.539041969,Chicago Bulls,1.284643667,5,Quincy Pondexter
+307,-1.539041969,Chicago Bulls,1.1,5,Rajon Rondo
+308,-1.539041969,Chicago Bulls,4.596166667,5,Robin Lopez
+309,-1.539041969,Chicago Bulls,1.067405667,5,Zach LaVine
+310,-3.470284758,Phoenix Suns,2,5,Alan Williams
+311,-3.470284758,Phoenix Suns,1.395866333,5,Alex Len
+312,-3.470284758,Phoenix Suns,4.539583333,5,Brandon Knight
+313,-3.470284758,Phoenix Suns,0.271871667,5,Davon Reed
+314,-3.470284758,Phoenix Suns,0.77312,5,Devin Booker
+315,-3.470284758,Phoenix Suns,1.4896,5,Dragan Bender
+316,-3.470284758,Phoenix Suns,5.961392,5,Greg Monroe
+317,-3.470284758,Phoenix Suns,3.333333333,5,Jared Dudley
+318,-3.470284758,Phoenix Suns,1.69668,5,Josh Jackson
+319,-3.470284758,Phoenix Suns,1.0246,5,Marquese Chriss
+320,-3.470284758,Phoenix Suns,1.050977,5,T.J. Warren
+321,-3.470284758,Phoenix Suns,1.136173333,5,Troy Daniels
+322,-3.470284758,Phoenix Suns,0.437537,5,Tyler Ulis
+323,-3.470284758,Phoenix Suns,4.333333333,5,Tyson Chandler
+324,,Toronto Raptors ,0.271871667,5,Alfonzo McKinnie
+325,,Toronto Raptors ,0.817075,5,Bruno Caboclo
+326,,Toronto Raptors ,0.5484,5,Delon Wright
+327,,Toronto Raptors ,9.246658333,5,DeMar DeRozan
+328,,Toronto Raptors ,0.437537,5,Fred VanVleet
+329,,Toronto Raptors ,0.94188,5,Jakob Poeltl
+330,,Toronto Raptors ,5.153558333,5,Jonas Valanciunas
+331,,Toronto Raptors ,9.567901333,5,Kyle Lowry
+332,,Toronto Raptors ,0.490460667,5,Norman Powell
+333,,Toronto Raptors ,0.5484,5,OG Anunoby
+334,,Toronto Raptors ,0.437537,5,Pascal Siakam
+335,,Toronto Raptors ,6.687243,5,Serge Ibaka
+336,,Cleveland Caveliers,0.5484,5,Ante Zizic
+337,,Cleveland Caveliers,0.880952333,5,Cedi Osman
+338,,Cleveland Caveliers,2.473637333,5,Channing Frye
+339,,Cleveland Caveliers,0.705651667,5,Derrick Rose
+340,,Cleveland Caveliers,5.183333333,5,Dwyane Wade
+341,,Cleveland Caveliers,3.445693,5,Iman Shumpert
+342,,Cleveland Caveliers,2.087131667,5,Isaiah Thomas
+343,,Cleveland Caveliers,2.265372333,5,Jae Crowder
+344,,Cleveland Caveliers,0.705651667,5,Jeff Green
+345,,Cleveland Caveliers,0.776217333,5,Jose Calderon
+346,,Cleveland Caveliers,7.54745,5,Kevin Love
+347,,Cleveland Caveliers,2.333333333,5,Kyle Korver
+348,,Cleveland Caveliers,11.09523633,5,LeBron James
+349,,Cleveland Caveliers,5.466666667,5,Tristan Thompson
+350,,Atlanta Hawks,5.166666667,5,Dennis Schroder
+351,,Atlanta Hawks,2,5,Dewayne Dedmon
+352,,Atlanta Hawks,2,5,Ersan Ilyasova
+353,,Atlanta Hawks,3.647587333,5,Jamal Crawford
+354,,Atlanta Hawks,0.64564,5,John Collins
+355,,Atlanta Hawks,5.636704333,5,Kent Bazemore
+356,,Atlanta Hawks,2.20202,5,Marco Belinelli
+357,,Atlanta Hawks,1.666666667,5,Mike Muscala
+358,,Atlanta Hawks,4.166666667,5,Miles Plumlee
+359,,Atlanta Hawks,0.033333333,5,Quinn Cook
+360,,Atlanta Hawks,0.016666667,5,Tyler Cavanaugh
+361,,Atlanta Hawks,0.271871667,5,Tyler Dorsey
+362,,,0,5,Damion Lee
+363,,,0,5,Miles Bridges
+364,,,0,5,Trae Young
+365,,,0,5,Jaylen Adams
+366,,,0,5,Rodions Kurucs
+367,,,0,5,Otto Porter Jr.
+368,,,0,5,Kenrich Williams
+369,,,0,5,E'Twaun Moore
+370,,,0,5,Deandre Ayton
+371,,,0,5,De'Anthony Melton
+372,,,0,5,Mikal Bridges
+373,,,0,5,Elie Okobo
+374,,,0,5,Harry Giles III
+375,,,0,5,De'Aaron Fox
+376,,,0,5,Alex Caruso
+377,,,0,5,Nene
+378,,,0,5,Gerald Green
+379,,,0,5,Kevin Knox
+380,,,0,5,Isaac Bonga
+381,,,0,5,Luka Doncic
+382,,,0,5,Jalen Brunson
+383,,,0,5,Deng Adel
+384,,,0,5,Grayson Allen
+385,,,0,5,TJ Leaf
+386,,,0,5,Dairis Bertans
+387,,,0,5,Monte Morris
+388,,,0,5,Juancho Hernangomez
+389,,,0,5,Amile Jefferson
+390,,,0,5,Robert Williams III
+391,,,0,5,Jordan Loyd
+392,,,0,5,Chris Boucher
+393,,,0,5,Bruce Brown
+394,,,0,5,Tim Hardaway Jr.
+395,,,0,5,Allonzo Trier
+396,,,0,5,Marvin Bagley III
+397,,,0,5,Collin Sexton
+398,,,0,5,Taurean Prince
+399,,,0,5,Danuel House Jr.
+400,,,0,5,Julian Washburn
+401,,,0,5,Alize Johnson
+402,,,0,5,PJ Dozier
+403,,,0,5,Larry Nance Jr.
+404,,,0,5,Jared Terrell
+405,,,0,5,Royce O'Neale
+406,,,0,5,Shake Milton
+407,,,0,5,Duncan Robinson
+408,,,0,5,Mitchell Robinson
+409,,,0,5,Chris Chiozza
+410,,,0,5,Trey Burke
+411,,,0,5,Daryl Macon
+412,,,0,5,Jimmer Fredette
+413,,,0,5,Tyrone Wallace
+414,,,0,5,Devin Robinson
+415,,,0,5,PJ Tucker
+416,,,0,5,Yante Maten
+417,,,0,5,Keita Bates-Diop
+418,,,0,5,Billy Garrett
+419,,,0,5,Haywood Highsmith
+420,,,0,5,Kyle O'Quinn
+421,,,0,5,Mo Bamba
+422,,,0,5,Isaiah Hartenstein
+423,,,0,5,Isaiah Briscoe
+424,,,0,5,Donte DiVincenzo
+425,,,0,5,Ryan Arcidiacono
+426,,,0,5,Deonte Burton
+427,,,0,5,Svi Mykhailiuk
+428,,,0,5,DeVaughn Akoon-Purcell
+429,,,0,5,DeAndre' Bembry
+430,,,0,5,Alex Poythress
+431,,,0,5,Chimezie Metu
+432,,,0,5,Wendell Carter Jr.
+433,,,0,5,Johnathan Williams
+434,,,0,5,Kevin Huerter
+435,,,0,5,Derrick Jones Jr.
+436,,,0,5,Shaquille Harrison
+437,,,0,5,Marcus Derrickson
+438,,,0,5,Dzanan Musa
+439,,,0,5,Brad Wanamaker
+440,,,0,5,CJ McCollum
+441,,,0,5,Tyler Davis
+442,,,0,5,Jaron Blossomgame
+443,,,0,5,Jalen Jones
+444,,,0,5,Josh Okogie
+445,,,0,5,Naz Mitrou-Long
+446,,,0,5,Kelly Oubre Jr.
+447,,,0,5,J.P. Macura
+448,,,0,5,Brandon Goodwin
+449,,,0,5,Theo Pinson
+450,,,0,5,Gary Payton II
+451,,,0,5,Tahjere McCall
+452,,,0,5,CJ Miles
+453,,,0,5,Troy Brown Jr.
+454,,,0,5,Moritz Wagner
+455,,,0,5,BJ Johnson
+456,,,0,5,Anfernee Simons
+457,,,0,5,Jonah Bolden
+458,,,0,5,Torrey Craig
+459,,,0,5,Malcolm Miller
+460,,,0,5,Ray Spalding
+461,,,0,5,Luke Kornet
+462,,,0,5,Yuta Watanabe
+463,,,0,5,Scott Machado
+464,,,0,5,Jevon Carter
+465,,,0,5,D'Angelo Russell
+466,,,0,5,Glenn Robinson III
+467,,,0,5,Jerome Robinson
+468,,,0,5,JJ Redick
+469,,,0,5,Jemerrio Jones
+470,,,0,5,Melvin Frazier Jr.
+471,,,0,5,Dennis Smith Jr.
+472,,,0,5,Brandon Sampson
+473,,,0,5,Mitchell Creek
+474,,,0,5,Isaiah Hicks
+475,,,0,5,Donatas Motiejunas
+476,,,0,5,Antonio Blakeney
+477,,,0,5,Hamidou Diallo
+478,,,0,5,MarShon Brooks
+479,,,0,5,Jaren Jackson Jr.
+480,,,0,5,Gary Clark
+481,,,0,5,James Nunnally
+482,,,0,5,Johnathan Motley
+483,,,0,5,Khyri Thomas
+484,,,0,5,Wade Baldwin IV
+485,,,0,5,Kadeem Allen
+486,,,0,5,Jacob Evans
+487,,,0,5,Landry Shamet
+488,,,0,5,James Ennis III
+489,,,0,5,Shai Gilgeous-Alexander
+490,,,0,5,Wes Iwundu
+491,,,0,5,Gary Trent Jr.
+492,,,0,5,John Jenkins
+493,,,0,5,Jordan McRae
+494,,,0,5,Troy Caupain
+495,,,0,5,Bonzie Colson
+496,,,0,5,Walter Lemon Jr.
+497,,,0,5,Isaac Humphries
+498,,,0,5,Cameron Reynolds
+499,,,0,5,Zhaire Smith
+500,,,0,5,JR Smith
+501,,,0,5,DJ Stephens
+502,,,0,5,Omari Spellman
+503,,,0,5,Kobi Simmons
+504,,,0,5,Terrence Jones
+505,,,0,5,Jarred Vanderbilt
+506,,,0,5,Devonte' Graham
+507,,,0,5,Edmond Sumner
+508,,,0,5,Christian Wood
+509,,,0,5,JaKarr Sampson
+510,,,0,5,C.J. Williams
+511,,,0,5,Drew Eubanks
+512,,,0,5,Vincent Edwards
+513,,,0,5,Jaylen Morris
+514,,,0,5,Ryan Broekhoff
+515,,,0,5,Daniel Hamilton
+516,,,0,5,Trevon Duval
+517,,,0,5,Jordan Sibert
+518,,,0,5,Aaron Holiday
+519,,,0,5,Thomas Welsh
+520,,,0,5,Lonnie Walker IV
+521,,,0,5,Rawle Alkins
+522,,,0,5,Lorenzo Brown
+523,,,0,5,Chandler Hutchison
+524,,,0,5,Donte Grantham
+525,,,0,5,Emanuel Terry
+526,,,0,5,Andre Ingram
+527,,,0,5,Kostas Antetokounmpo
+528,,,0,5,John Holland
+529,,,0,5,George King
+530,,,0,5,RJ Hunter
+531,,,0,5,Kalin Lucas
+532,,,0,5,Angel Delgado
+533,,,0,5,Dusty Hannahs
+534,,,0,5,Joe Chealey

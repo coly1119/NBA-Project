@@ -1,0 +1,75 @@
+---
+title: "NBA Ridge"
+author: "Willis Lu"
+date: "4/6/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+library(broom)
+library(glmnet)
+```
+
+Manipulate Dataset a little.
+```{r}
+nba1819 <- read.csv("../data/finalds2017.csv")
+nba1819$rating <- -1*nba1819$rating
+#nba1819$coefs <- 100*nba1819$coefs
+
+set.seed(123)
+
+y <- nba1819$coefs
+x <- nba1819 %>% select(rating, mu) %>% data.matrix()
+```
+
+Ridge Regression
+```{r}
+lambdas <- 10^seq(3, -2, by = -.1)
+fit <- glmnet(x,y, alpha=0, lambda = lambdas)
+summary(fit)
+
+cv_fit <- cv.glmnet(x,y,alpha=0)
+plot(cv_fit)
+
+lambda1se <- cv_fit$lambda.1se
+lambdamin <- cv_fit$lambda.min
+
+ridge_reg <- cv_fit$glmnet.fit
+```
+
+
+Prediction Accuracy
+```{r}
+ypred <- predict(ridge_reg, s=lambdamin, newx = x)
+sst <- sum((y-mean(y))^2)
+sse <- sum((ypred-y)^2)
+
+R2 <- 1 - sse / sst
+R2
+
+RMSE = sqrt(sse/nrow(x))
+RMSE
+```
+Using our Ridge formulation to create a prior for each player.
+```{r}
+finalpriors <- predict(ridge_reg, s=lambdamin, newx=x)
+```
+Simple Linear Regression for SE
+```{r}
+lm2017 <- lm(coefs ~ rating + mu, data=nba1819)
+
+p2017 <- predict(lm2017, newdata=as.data.frame(x),se.fit=TRUE,interval="confidence")
+p2017$se.fit
+
+```
+
+```{r}
+nba1819$finalpriors <- finalpriors
+nba1819$finalse <- p2017$se.fit
+nba1819
+```
+
+```{r}
+write.csv(nba1819, "Ridge_Priors+SE_2017.csv", row.names = FALSE)
+```

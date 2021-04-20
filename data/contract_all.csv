@@ -280,12 +280,12 @@
 278,Allan Houston," $19,125,000.00 ",2005,New York Knicks,Non-rookie
 279,Allen Crabbe," $862,000.00 ",2014,Portland Trail Blazers,Rookie
 280,Allen Crabbe," $947,276.00 ",2015,Portland Trail Blazers,Rookie
-281,Allen Crabbe," $18,500,000.00 ",2016,Portland Trail Blazers,Rookie
-282,Allen Crabbe," $19,332,500.00 ",2017,Brooklyn Nets,Rookie
+281,Allen Crabbe," $18,500,000.00 ",2016,Portland Trail Blazers,Non-rookie
+282,Allen Crabbe," $19,332,500.00 ",2017,Brooklyn Nets,Non-rookie
 283,Allen Iverson," $2,267,000.00 ",1996,Philadelphia 76ers,Rookie
 284,Allen Iverson," $3,128,640.00 ",1997,Philadelphia 76ers,Rookie
 285,Allen Iverson," $3,537,000.00 ",1998,Philadelphia 76ers,Rookie
-286,Allen Iverson," $9,000,000.00 ",1999,Philadelphia 76ers,Rookie
+286,Allen Iverson," $9,000,000.00 ",1999,Philadelphia 76ers,Non-rookie
 287,Allen Iverson," $11,250,000.00 ",2001,Philadelphia 76ers,Non-rookie
 288,Allen Iverson," $14,625,000.00 ",2004,Philadelphia 76ers,Non-rookie
 289,Allen Iverson," $16,453,125.00 ",2005,Philadelphia 76ers,Non-rookie
@@ -416,7 +416,7 @@
 414,Andre Drummond," $2,462,400.00 ",2013,Detroit Pistons,Rookie
 415,Andre Drummond," $2,568,360.00 ",2014,Detroit Pistons,Rookie
 416,Andre Drummond," $3,272,091.00 ",2015,Detroit Pistons,Rookie
-417,Andre Drummond," $22,116,750.00 ",2016,Detroit Pistons,Rookie
+417,Andre Drummond," $22,116,750.00 ",2016,Detroit Pistons,Non-rookie
 418,Andre Drummond," $23,775,506.00 ",2017,Detroit Pistons,Non-rookie
 419,Andre Emmett," $385,277.00 ",2004,Memphis Grizzlies,Rookie
 420,Andre Emmett," $641,748.00 ",2005,Miami Heat,Rookie
@@ -465,7 +465,7 @@
 463,Andrea Bargnani," $4,501,200.00 ",2006,Toronto Raptors ,Rookie
 464,Andrea Bargnani," $4,838,880.00 ",2007,Toronto Raptors ,Rookie
 465,Andrea Bargnani," $5,176,440.00 ",2008,Toronto Raptors ,Rookie
-466,Andrea Bargnani," $6,527,491.00 ",2009,Toronto Raptors ,Rookie
+466,Andrea Bargnani," $6,527,491.00 ",2009,Toronto Raptors ,Non-rookie
 467,Andrea Bargnani," $8,500,000.00 ",2010,Toronto Raptors ,Non-rookie
 468,Andrea Bargnani," $9,250,000.00 ",2011,Toronto Raptors ,Non-rookie
 469,Andrea Bargnani," $10,000,000.00 ",2012,Toronto Raptors ,Non-rookie
@@ -488,15 +488,15 @@
 486,Andrei Kirilenko," $3,326,235.00 ",2014,Philadelphia 76ers,Non-rookie
 487,Andres Nocioni," $2,775,000.00 ",2005,Chicago Bulls,Rookie
 488,Andres Nocioni," $3,950,000.00 ",2006,Chicago Bulls,Rookie
-489,Andres Nocioni," $8,500,000.00 ",2007,Chicago Bulls,Rookie
-490,Andres Nocioni," $8,000,000.00 ",2008,Sacramento Kings,Rookie
+489,Andres Nocioni," $8,500,000.00 ",2007,Chicago Bulls,Non-rookie
+490,Andres Nocioni," $8,000,000.00 ",2008,Sacramento Kings,Non-rookie
 491,Andres Nocioni," $7,500,000.00 ",2009,Sacramento Kings,Non-rookie
 492,Andres Nocioni," $6,850,000.00 ",2010,Philadelphia 76ers,Non-rookie
 493,Andres Nocioni," $6,650,000.00 ",2011,Philadelphia 76ers,Non-rookie
 494,Andrew Bogut," $4,340,520.00 ",2005,Milwaukee Bucks,Rookie
 495,Andrew Bogut," $4,665,960.00 ",2006,Milwaukee Bucks,Rookie
 496,Andrew Bogut," $4,991,520.00 ",2007,Milwaukee Bucks,Rookie
-497,Andrew Bogut," $6,294,310.00 ",2008,Milwaukee Bucks,Rookie
+497,Andrew Bogut," $6,294,310.00 ",2008,Milwaukee Bucks,Non-rookie
 498,Andrew Bogut," $10,000,000.00 ",2009,Milwaukee Bucks,Non-rookie
 499,Andrew Bogut," $11,000,000.00 ",2010,Milwaukee Bucks,Non-rookie
 500,Andrew Bogut," $12,000,000.00 ",2011,Milwaukee Bucks,Non-rookie
@@ -550,7 +550,7 @@
 548,Andrew Wiggins," $5,510,640.00 ",2014,Minnesota Timberwolves,Rookie
 549,Andrew Wiggins," $5,758,680.00 ",2015,Minnesota Timberwolves,Rookie
 550,Andrew Wiggins," $6,006,600.00 ",2016,Minnesota Timberwolves,Rookie
-551,Andrew Wiggins," $7,574,322.00 ",2017,Minnesota Timberwolves,Rookie
+551,Andrew Wiggins," $7,574,322.00 ",2017,Minnesota Timberwolves,Non-rookie
 552,Andris Biedrins," $1,727,760.00 ",2004,Golden State Warriors,Rookie
 553,Andris Biedrins," $1,857,360.00 ",2005,Golden State Warriors,Rookie
 554,Andris Biedrins," $1,986,960.00 ",2006,Golden State Warriors,Rookie
@@ -568,7 +568,7 @@
 566,Andy Toolson," $310,000.00 ",1995,Utah Jazz,Non-rookie
 567,Anfernee Hardaway," $1,244,000.00 ",1993,Orlando Magic,Rookie
 568,Anfernee Hardaway," $5,230,000.00 ",1995,Orlando Magic,Rookie
-569,Anfernee Hardaway," $6,655,000.00 ",1996,Orlando Magic,Rookie
+569,Anfernee Hardaway," $6,655,000.00 ",1996,Orlando Magic,Non-rookie
 570,Anfernee Hardaway," $7,580,000.00 ",1997,Orlando Magic,Non-rookie
 571,Anfernee Hardaway," $8,505,000.00 ",1998,Orlando Magic,Non-rookie
 572,Anfernee Hardaway," $10,130,000.00 ",2000,Phoenix Suns,Non-rookie
@@ -639,7 +639,7 @@
 637,Anthony Davis," $5,144,280.00 ",2012,New Orleans Pelicans,Rookie
 638,Anthony Davis," $5,375,760.00 ",2013,New Orleans Pelicans,Rookie
 639,Anthony Davis," $5,607,240.00 ",2014,New Orleans Pelicans,Rookie
-640,Anthony Davis," $7,070,730.00 ",2015,New Orleans Pelicans,Rookie
+640,Anthony Davis," $7,070,730.00 ",2015,New Orleans Pelicans,Non-rookie
 641,Anthony Davis," $22,116,750.00 ",2016,New Orleans Pelicans,Non-rookie
 642,Anthony Davis," $23,775,506.00 ",2017,New Orleans Pelicans,Non-rookie
 643,Anthony Frederick," $30,000.00 ",1990,Sacramento Kings,Rookie
@@ -742,7 +742,7 @@
 740,Antoine Walker," $1,620,000.00 ",1996,Boston Celtics,Rookie
 741,Antoine Walker," $1,864,080.00 ",1997,Boston Celtics,Rookie
 742,Antoine Walker," $2,107,000.00 ",1998,Boston Celtics,Rookie
-743,Antoine Walker," $9,000,000.00 ",1999,Boston Celtics,Rookie
+743,Antoine Walker," $9,000,000.00 ",1999,Boston Celtics,Non-rookie
 744,Antoine Walker," $10,130,000.00 ",2000,Boston Celtics,Non-rookie
 745,Antoine Walker," $11,250,000.00 ",2001,Boston Celtics,Non-rookie
 746,Antoine Walker," $12,375,000.00 ",2002,Boston Celtics,Non-rookie
@@ -791,7 +791,7 @@
 789,Antonio McDyess," $2,213,000.00 ",1995,Denver Nuggets,Rookie
 790,Antonio McDyess," $2,545,000.00 ",1996,Denver Nuggets,Rookie
 791,Antonio McDyess," $2,876,640.00 ",1997,Phoenix Suns,Rookie
-792,Antonio McDyess," $9,000,000.00 ",1998,Denver Nuggets,Rookie
+792,Antonio McDyess," $9,000,000.00 ",1998,Denver Nuggets,Non-rookie
 793,Antonio McDyess," $9,900,000.00 ",1999,Denver Nuggets,Non-rookie
 794,Antonio McDyess," $10,800,000.00 ",2000,Denver Nuggets,Non-rookie
 795,Antonio McDyess," $11,700,000.00 ",2001,Denver Nuggets,Non-rookie
@@ -832,7 +832,7 @@
 830,Aron Baynes," $401,170.00 ",2012,San Antonio Spurs,Rookie
 831,Aron Baynes," $788,872.00 ",2013,San Antonio Spurs,Rookie
 832,Aron Baynes," $2,077,000.00 ",2014,San Antonio Spurs,Rookie
-833,Aron Baynes," $6,500,000.00 ",2015,Detroit Pistons,Rookie
+833,Aron Baynes," $6,500,000.00 ",2015,Detroit Pistons,Non-rookie
 834,Aron Baynes," $6,500,000.00 ",2016,Detroit Pistons,Non-rookie
 835,Aron Baynes," $4,328,000.00 ",2017,Boston Celtics,Non-rookie
 836,Arron Afflalo," $944,520.00 ",2007,Detroit Pistons,Rookie
@@ -863,9 +863,9 @@
 861,Ashraf Amaya," $225,000.00 ",1995,Memphis Grizzlies,Rookie
 862,Ashraf Amaya," $247,500.00 ",1996,Washington Wizards,Rookie
 863,Austin Croshere," $5,300,000.00 ",2000,Indiana Pacers,Rookie
-864,Austin Croshere," $6,310,000.00 ",2001,Indiana Pacers,Rookie
-865,Austin Croshere," $6,960,000.00 ",2002,Indiana Pacers,Rookie
-866,Austin Croshere," $7,610,000.00 ",2003,Indiana Pacers,Rookie
+864,Austin Croshere," $6,310,000.00 ",2001,Indiana Pacers,Non-rookie
+865,Austin Croshere," $6,960,000.00 ",2002,Indiana Pacers,Non-rookie
+866,Austin Croshere," $7,610,000.00 ",2003,Indiana Pacers,Non-rookie
 867,Austin Croshere," $8,260,000.00 ",2004,Indiana Pacers,Non-rookie
 868,Austin Croshere," $7,900,000.00 ",2005,Indiana Pacers,Non-rookie
 869,Austin Croshere," $1,219,590.00 ",2007,Golden State Warriors,Non-rookie
@@ -928,7 +928,7 @@
 926,Baron Davis," $2,916,000.00 ",2000,Charlotte Hornets,Rookie
 927,Baron Davis," $3,119,400.00 ",2001,Charlotte Hornets,Rookie
 928,Baron Davis," $3,942,922.00 ",2002,New Orleans Pelicans,Rookie
-929,Baron Davis," $10,960,000.00 ",2003,New Orleans Pelicans,Rookie
+929,Baron Davis," $10,960,000.00 ",2003,New Orleans Pelicans,Non-rookie
 930,Baron Davis," $12,330,000.00 ",2004,New Orleans Pelicans,Non-rookie
 931,Baron Davis," $13,700,000.00 ",2005,Golden State Warriors,Non-rookie
 932,Baron Davis," $15,070,000.00 ",2006,Golden State Warriors,Non-rookie
@@ -951,7 +951,7 @@
 949,Ben Gordon," $3,610,200.00 ",2005,Chicago Bulls,Rookie
 950,Ben Gordon," $3,862,080.00 ",2006,Chicago Bulls,Rookie
 951,Ben Gordon," $4,881,669.00 ",2007,Chicago Bulls,Rookie
-952,Ben Gordon," $6,404,750.00 ",2008,Chicago Bulls,Rookie
+952,Ben Gordon," $6,404,750.00 ",2008,Chicago Bulls,Non-rookie
 953,Ben Gordon," $10,000,000.00 ",2009,Detroit Pistons,Non-rookie
 954,Ben Gordon," $11,600,000.00 ",2011,Detroit Pistons,Non-rookie
 955,Ben Gordon," $4,500,000.00 ",2014,Orlando Magic,Non-rookie
@@ -1064,8 +1064,8 @@
 1062,Bimbo Coles," $1,070,000.00 ",2003,Miami Heat,Non-rookie
 1063,Bimbo Coles," $1,050,000.00 ",2003,Cleveland Caveliers,Non-rookie
 1064,Bismack Biyombo," $3,000,000.00 ",2015,Toronto Raptors ,Rookie
-1065,Bismack Biyombo," $17,000,000.00 ",2016,Orlando Magic,Rookie
-1066,Bismack Biyombo," $17,000,000.00 ",2017,Orlando Magic,Rookie
+1065,Bismack Biyombo," $17,000,000.00 ",2016,Orlando Magic,Non-rookie
+1066,Bismack Biyombo," $17,000,000.00 ",2017,Orlando Magic,Non-rookie
 1067,Bison Dele," $777,000.00 ",1991,Orlando Magic,Rookie
 1068,Bison Dele," $1,011,000.00 ",1992,Orlando Magic,Rookie
 1069,Bison Dele," $1,244,000.00 ",1993,Denver Nuggets,Rookie
@@ -1084,7 +1084,7 @@
 1082,Blake Griffin," $4,983,480.00 ",2009,Los Angeles Clippers,Rookie
 1083,Blake Griffin," $5,357,280.00 ",2010,Los Angeles Clippers,Rookie
 1084,Blake Griffin," $5,731,080.00 ",2011,Los Angeles Clippers,Rookie
-1085,Blake Griffin," $7,226,892.00 ",2012,Los Angeles Clippers,Rookie
+1085,Blake Griffin," $7,226,892.00 ",2012,Los Angeles Clippers,Non-rookie
 1086,Blake Griffin," $16,441,500.00 ",2013,Los Angeles Clippers,Non-rookie
 1087,Blake Griffin," $17,674,612.00 ",2014,Los Angeles Clippers,Non-rookie
 1088,Blake Griffin," $18,907,725.00 ",2015,Los Angeles Clippers,Non-rookie
@@ -1138,8 +1138,8 @@
 1136,Bob Thornton," $335,000.00 ",1990,Minnesota Timberwolves,Rookie
 1137,Bob Thornton," $335,000.00 ",1991,Minnesota Timberwolves,Rookie
 1138,Boban Marjanovic," $1,200,000.00 ",2015,San Antonio Spurs,Rookie
-1139,Boban Marjanovic," $7,000,000.00 ",2016,Detroit Pistons,Rookie
-1140,Boban Marjanovic," $7,000,000.00 ",2017,Detroit Pistons,Rookie
+1139,Boban Marjanovic," $7,000,000.00 ",2016,Detroit Pistons,Non-rookie
+1140,Boban Marjanovic," $7,000,000.00 ",2017,Detroit Pistons,Non-rookie
 1141,Bobby Brown," $442,114.00 ",2008,Minnesota Timberwolves,Rookie
 1142,Bobby Brown," $736,420.00 ",2009,Los Angeles Clippers,Rookie
 1143,Bobby Brown," $934,293.00 ",2016,Houston Rockets,Non-rookie
@@ -1188,17 +1188,17 @@
 1186,Bobby Simmons," $10,560,000.00 ",2009,Brooklyn Nets,Non-rookie
 1187,Bobby Simmons," $71,951.00 ",2010,San Antonio Spurs,Non-rookie
 1188,Bobby Simmons," $594,836.00 ",2011,Los Angeles Clippers,Non-rookie
-1189,Bogdan Bogdanovic," $9,470,614.00 ",2017,Sacramento Kings,Rookie
+1189,Bogdan Bogdanovic," $9,470,614.00 ",2017,Sacramento Kings,Non-rookie
 1190,Bojan Bogdanovic," $3,278,000.00 ",2014,Brooklyn Nets,Rookie
 1191,Bojan Bogdanovic," $3,425,510.00 ",2015,Brooklyn Nets,Rookie
 1192,Bojan Bogdanovic," $3,730,653.00 ",2016,Washington Wizards,Rookie
-1193,Bojan Bogdanovic," $10,500,000.00 ",2017,Indiana Pacers,Rookie
+1193,Bojan Bogdanovic," $10,500,000.00 ",2017,Indiana Pacers,Non-rookie
 1194,Boniface N\'Dong," $398,762.00 ",2005,Los Angeles Clippers,Rookie
 1195,Boniface N\'Dong," $839,209.00 ",2006,Los Angeles Clippers,Rookie
 1196,Bonzi Wells," $1,528,440.00 ",2000,Portland Trail Blazers,Rookie
 1197,Bonzi Wells," $2,028,239.00 ",2001,Portland Trail Blazers,Rookie
-1198,Bonzi Wells," $6,300,000.00 ",2002,Portland Trail Blazers,Rookie
-1199,Bonzi Wells," $7,000,000.00 ",2003,Memphis Grizzlies,Rookie
+1198,Bonzi Wells," $6,300,000.00 ",2002,Portland Trail Blazers,Non-rookie
+1199,Bonzi Wells," $7,000,000.00 ",2003,Memphis Grizzlies,Non-rookie
 1200,Bonzi Wells," $7,700,000.00 ",2004,Memphis Grizzlies,Non-rookie
 1201,Bonzi Wells," $8,000,000.00 ",2005,Sacramento Kings,Non-rookie
 1202,Bonzi Wells," $2,115,000.00 ",2006,Houston Rockets,Non-rookie
@@ -1496,7 +1496,7 @@
 1494,Bryant Reeves," $1,474,000.00 ",1995,Memphis Grizzlies,Rookie
 1495,Bryant Reeves," $1,695,000.00 ",1996,Memphis Grizzlies,Rookie
 1496,Bryant Reeves," $1,915,680.00 ",1997,Memphis Grizzlies,Rookie
-1497,Bryant Reeves," $7,222,000.00 ",1998,Memphis Grizzlies,Rookie
+1497,Bryant Reeves," $7,222,000.00 ",1998,Memphis Grizzlies,Non-rookie
 1498,Bryant Reeves," $8,666,666.00 ",1999,Memphis Grizzlies,Non-rookie
 1499,Bryant Reeves," $10,110,000.00 ",2000,Memphis Grizzlies,Non-rookie
 1500,Bryant Reeves," $11,555,554.00 ",2001,Memphis Grizzlies,Non-rookie
@@ -1624,7 +1624,7 @@
 1622,Calvin Booth," $6,629,891.00 ",2006,Milwaukee Bucks,Non-rookie
 1623,Calvin Booth," $998,967.00 ",2006,Washington Wizards,Non-rookie
 1624,Calvin Booth," $1,319,651.00 ",2008,Sacramento Kings,Non-rookie
-1625,Cameron Bairstow," $19,000,000.00 ",2015,Atlanta Hawks,Rookie
+1625,Cameron Bairstow," $19,000,000.00 ",2015,Atlanta Hawks,Non-rookie
 1626,Cameron Bairstow," $845,059.00 ",2015,Chicago Bulls,Rookie
 1627,Cameron Jones," $50,000.00 ",2016,Golden State Warriors,Rookie
 1628,Cameron Oliver," $300,000.00 ",2017,Houston Rockets,Rookie
@@ -1644,7 +1644,7 @@
 1642,Carl Landry," $3,000,000.00 ",2008,Houston Rockets,Rookie
 1643,Carl Landry," $3,000,000.00 ",2009,Sacramento Kings,Rookie
 1644,Carl Landry," $3,000,000.00 ",2010,New Orleans Pelicans,Rookie
-1645,Carl Landry," $8,500,000.00 ",2011,New Orleans Pelicans,Rookie
+1645,Carl Landry," $8,500,000.00 ",2011,New Orleans Pelicans,Non-rookie
 1646,Carl Landry," $4,000,000.00 ",2012,Golden State Warriors,Non-rookie
 1647,Carl Landry," $6,500,000.00 ",2013,Sacramento Kings,Non-rookie
 1648,Carl Landry," $6,500,000.00 ",2014,Sacramento Kings,Non-rookie
@@ -1663,8 +1663,8 @@
 1661,Carlos Arroyo," $1,107,572.00 ",2009,Miami Heat,Non-rookie
 1662,Carlos Boozer," $349,458.00 ",2002,Cleveland Caveliers,Rookie
 1663,Carlos Boozer," $563,679.00 ",2003,Cleveland Caveliers,Rookie
-1664,Carlos Boozer," $10,967,500.00 ",2004,Utah Jazz,Rookie
-1665,Carlos Boozer," $11,593,816.00 ",2005,Utah Jazz,Rookie
+1664,Carlos Boozer," $10,967,500.00 ",2004,Utah Jazz,Non-rookie
+1665,Carlos Boozer," $11,593,816.00 ",2005,Utah Jazz,Non-rookie
 1666,Carlos Boozer," $11,260,483.00 ",2007,Utah Jazz,Non-rookie
 1667,Carlos Boozer," $11,593,817.00 ",2008,Utah Jazz,Non-rookie
 1668,Carlos Boozer," $13,520,500.00 ",2009,Utah Jazz,Non-rookie
@@ -1762,7 +1762,7 @@
 1760,Cezary Trybanski," $1,600,000.00 ",2003,Phoenix Suns,Rookie
 1761,Chandler Parsons," $850,000.00 ",2011,Houston Rockets,Rookie
 1762,Chandler Parsons," $926,500.00 ",2013,Houston Rockets,Rookie
-1763,Chandler Parsons," $14,700,000.00 ",2014,Dallas Mavericks,Rookie
+1763,Chandler Parsons," $14,700,000.00 ",2014,Dallas Mavericks,Non-rookie
 1764,Chandler Parsons," $15,361,500.00 ",2015,Dallas Mavericks,Non-rookie
 1765,Chandler Parsons," $22,116,750.00 ",2016,Memphis Grizzlies,Non-rookie
 1766,Chandler Parsons," $23,112,004.00 ",2017,Memphis Grizzlies,Non-rookie
@@ -2009,7 +2009,7 @@
 2007,Chris Kaman," $2,574,240.00 ",2004,Los Angeles Clippers,Rookie
 2008,Chris Kaman," $2,753,760.00 ",2005,Los Angeles Clippers,Rookie
 2009,Chris Kaman," $3,491,768.00 ",2006,Los Angeles Clippers,Rookie
-2010,Chris Kaman," $8,600,000.00 ",2007,Los Angeles Clippers,Rookie
+2010,Chris Kaman," $8,600,000.00 ",2007,Los Angeles Clippers,Non-rookie
 2011,Chris Kaman," $9,500,000.00 ",2008,Los Angeles Clippers,Non-rookie
 2012,Chris Kaman," $10,400,000.00 ",2009,Los Angeles Clippers,Non-rookie
 2013,Chris Kaman," $11,800,000.00 ",2010,Los Angeles Clippers,Non-rookie
@@ -2092,8 +2092,8 @@
 2090,Chris Taft," $664,209.00 ",2006,Golden State Warriors,Rookie
 2091,Chris Webber," $1,600,000.00 ",1993,Golden State Warriors,Rookie
 2092,Chris Webber," $2,080,000.00 ",1994,Washington Wizards,Rookie
-2093,Chris Webber," $7,000,000.00 ",1995,Washington Wizards,Rookie
-2094,Chris Webber," $8,000,000.00 ",1996,Washington Wizards,Rookie
+2093,Chris Webber," $7,000,000.00 ",1995,Washington Wizards,Non-rookie
+2094,Chris Webber," $8,000,000.00 ",1996,Washington Wizards,Non-rookie
 2095,Chris Webber," $9,000,000.00 ",1997,Washington Wizards,Non-rookie
 2096,Chris Webber," $10,000,000.00 ",1998,Sacramento Kings,Non-rookie
 2097,Chris Webber," $11,000,000.00 ",1999,Sacramento Kings,Non-rookie
@@ -2238,7 +2238,7 @@
 2236,Coby Karl," $43,319.00 ",2009,Golden State Warriors,Rookie
 2237,Cody Zeller," $4,204,200.00 ",2015,Charlotte Hornets,Rookie
 2238,Cody Zeller," $5,318,313.00 ",2016,Charlotte Hornets,Rookie
-2239,Cody Zeller," $12,584,270.00 ",2017,Charlotte Hornets,Rookie
+2239,Cody Zeller," $12,584,270.00 ",2017,Charlotte Hornets,Non-rookie
 2240,Cole Aldrich," $2,126,520.00 ",2010,Oklahoma City Thunder,Rookie
 2241,Cole Aldrich," $2,286,000.00 ",2011,Oklahoma City Thunder,Rookie
 2242,Cole Aldrich," $2,445,480.00 ",2012,Sacramento Kings,Rookie
@@ -2357,7 +2357,7 @@
 2355,Craig Smith," $992,680.00 ",2011,Portland Trail Blazers,Non-rookie
 2356,Cristiano Felicio," $525,090.00 ",2015,Chicago Bulls,Rookie
 2357,Cristiano Felicio," $874,636.00 ",2016,Chicago Bulls,Rookie
-2358,Cristiano Felicio," $7,843,500.00 ",2017,Chicago Bulls,Rookie
+2358,Cristiano Felicio," $7,843,500.00 ",2017,Chicago Bulls,Non-rookie
 2359,Curtis Borchardt," $1,113,720.00 ",2002,Utah Jazz,Rookie
 2360,Curtis Borchardt," $1,187,240.00 ",2003,Utah Jazz,Rookie
 2361,Curtis Borchardt," $1,280,880.00 ",2004,Utah Jazz,Rookie
@@ -2880,7 +2880,7 @@
 2878,DeAndre Jordan," $550,000.00 ",2008,Los Angeles Clippers,Rookie
 2879,DeAndre Jordan," $736,420.00 ",2009,Los Angeles Clippers,Rookie
 2880,DeAndre Jordan," $854,389.00 ",2010,Los Angeles Clippers,Rookie
-2881,DeAndre Jordan," $10,079,404.00 ",2011,Los Angeles Clippers,Rookie
+2881,DeAndre Jordan," $10,079,404.00 ",2011,Los Angeles Clippers,Non-rookie
 2882,DeAndre Jordan," $10,532,977.00 ",2012,Los Angeles Clippers,Non-rookie
 2883,DeAndre Jordan," $10,986,550.00 ",2013,Los Angeles Clippers,Non-rookie
 2884,DeAndre Jordan," $11,440,124.00 ",2014,Los Angeles Clippers,Non-rookie
@@ -2990,7 +2990,7 @@
 2988,Dennis Schroder," $1,690,680.00 ",2014,Atlanta Hawks,Rookie
 2989,Dennis Schroder," $1,763,400.00 ",2015,Atlanta Hawks,Rookie
 2990,Dennis Schroder," $2,708,582.00 ",2016,Atlanta Hawks,Rookie
-2991,Dennis Schroder," $15,500,000.00 ",2017,Atlanta Hawks,Rookie
+2991,Dennis Schroder," $15,500,000.00 ",2017,Atlanta Hawks,Non-rookie
 2992,Dennis Schroeder," $1,348,200.00 ",2013,Atlanta Hawks,Rookie
 2993,Dennis Scott," $1,560,000.00 ",1990,Orlando Magic,Rookie
 2994,Dennis Scott," $1,980,000.00 ",1991,Orlando Magic,Rookie
@@ -3120,7 +3120,7 @@
 3118,Derrick Rose," $4,822,800.00 ",2008,Chicago Bulls,Rookie
 3119,Derrick Rose," $5,184,480.00 ",2009,Chicago Bulls,Rookie
 3120,Derrick Rose," $5,546,160.00 ",2010,Chicago Bulls,Rookie
-3121,Derrick Rose," $6,993,708.00 ",2011,Chicago Bulls,Rookie
+3121,Derrick Rose," $6,993,708.00 ",2011,Chicago Bulls,Non-rookie
 3122,Derrick Rose," $16,402,500.00 ",2012,Chicago Bulls,Non-rookie
 3123,Derrick Rose," $17,632,688.00 ",2013,Chicago Bulls,Non-rookie
 3124,Derrick Rose," $20,093,063.00 ",2015,Chicago Bulls,Non-rookie
@@ -3130,7 +3130,7 @@
 3128,Derrick Williams," $4,602,720.00 ",2011,Minnesota Timberwolves,Rookie
 3129,Derrick Williams," $4,947,840.00 ",2012,Minnesota Timberwolves,Rookie
 3130,Derrick Williams," $5,016,960.00 ",2013,Minnesota Timberwolves,Rookie
-3131,Derrick Williams," $6,331,404.00 ",2014,Sacramento Kings,Rookie
+3131,Derrick Williams," $6,331,404.00 ",2014,Sacramento Kings,Non-rookie
 3132,Derrick Williams," $4,900,000.00 ",2015,New York Knicks,Non-rookie
 3133,Derrick Williams," $4,598,000.00 ",2016,Miami Heat,Non-rookie
 3134,Derrick Williams," $402,043.00 ",2016,Cleveland Caveliers,Non-rookie
@@ -3482,7 +3482,7 @@
 3480,Draymond Green," $850,000.00 ",2012,Golden State Warriors,Rookie
 3481,Draymond Green," $875,500.00 ",2013,Golden State Warriors,Rookie
 3482,Draymond Green," $915,243.00 ",2014,Golden State Warriors,Rookie
-3483,Draymond Green," $14,300,000.00 ",2015,Golden State Warriors,Rookie
+3483,Draymond Green," $14,300,000.00 ",2015,Golden State Warriors,Non-rookie
 3484,Draymond Green," $15,330,435.00 ",2016,Golden State Warriors,Non-rookie
 3485,Draymond Green," $16,400,000.00 ",2017,Golden State Warriors,Non-rookie
 3486,Drazen Petrovic," $1,200,000.00 ",1990,Brooklyn Nets,Rookie
@@ -3556,8 +3556,8 @@
 3554,Dwight Howard," $23,500,000.00 ",2017,Charlotte Hornets,Non-rookie
 3555,Dwight Powell," $507,336.00 ",2014,Dallas Mavericks,Rookie
 3556,Dwight Powell," $845,059.00 ",2015,Dallas Mavericks,Rookie
-3557,Dwight Powell," $8,375,000.00 ",2016,Dallas Mavericks,Rookie
-3558,Dwight Powell," $9,003,125.00 ",2017,Dallas Mavericks,Rookie
+3557,Dwight Powell," $8,375,000.00 ",2016,Dallas Mavericks,Non-rookie
+3558,Dwight Powell," $9,003,125.00 ",2017,Dallas Mavericks,Non-rookie
 3559,Dwyane Wade," $2,636,400.00 ",2003,Miami Heat,Rookie
 3560,Dwyane Wade," $2,834,160.00 ",2004,Miami Heat,Rookie
 3561,Dwyane Wade," $3,031,920.00 ",2005,Miami Heat,Rookie
@@ -3686,7 +3686,7 @@
 3684,Eddie Robinson," $600,000.00 ",2000,Charlotte Hornets,Rookie
 3685,Eddie Robinson," $5,170,000.00 ",2001,Chicago Bulls,Rookie
 3686,Eddie Robinson," $5,687,000.00 ",2002,Chicago Bulls,Rookie
-3687,Eddie Robinson," $6,204,000.00 ",2003,Chicago Bulls,Rookie
+3687,Eddie Robinson," $6,204,000.00 ",2003,Chicago Bulls,Non-rookie
 3688,Eddie Robinson," $5,444,444.00 ",2005,Chicago Bulls,Non-rookie
 3689,Eddy Curry," $2,678,400.00 ",2001,Chicago Bulls,Rookie
 3690,Eddy Curry," $2,879,280.00 ",2002,Chicago Bulls,Rookie
@@ -3788,10 +3788,10 @@
 3786,Emanual Davis," $610,000.00 ",2000,Oklahoma City Thunder,Non-rookie
 3787,Emanual Davis," $715,850.00 ",2001,Atlanta Hawks,Non-rookie
 3788,Emanual Davis," $824,935.00 ",2002,Atlanta Hawks,Non-rookie
-3789,Emeka Okafor," $10,538,937.00 ",2009,New Orleans Pelicans,Rookie
-3790,Emeka Okafor," $11,495,000.00 ",2010,New Orleans Pelicans,Rookie
-3791,Emeka Okafor," $12,541,812.00 ",2011,New Orleans Pelicans,Rookie
-3792,Emeka Okafor," $13,490,000.00 ",2012,Washington Wizards,Rookie
+3789,Emeka Okafor," $10,538,937.00 ",2009,New Orleans Pelicans,Non-rookie
+3790,Emeka Okafor," $11,495,000.00 ",2010,New Orleans Pelicans,Non-rookie
+3791,Emeka Okafor," $12,541,812.00 ",2011,New Orleans Pelicans,Non-rookie
+3792,Emeka Okafor," $13,490,000.00 ",2012,Washington Wizards,Non-rookie
 3793,Emeka Okafor," $14,487,500.00 ",2013,Phoenix Suns,Non-rookie
 3794,Emmanuel Mudiay," $3,102,240.00 ",2015,Denver Nuggets,Rookie
 3795,Emmanuel Mudiay," $3,241,800.00 ",2016,Denver Nuggets,Rookie
@@ -3991,7 +3991,7 @@
 3989,Evan Turner," $4,602,720.00 ",2010,Philadelphia 76ers,Rookie
 3990,Evan Turner," $4,947,840.00 ",2011,Philadelphia 76ers,Rookie
 3991,Evan Turner," $5,293,080.00 ",2012,Philadelphia 76ers,Rookie
-3992,Evan Turner," $6,679,867.00 ",2013,Philadelphia 76ers,Rookie
+3992,Evan Turner," $6,679,867.00 ",2013,Philadelphia 76ers,Non-rookie
 3993,Evan Turner," $3,278,000.00 ",2014,Boston Celtics,Non-rookie
 3994,Evan Turner," $3,425,510.00 ",2015,Boston Celtics,Non-rookie
 3995,Evan Turner," $16,393,443.00 ",2016,Portland Trail Blazers,Non-rookie
@@ -4261,8 +4261,8 @@
 4259,Giannis Antetokounmpo," $22,471,910.00 ",2017,Milwaukee Bucks,Non-rookie
 4260,Gilbert Arenas," $332,817.00 ",2001,Golden State Warriors,Rookie
 4261,Gilbert Arenas," $512,435.00 ",2002,Golden State Warriors,Rookie
-4262,Gilbert Arenas," $8,536,000.00 ",2003,Washington Wizards,Rookie
-4263,Gilbert Arenas," $9,389,600.00 ",2004,Washington Wizards,Rookie
+4262,Gilbert Arenas," $8,536,000.00 ",2003,Washington Wizards,Non-rookie
+4263,Gilbert Arenas," $9,389,600.00 ",2004,Washington Wizards,Non-rookie
 4264,Gilbert Arenas," $10,243,200.00 ",2005,Washington Wizards,Non-rookie
 4265,Gilbert Arenas," $11,096,800.00 ",2006,Washington Wizards,Non-rookie
 4266,Gilbert Arenas," $11,950,400.00 ",2007,Washington Wizards,Non-rookie
@@ -4274,7 +4274,7 @@
 4272,Glen Davis," $711,517.00 ",2008,Boston Celtics,Rookie
 4273,Glen Davis," $3,000,000.00 ",2009,Boston Celtics,Rookie
 4274,Glen Davis," $3,300,000.00 ",2010,Boston Celtics,Rookie
-4275,Glen Davis," $6,300,000.00 ",2011,Orlando Magic,Rookie
+4275,Glen Davis," $6,300,000.00 ",2011,Orlando Magic,Non-rookie
 4276,Glen Davis," $6,400,000.00 ",2012,Orlando Magic,Non-rookie
 4277,Glen Davis," $6,400,000.00 ",2013,Orlando Magic,Non-rookie
 4278,Glen Davis," $6,600,000.00 ",2014,Orlando Magic,Non-rookie
@@ -4437,7 +4437,7 @@
 4435,Greg Oden," $4,662,000.00 ",2007,Portland Trail Blazers,Rookie
 4436,Greg Oden," $5,011,680.00 ",2008,Portland Trail Blazers,Rookie
 4437,Greg Oden," $5,361,240.00 ",2009,Portland Trail Blazers,Rookie
-4438,Greg Oden," $6,760,524.00 ",2010,Portland Trail Blazers,Rookie
+4438,Greg Oden," $6,760,524.00 ",2010,Portland Trail Blazers,Non-rookie
 4439,Greg Oden," $1,500,000.00 ",2011,Portland Trail Blazers,Non-rookie
 4440,Greg Oden," $1,027,424.00 ",2013,Miami Heat,Non-rookie
 4441,Greg Ostertag," $498,000.00 ",1995,Utah Jazz,Rookie
@@ -4729,7 +4729,7 @@
 4727,Isaiah Thomas," $473,604.00 ",2011,Sacramento Kings,Rookie
 4728,Isaiah Thomas," $762,195.00 ",2012,Sacramento Kings,Rookie
 4729,Isaiah Thomas," $884,293.00 ",2013,Sacramento Kings,Rookie
-4730,Isaiah Thomas," $7,238,606.00 ",2014,Boston Celtics,Rookie
+4730,Isaiah Thomas," $7,238,606.00 ",2014,Boston Celtics,Non-rookie
 4731,Isaiah Thomas," $6,912,869.00 ",2015,Boston Celtics,Non-rookie
 4732,Isaiah Thomas," $6,587,132.00 ",2016,Boston Celtics,Non-rookie
 4733,Isaiah Thomas," $6,261,395.00 ",2017,Cleveland Caveliers,Non-rookie
@@ -4816,7 +4816,7 @@
 4814,Jabari Parker," $4,930,560.00 ",2014,Milwaukee Bucks,Rookie
 4815,Jabari Parker," $5,152,440.00 ",2015,Milwaukee Bucks,Rookie
 4816,Jabari Parker," $5,374,320.00 ",2016,Milwaukee Bucks,Rookie
-4817,Jabari Parker," $6,782,392.00 ",2017,Milwaukee Bucks,Rookie
+4817,Jabari Parker," $6,782,392.00 ",2017,Milwaukee Bucks,Non-rookie
 4818,Jabari Smith," $316,969.00 ",2000,Sacramento Kings,Rookie
 4819,Jabari Smith," $465,850.00 ",2001,Sacramento Kings,Rookie
 4820,Jabari Smith," $638,679.00 ",2003,Sacramento Kings,Rookie
@@ -5079,7 +5079,7 @@
 5077,JaMychal Green," $59,686.00 ",2014,Memphis Grizzlies,Rookie
 5078,JaMychal Green," $845,059.00 ",2015,Memphis Grizzlies,Rookie
 5079,JaMychal Green," $980,431.00 ",2016,Memphis Grizzlies,Rookie
-5080,JaMychal Green," $8,533,333.00 ",2017,Memphis Grizzlies,Rookie
+5080,JaMychal Green," $8,533,333.00 ",2017,Memphis Grizzlies,Non-rookie
 5081,Jan Vesely," $3,065,040.00 ",2011,Washington Wizards,Rookie
 5082,Jan Vesely," $3,294,960.00 ",2012,Washington Wizards,Rookie
 5083,Jan Vesely," $3,340,920.00 ",2013,Washington Wizards,Rookie
@@ -5466,7 +5466,7 @@
 5464,Jeremy Lamb," $7,000,000.00 ",2017,Charlotte Hornets,Non-rookie
 5465,Jeremy Lin," $473,604.00 ",2010,Golden State Warriors,Rookie
 5466,Jeremy Lin," $762,195.00 ",2011,New York Knicks,Rookie
-5467,Jeremy Lin," $8,374,646.00 ",2013,Houston Rockets,Rookie
+5467,Jeremy Lin," $8,374,646.00 ",2013,Houston Rockets,Non-rookie
 5468,Jeremy Lin," $8,374,646.00 ",2014,Los Angeles Lakers,Non-rookie
 5469,Jeremy Lin," $2,100,000.00 ",2015,Charlotte Hornets,Non-rookie
 5470,Jeremy Lin," $11,483,254.00 ",2016,Brooklyn Nets,Non-rookie
@@ -5688,7 +5688,7 @@
 5686,Joe Ingles," $507,336.00 ",2014,Utah Jazz,Rookie
 5687,Joe Ingles," $2,250,000.00 ",2015,Utah Jazz,Rookie
 5688,Joe Ingles," $2,250,000.00 ",2016,Utah Jazz,Rookie
-5689,Joe Ingles," $14,136,364.00 ",2017,Utah Jazz,Rookie
+5689,Joe Ingles," $14,136,364.00 ",2017,Utah Jazz,Non-rookie
 5690,Joe Johnson," $1,608,840.00 ",2001,Boston Celtics,Rookie
 5691,Joe Johnson," $1,729,560.00 ",2002,Phoenix Suns,Rookie
 5692,Joe Johnson," $1,850,160.00 ",2003,Phoenix Suns,Rookie
@@ -5911,7 +5911,7 @@
 5909,John Wall," $5,144,280.00 ",2010,Washington Wizards,Rookie
 5910,John Wall," $5,530,080.00 ",2011,Washington Wizards,Rookie
 5911,John Wall," $5,915,880.00 ",2012,Washington Wizards,Rookie
-5912,John Wall," $7,459,925.00 ",2013,Washington Wizards,Rookie
+5912,John Wall," $7,459,925.00 ",2013,Washington Wizards,Non-rookie
 5913,John Wall," $14,746,000.00 ",2014,Washington Wizards,Non-rookie
 5914,John Wall," $15,851,950.00 ",2015,Washington Wizards,Non-rookie
 5915,John Wall," $16,957,900.00 ",2016,Washington Wizards,Non-rookie
@@ -6010,7 +6010,7 @@
 6008,Jonathan Kerner," $5,000.00 ",1999,Washington Wizards,Rookie
 6009,Jonathon Simmons," $525,093.00 ",2015,San Antonio Spurs,Rookie
 6010,Jonathon Simmons," $874,636.00 ",2016,San Antonio Spurs,Rookie
-6011,Jonathon Simmons," $6,300,000.00 ",2017,Orlando Magic,Rookie
+6011,Jonathon Simmons," $6,300,000.00 ",2017,Orlando Magic,Non-rookie
 6012,Jonny Flynn," $2,969,280.00 ",2009,Minnesota Timberwolves,Rookie
 6013,Jonny Flynn," $3,192,000.00 ",2010,Minnesota Timberwolves,Rookie
 6014,Jonny Flynn," $3,414,720.00 ",2011,Houston Rockets,Rookie
@@ -6020,8 +6020,8 @@
 6018,Jordan Bell," $815,615.00 ",2017,Golden State Warriors,Rookie
 6019,Jordan Clarkson," $507,336.00 ",2014,Los Angeles Lakers,Rookie
 6020,Jordan Clarkson," $845,059.00 ",2015,Los Angeles Lakers,Rookie
-6021,Jordan Clarkson," $12,500,000.00 ",2016,Los Angeles Lakers,Rookie
-6022,Jordan Clarkson," $11,562,500.00 ",2017,Los Angeles Lakers,Rookie
+6021,Jordan Clarkson," $12,500,000.00 ",2016,Los Angeles Lakers,Non-rookie
+6022,Jordan Clarkson," $11,562,500.00 ",2017,Los Angeles Lakers,Non-rookie
 6023,Jordan Crawford," $1,042,320.00 ",2010,Washington Wizards,Rookie
 6024,Jordan Crawford," $1,120,440.00 ",2011,Washington Wizards,Rookie
 6025,Jordan Crawford," $2,162,419.00 ",2013,Boston Celtics,Rookie
@@ -6078,7 +6078,7 @@
 6076,Jose Calderon," $2,190,000.00 ",2005,Toronto Raptors ,Rookie
 6077,Jose Calderon," $2,333,334.00 ",2006,Toronto Raptors ,Rookie
 6078,Jose Calderon," $2,471,604.00 ",2007,Toronto Raptors ,Rookie
-6079,Jose Calderon," $7,438,018.00 ",2008,Toronto Raptors ,Rookie
+6079,Jose Calderon," $7,438,018.00 ",2008,Toronto Raptors ,Non-rookie
 6080,Jose Calderon," $8,219,009.00 ",2009,Toronto Raptors ,Non-rookie
 6081,Jose Calderon," $9,000,000.00 ",2010,Toronto Raptors ,Non-rookie
 6082,Jose Calderon," $9,780,992.00 ",2011,Toronto Raptors ,Non-rookie
@@ -6117,7 +6117,7 @@
 6115,Josh Hart," $1,394,520.00 ",2017,Los Angeles Lakers,Rookie
 6116,Josh Howard," $863,640.00 ",2004,Dallas Mavericks,Rookie
 6117,Josh Howard," $923,880.00 ",2005,Dallas Mavericks,Rookie
-6118,Josh Howard," $9,000,000.00 ",2007,Dallas Mavericks,Rookie
+6118,Josh Howard," $9,000,000.00 ",2007,Dallas Mavericks,Non-rookie
 6119,Josh Howard," $9,945,000.00 ",2008,Dallas Mavericks,Non-rookie
 6120,Josh Howard," $10,890,000.00 ",2009,Washington Wizards,Non-rookie
 6121,Josh Howard," $3,000,000.00 ",2010,Washington Wizards,Non-rookie
@@ -6249,8 +6249,8 @@
 6247,Jusuf Nurkic," $2,947,305.00 ",2017,Portland Trail Blazers,Rookie
 6248,Juwan Howard," $1,309,000.00 ",1994,Washington Wizards,Rookie
 6249,Juwan Howard," $1,702,000.00 ",1995,Washington Wizards,Rookie
-6250,Juwan Howard," $9,750,000.00 ",1996,Washington Wizards,Rookie
-6251,Juwan Howard," $11,250,000.00 ",1997,Washington Wizards,Rookie
+6250,Juwan Howard," $9,750,000.00 ",1996,Washington Wizards,Non-rookie
+6251,Juwan Howard," $11,250,000.00 ",1997,Washington Wizards,Non-rookie
 6252,Juwan Howard," $13,125,000.00 ",1998,Washington Wizards,Non-rookie
 6253,Juwan Howard," $15,000,000.00 ",1999,Washington Wizards,Non-rookie
 6254,Juwan Howard," $16,875,000.00 ",2000,Washington Wizards,Non-rookie
@@ -6296,7 +6296,7 @@
 6294,Karl Malone," $1,500,000.00 ",2003,Los Angeles Lakers,Non-rookie
 6295,Karl-Anthony Towns," $5,703,600.00 ",2015,Minnesota Timberwolves,Rookie
 6296,Karl-Anthony Towns," $5,960,160.00 ",2016,Minnesota Timberwolves,Rookie
-6297,Karl-Anthony Towns," $6,216,840.00 ",2017,Minnesota Timberwolves,Rookie
+6297,Karl-Anthony Towns," $6,216,840.00 ",2017,Minnesota Timberwolves,Non-rookie
 6298,Kawhi Leonard," $1,731,960.00 ",2011,San Antonio Spurs,Rookie
 6299,Kawhi Leonard," $1,861,920.00 ",2012,San Antonio Spurs,Rookie
 6300,Kawhi Leonard," $1,887,840.00 ",2013,San Antonio Spurs,Rookie
@@ -6352,7 +6352,7 @@
 6350,Keith Van Horn," $2,655,360.00 ",1997,Brooklyn Nets,Rookie
 6351,Keith Van Horn," $3,054,000.00 ",1998,Brooklyn Nets,Rookie
 6352,Keith Van Horn," $3,451,920.00 ",1999,Brooklyn Nets,Rookie
-6353,Keith Van Horn," $9,000,000.00 ",2000,Brooklyn Nets,Rookie
+6353,Keith Van Horn," $9,000,000.00 ",2000,Brooklyn Nets,Non-rookie
 6354,Keith Van Horn," $10,865,250.00 ",2001,Brooklyn Nets,Non-rookie
 6355,Keith Van Horn," $13,279,750.00 ",2003,New York Knicks,Non-rookie
 6356,Keith Van Horn," $14,487,000.00 ",2004,Milwaukee Bucks,Non-rookie
@@ -6383,9 +6383,9 @@
 6381,Kelvin Cato," $8,640,000.00 ",2005,Orlando Magic,Non-rookie
 6382,Kelvin Upshaw," $30,000.00 ",1990,Dallas Mavericks,Rookie
 6383,Kelvin Upshaw," $250,000.00 ",1991,Dallas Mavericks,Rookie
-6384,Kemba Walker," $12,000,000.00 ",2015,Charlotte Hornets,Rookie
-6385,Kemba Walker," $12,000,000.00 ",2016,Charlotte Hornets,Rookie
-6386,Kemba Walker," $12,000,000.00 ",2017,Charlotte Hornets,Rookie
+6384,Kemba Walker," $12,000,000.00 ",2015,Charlotte Hornets,Non-rookie
+6385,Kemba Walker," $12,000,000.00 ",2016,Charlotte Hornets,Non-rookie
+6386,Kemba Walker," $12,000,000.00 ",2017,Charlotte Hornets,Non-rookie
 6387,Ken Bannister," $400,000.00 ",1990,Los Angeles Clippers,Rookie
 6388,Ken Bannister," $50,000.00 ",1990,Utah Jazz,Rookie
 6389,Ken Bannister," $300,000.00 ",1991,Los Angeles Clippers,Rookie
@@ -6520,7 +6520,7 @@
 6518,Kerry Kittles," $1,356,000.00 ",1996,Brooklyn Nets,Rookie
 6519,Kerry Kittles," $1,559,040.00 ",1997,Brooklyn Nets,Rookie
 6520,Kerry Kittles," $1,762,000.00 ",1998,Brooklyn Nets,Rookie
-6521,Kerry Kittles," $7,166,666.00 ",1999,Brooklyn Nets,Rookie
+6521,Kerry Kittles," $7,166,666.00 ",1999,Brooklyn Nets,Non-rookie
 6522,Kerry Kittles," $7,770,000.00 ",2000,Brooklyn Nets,Non-rookie
 6523,Kerry Kittles," $8,166,667.00 ",2001,Brooklyn Nets,Non-rookie
 6524,Kerry Kittles," $8,966,667.00 ",2002,Brooklyn Nets,Non-rookie
@@ -6568,7 +6568,7 @@
 6566,Kevin Gamble," $1,868,750.00 ",1999,Sacramento Kings,Non-rookie
 6567,Kevin Garnett," $1,622,000.00 ",1995,Minnesota Timberwolves,Rookie
 6568,Kevin Garnett," $2,109,120.00 ",1997,Minnesota Timberwolves,Rookie
-6569,Kevin Garnett," $14,000,000.00 ",1998,Minnesota Timberwolves,Rookie
+6569,Kevin Garnett," $14,000,000.00 ",1998,Minnesota Timberwolves,Non-rookie
 6570,Kevin Garnett," $16,806,300.00 ",1999,Minnesota Timberwolves,Non-rookie
 6571,Kevin Garnett," $19,610,000.00 ",2000,Minnesota Timberwolves,Non-rookie
 6572,Kevin Garnett," $22,400,000.00 ",2001,Minnesota Timberwolves,Non-rookie
@@ -6688,8 +6688,8 @@
 6686,Khem Birch," $815,615.00 ",2017,Orlando Magic,Rookie
 6687,Khris Middleton," $788,872.00 ",2013,Milwaukee Bucks,Rookie
 6688,Khris Middleton," $915,243.00 ",2014,Milwaukee Bucks,Rookie
-6689,Khris Middleton," $15,000,000.00 ",2015,Milwaukee Bucks,Rookie
-6690,Khris Middleton," $15,200,000.00 ",2016,Milwaukee Bucks,Rookie
+6689,Khris Middleton," $15,000,000.00 ",2015,Milwaukee Bucks,Non-rookie
+6690,Khris Middleton," $15,200,000.00 ",2016,Milwaukee Bucks,Non-rookie
 6691,Khris Middleton," $14,100,000.00 ",2017,Milwaukee Bucks,Non-rookie
 6692,Kiki Vandeweghe," $1,025,000.00 ",1990,New York Knicks,Rookie
 6693,Kiki Vandeweghe," $1,020,000.00 ",1991,New York Knicks,Rookie
@@ -6724,7 +6724,7 @@
 6722,Kobe Bryant," $1,015,000.00 ",1996,Los Angeles Lakers,Rookie
 6723,Kobe Bryant," $1,167,240.00 ",1997,Los Angeles Lakers,Rookie
 6724,Kobe Bryant," $1,319,000.00 ",1998,Los Angeles Lakers,Rookie
-6725,Kobe Bryant," $9,000,000.00 ",1999,Los Angeles Lakers,Rookie
+6725,Kobe Bryant," $9,000,000.00 ",1999,Los Angeles Lakers,Non-rookie
 6726,Kobe Bryant," $10,130,000.00 ",2000,Los Angeles Lakers,Non-rookie
 6727,Kobe Bryant," $11,250,000.00 ",2001,Los Angeles Lakers,Non-rookie
 6728,Kobe Bryant," $12,375,000.00 ",2002,Los Angeles Lakers,Non-rookie
@@ -6855,7 +6855,7 @@
 6853,Kyrie Irving," $5,144,280.00 ",2011,Cleveland Caveliers,Rookie
 6854,Kyrie Irving," $5,530,080.00 ",2012,Cleveland Caveliers,Rookie
 6855,Kyrie Irving," $5,607,240.00 ",2013,Cleveland Caveliers,Rookie
-6856,Kyrie Irving," $7,070,730.00 ",2014,Cleveland Caveliers,Rookie
+6856,Kyrie Irving," $7,070,730.00 ",2014,Cleveland Caveliers,Non-rookie
 6857,Kyrie Irving," $14,746,000.00 ",2015,Cleveland Caveliers,Non-rookie
 6858,Kyrie Irving," $17,638,063.00 ",2016,Cleveland Caveliers,Non-rookie
 6859,Kyrie Irving," $18,868,625.00 ",2017,Boston Celtics,Non-rookie
@@ -6929,13 +6929,13 @@
 6927,Lance Thomas," $6,655,325.00 ",2017,New York Knicks,Non-rookie
 6928,Landry Fields," $473,604.00 ",2010,New York Knicks,Rookie
 6929,Landry Fields," $762,195.00 ",2011,New York Knicks,Rookie
-6930,Landry Fields," $6,250,000.00 ",2012,Toronto Raptors ,Rookie
-6931,Landry Fields," $6,250,000.00 ",2013,Toronto Raptors ,Rookie
+6930,Landry Fields," $6,250,000.00 ",2012,Toronto Raptors ,Non-rookie
+6931,Landry Fields," $6,250,000.00 ",2013,Toronto Raptors ,Non-rookie
 6932,Landry Fields," $6,250,000.00 ",2014,Toronto Raptors ,Non-rookie
 6933,Langston Galloway," $235,762.00 ",2014,New York Knicks,Rookie
 6934,Langston Galloway," $845,059.00 ",2015,New York Knicks,Rookie
 6935,Langston Galloway," $5,200,000.00 ",2016,Sacramento Kings,Rookie
-6936,Langston Galloway," $6,666,667.00 ",2017,Detroit Pistons,Rookie
+6936,Langston Galloway," $6,666,667.00 ",2017,Detroit Pistons,Non-rookie
 6937,LaPhonso Ellis," $1,900,000.00 ",1992,Denver Nuggets,Rookie
 6938,LaPhonso Ellis," $2,350,000.00 ",1993,Denver Nuggets,Rookie
 6939,LaPhonso Ellis," $2,731,000.00 ",1994,Denver Nuggets,Rookie
@@ -6954,7 +6954,7 @@
 6952,Laron Profit," $745,046.00 ",2004,Washington Wizards,Non-rookie
 6953,Laron Profit," $745,248.00 ",2005,Los Angeles Lakers,Non-rookie
 6954,Larry Bird," $1,500,000.00 ",1990,Boston Celtics,Rookie
-6955,Larry Bird," $7,070,000.00 ",1991,Boston Celtics,Rookie
+6955,Larry Bird," $7,070,000.00 ",1991,Boston Celtics,Non-rookie
 6956,Larry Bird," $2,300,000.00 ",1992,Boston Celtics,Rookie
 6957,Larry Drew," $550,000.00 ",1990,Los Angeles Lakers,Rookie
 6958,Larry Drew," $600,000.00 ",1991,Los Angeles Lakers,Rookie
@@ -7170,7 +7170,7 @@
 7168,Lonny Baxter," $636,679.00 ",2003,Toronto Raptors ,Rookie
 7169,Lonny Baxter," $542,475.00 ",2004,New Orleans Pelicans,Rookie
 7170,Lonny Baxter," $745,248.00 ",2005,Houston Rockets,Rookie
-7171,Lonzo Ball," $6,286,560.00 ",2017,Los Angeles Lakers,Rookie
+7171,Lonzo Ball," $6,286,560.00 ",2017,Los Angeles Lakers,Non-rookie
 7172,Loren Meyer," $556,000.00 ",1995,Dallas Mavericks,Rookie
 7173,Loren Meyer," $639,000.00 ",1996,Phoenix Suns,Rookie
 7174,Loren Meyer," $722,760.00 ",1997,Phoenix Suns,Rookie
@@ -7212,9 +7212,9 @@
 7210,Lou Roe," $247,500.00 ",1996,Golden State Warriors,Rookie
 7211,Lou Roe," $97,412.00 ",1999,Minnesota Timberwolves,Rookie
 7212,Lou Williams," $5,450,000.00 ",2014,Toronto Raptors ,Rookie
-7213,Lou Williams," $7,000,000.00 ",2015,Los Angeles Lakers,Rookie
-7214,Lou Williams," $7,000,000.00 ",2016,Houston Rockets,Rookie
-7215,Lou Williams," $7,000,000.00 ",2017,Los Angeles Clippers,Rookie
+7213,Lou Williams," $7,000,000.00 ",2015,Los Angeles Lakers,Non-rookie
+7214,Lou Williams," $7,000,000.00 ",2016,Houston Rockets,Non-rookie
+7215,Lou Williams," $7,000,000.00 ",2017,Los Angeles Clippers,Non-rookie
 7216,Louis Amundson," $105,696.00 ",2006,Philadelphia 76ers,Rookie
 7217,Louis Amundson," $75,000.00 ",2006,Sacramento Kings,Rookie
 7218,Louis Amundson," $797,581.00 ",2008,Phoenix Suns,Rookie
@@ -7283,8 +7283,8 @@
 7281,Luis Montero," $525,093.00 ",2015,Portland Trail Blazers,Rookie
 7282,Luis Scola," $3,100,667.00 ",2008,Houston Rockets,Rookie
 7283,Luis Scola," $3,375,600.00 ",2009,Houston Rockets,Rookie
-7284,Luis Scola," $7,775,378.00 ",2010,Houston Rockets,Rookie
-7285,Luis Scola," $8,591,793.00 ",2011,Houston Rockets,Rookie
+7284,Luis Scola," $7,775,378.00 ",2010,Houston Rockets,Non-rookie
+7285,Luis Scola," $8,591,793.00 ",2011,Houston Rockets,Non-rookie
 7286,Luis Scola," $4,148,510.00 ",2012,Phoenix Suns,Non-rookie
 7287,Luis Scola," $4,508,504.00 ",2013,Indiana Pacers,Non-rookie
 7288,Luis Scola," $6,541,000.00 ",2014,Houston Rockets,Non-rookie
@@ -7334,7 +7334,7 @@
 7332,Luol Deng," $2,443,920.00 ",2005,Chicago Bulls,Rookie
 7333,Luol Deng," $2,614,440.00 ",2006,Chicago Bulls,Rookie
 7334,Luol Deng," $3,320,339.00 ",2007,Chicago Bulls,Rookie
-7335,Luol Deng," $9,385,000.00 ",2008,Chicago Bulls,Rookie
+7335,Luol Deng," $9,385,000.00 ",2008,Chicago Bulls,Non-rookie
 7336,Luol Deng," $10,370,425.00 ",2009,Chicago Bulls,Non-rookie
 7337,Luol Deng," $11,345,000.00 ",2010,Chicago Bulls,Non-rookie
 7338,Luol Deng," $12,325,000.00 ",2011,Chicago Bulls,Non-rookie
@@ -7446,7 +7446,7 @@
 7444,Marc Gasol," $3,093,333.00 ",2008,Memphis Grizzlies,Rookie
 7445,Marc Gasol," $3,240,000.00 ",2009,Memphis Grizzlies,Rookie
 7446,Marc Gasol," $3,480,000.00 ",2010,Memphis Grizzlies,Rookie
-7447,Marc Gasol," $12,922,194.00 ",2011,Memphis Grizzlies,Rookie
+7447,Marc Gasol," $12,922,194.00 ",2011,Memphis Grizzlies,Non-rookie
 7448,Marc Gasol," $13,891,359.00 ",2012,Memphis Grizzlies,Non-rookie
 7449,Marc Gasol," $14,860,523.00 ",2013,Memphis Grizzlies,Non-rookie
 7450,Marc Gasol," $15,829,688.00 ",2014,Memphis Grizzlies,Non-rookie
@@ -7542,8 +7542,8 @@
 7540,Marcus Smart," $4,538,020.00 ",2017,Boston Celtics,Rookie
 7541,Marcus Thornton," $457,888.00 ",2009,New Orleans Pelicans,Rookie
 7542,Marcus Thornton," $762,195.00 ",2010,Sacramento Kings,Rookie
-7543,Marcus Thornton," $7,000,000.00 ",2011,Sacramento Kings,Rookie
-7544,Marcus Thornton," $7,525,000.00 ",2012,Sacramento Kings,Rookie
+7543,Marcus Thornton," $7,000,000.00 ",2011,Sacramento Kings,Non-rookie
+7544,Marcus Thornton," $7,525,000.00 ",2012,Sacramento Kings,Non-rookie
 7545,Marcus Thornton," $8,050,000.00 ",2013,Sacramento Kings,Non-rookie
 7546,Marcus Thornton," $8,575,000.00 ",2014,Phoenix Suns,Non-rookie
 7547,Marcus Thornton," $1,186,000.00 ",2015,Houston Rockets,Non-rookie
@@ -7685,7 +7685,7 @@
 7683,Mark West," $1,000,000.00 ",1998,Atlanta Hawks,Non-rookie
 7684,Markel Brown," $507,336.00 ",2014,Brooklyn Nets,Rookie
 7685,Markel Brown," $845,059.00 ",2015,Brooklyn Nets,Rookie
-7686,Markelle Fultz," $7,026,240.00 ",2017,Philadelphia 76ers,Rookie
+7686,Markelle Fultz," $7,026,240.00 ",2017,Philadelphia 76ers,Non-rookie
 7687,Markieff Morris," $1,919,160.00 ",2011,Phoenix Suns,Rookie
 7688,Markieff Morris," $2,063,040.00 ",2012,Phoenix Suns,Rookie
 7689,Markieff Morris," $2,091,840.00 ",2013,Phoenix Suns,Rookie
@@ -7710,7 +7710,7 @@
 7708,Marquese Chriss," $3,073,800.00 ",2017,Phoenix Suns,Rookie
 7709,Marquis Daniels," $4,903,000.00 ",2004,Dallas Mavericks,Rookie
 7710,Marquis Daniels," $5,393,300.00 ",2005,Dallas Mavericks,Rookie
-7711,Marquis Daniels," $6,373,900.00 ",2007,Indiana Pacers,Rookie
+7711,Marquis Daniels," $6,373,900.00 ",2007,Indiana Pacers,Non-rookie
 7712,Marquis Daniels," $6,864,200.00 ",2008,Indiana Pacers,Non-rookie
 7713,Marquis Daniels," $1,990,000.00 ",2009,Boston Celtics,Non-rookie
 7714,Marquis Daniels," $2,470,000.00 ",2010,Sacramento Kings,Non-rookie
@@ -7867,8 +7867,8 @@
 7865,Matt Wenstrom," $150,000.00 ",1994,Boston Celtics,Rookie
 7866,Matthew Dellavedova," $816,482.00 ",2014,Cleveland Caveliers,Rookie
 7867,Matthew Dellavedova," $1,147,280.00 ",2015,Cleveland Caveliers,Rookie
-7868,Matthew Dellavedova," $9,607,500.00 ",2016,Milwaukee Bucks,Rookie
-7869,Matthew Dellavedova," $9,607,500.00 ",2017,Milwaukee Bucks,Rookie
+7868,Matthew Dellavedova," $9,607,500.00 ",2016,Milwaukee Bucks,Non-rookie
+7869,Matthew Dellavedova," $9,607,500.00 ",2017,Milwaukee Bucks,Non-rookie
 7870,Maurice Ager," $974,400.00 ",2007,Brooklyn Nets,Rookie
 7871,Maurice Ager," $1,042,440.00 ",2008,Brooklyn Nets,Rookie
 7872,Maurice Ager," $83,305.00 ",2010,Minnesota Timberwolves,Rookie
@@ -7905,8 +7905,8 @@
 7903,Maxi Kleber," $815,615.00 ",2017,Dallas Mavericks,Rookie
 7904,Mehmet Okur," $1,000,000.00 ",2002,Detroit Pistons,Rookie
 7905,Mehmet Okur," $1,100,000.00 ",2003,Detroit Pistons,Rookie
-7906,Mehmet Okur," $7,500,000.00 ",2004,Utah Jazz,Rookie
-7907,Mehmet Okur," $8,250,000.00 ",2005,Utah Jazz,Rookie
+7906,Mehmet Okur," $7,500,000.00 ",2004,Utah Jazz,Non-rookie
+7907,Mehmet Okur," $8,250,000.00 ",2005,Utah Jazz,Non-rookie
 7908,Mehmet Okur," $8,500,000.00 ",2007,Utah Jazz,Non-rookie
 7909,Mehmet Okur," $8,500,000.00 ",2008,Utah Jazz,Non-rookie
 7910,Mehmet Okur," $9,000,000.00 ",2009,Utah Jazz,Non-rookie
@@ -7948,7 +7948,7 @@
 7946,Michael Ansley," $200,000.00 ",1990,Orlando Magic,Rookie
 7947,Michael Beasley," $4,638,600.00 ",2009,Miami Heat,Rookie
 7948,Michael Beasley," $4,962,240.00 ",2010,Minnesota Timberwolves,Rookie
-7949,Michael Beasley," $6,262,347.00 ",2011,Minnesota Timberwolves,Rookie
+7949,Michael Beasley," $6,262,347.00 ",2011,Minnesota Timberwolves,Non-rookie
 7950,Michael Beasley," $5,750,000.00 ",2012,Phoenix Suns,Rookie
 7951,Michael Beasley," $4,666,667.00 ",2013,Phoenix Suns,Non-rookie
 7952,Michael Beasley," $1,027,424.00 ",2013,Miami Heat,Non-rookie
@@ -8030,9 +8030,9 @@
 8028,Michael Jordan," $33,140,000.00 ",1997,Chicago Bulls,Non-rookie
 8029,Michael Jordan," $1,000,000.00 ",2001,Washington Wizards,Non-rookie
 8030,Michael Jordan," $1,030,000.00 ",2002,Washington Wizards,Non-rookie
-8031,Michael Kidd-Gilchrist," $6,331,404.00 ",2015,Charlotte Hornets,Rookie
-8032,Michael Kidd-Gilchrist," $13,000,000.00 ",2016,Charlotte Hornets,Rookie
-8033,Michael Kidd-Gilchrist," $13,000,000.00 ",2017,Charlotte Hornets,Rookie
+8031,Michael Kidd-Gilchrist," $6,331,404.00 ",2015,Charlotte Hornets,Non-rookie
+8032,Michael Kidd-Gilchrist," $13,000,000.00 ",2016,Charlotte Hornets,Non-rookie
+8033,Michael Kidd-Gilchrist," $13,000,000.00 ",2017,Charlotte Hornets,Non-rookie
 8034,Michael Olowokandi," $2,700,000.00 ",1998,Los Angeles Clippers,Rookie
 8035,Michael Olowokandi," $3,456,240.00 ",1999,Los Angeles Clippers,Rookie
 8036,Michael Olowokandi," $3,697,440.00 ",2000,Los Angeles Clippers,Rookie
@@ -8459,8 +8459,8 @@
 8457,Nene," $13,000,000.00 ",2011,Denver Nuggets,Non-rookie
 8458,Nene," $13,000,000.00 ",2012,Washington Wizards,Non-rookie
 8459,Nene," $13,000,000.00 ",2013,Washington Wizards,Non-rookie
-8460,Nene Hilario," $13,000,000.00 ",2014,Washington Wizards,Rookie
-8461,Nene Hilario," $13,000,000.00 ",2015,Washington Wizards,Rookie
+8460,Nene Hilario," $13,000,000.00 ",2014,Washington Wizards,Non-rookie
+8461,Nene Hilario," $13,000,000.00 ",2015,Washington Wizards,Non-rookie
 8462,Nene Hilario," $2,898,000.00 ",2016,Houston Rockets,Rookie
 8463,Nene Hilario," $3,477,600.00 ",2017,Houston Rockets,Rookie
 8464,Nerlens Noel," $3,172,320.00 ",2013,Philadelphia 76ers,Rookie
@@ -8548,11 +8548,11 @@
 8546,Nikola Jovanovic," $30,000.00 ",2016,Detroit Pistons,Rookie
 8547,Nikola Mirotic," $5,543,725.00 ",2015,Chicago Bulls,Rookie
 8548,Nikola Mirotic," $5,782,450.00 ",2016,Chicago Bulls,Rookie
-8549,Nikola Mirotic," $12,500,000.00 ",2017,Chicago Bulls,Rookie
+8549,Nikola Mirotic," $12,500,000.00 ",2017,Chicago Bulls,Non-rookie
 8550,Nikola Pekovic," $4,000,000.00 ",2010,Minnesota Timberwolves,Rookie
 8551,Nikola Pekovic," $4,503,600.00 ",2011,Minnesota Timberwolves,Rookie
 8552,Nikola Pekovic," $4,837,200.00 ",2012,Minnesota Timberwolves,Rookie
-8553,Nikola Pekovic," $12,100,000.00 ",2013,Minnesota Timberwolves,Rookie
+8553,Nikola Pekovic," $12,100,000.00 ",2013,Minnesota Timberwolves,Non-rookie
 8554,Nikola Pekovic," $12,100,000.00 ",2014,Minnesota Timberwolves,Non-rookie
 8555,Nikola Pekovic," $12,100,000.00 ",2015,Minnesota Timberwolves,Non-rookie
 8556,Nikola Pekovic," $12,100,000.00 ",2016,Minnesota Timberwolves,Non-rookie
@@ -8624,7 +8624,7 @@
 8622,Omar Cook," $292,230.00 ",2001,Dallas Mavericks,Rookie
 8623,Omer Asik," $1,721,000.00 ",2010,Chicago Bulls,Rookie
 8624,Omer Asik," $1,857,500.00 ",2011,Chicago Bulls,Rookie
-8625,Omer Asik," $8,374,646.00 ",2013,Houston Rockets,Rookie
+8625,Omer Asik," $8,374,646.00 ",2013,Houston Rockets,Non-rookie
 8626,Omer Asik," $8,374,646.00 ",2014,New Orleans Pelicans,Non-rookie
 8627,Omer Asik," $11,000,000.00 ",2015,New Orleans Pelicans,Non-rookie
 8628,Omer Asik," $9,904,494.00 ",2016,New Orleans Pelicans,Non-rookie
@@ -8727,7 +8727,7 @@
 8725,Patricio Garino," $31,969.00 ",2016,Orlando Magic,Rookie
 8726,Patrick Beverley," $788,872.00 ",2013,Houston Rockets,Rookie
 8727,Patrick Beverley," $915,243.00 ",2014,Houston Rockets,Rookie
-8728,Patrick Beverley," $6,500,000.00 ",2015,Houston Rockets,Rookie
+8728,Patrick Beverley," $6,500,000.00 ",2015,Houston Rockets,Non-rookie
 8729,Patrick Beverley," $6,000,000.00 ",2016,Houston Rockets,Rookie
 8730,Patrick Beverley," $5,513,514.00 ",2017,Los Angeles Clippers,Non-rookie
 8731,Patrick Eddie," $130,000.00 ",1991,New York Knicks,Rookie
@@ -8764,7 +8764,7 @@
 8762,Patrick Patterson," $6,050,000.00 ",2016,Toronto Raptors ,Non-rookie
 8763,Patrick Patterson," $5,192,000.00 ",2017,Oklahoma City Thunder,Non-rookie
 8764,Patty Mills," $3,578,948.00 ",2016,San Antonio Spurs,Rookie
-8765,Patty Mills," $10,714,286.00 ",2017,San Antonio Spurs,Rookie
+8765,Patty Mills," $10,714,286.00 ",2017,San Antonio Spurs,Non-rookie
 8766,Pau Gasol," $2,970,840.00 ",2001,Memphis Grizzlies,Rookie
 8767,Pau Gasol," $3,193,680.00 ",2002,Memphis Grizzlies,Rookie
 8768,Pau Gasol," $3,417,000.00 ",2003,Memphis Grizzlies,Rookie
@@ -8803,8 +8803,8 @@
 8801,Paul McPherson," $316,969.00 ",2000,Phoenix Suns,Rookie
 8802,Paul Millsap," $687,456.00 ",2007,Utah Jazz,Rookie
 8803,Paul Millsap," $797,581.00 ",2008,Utah Jazz,Rookie
-8804,Paul Millsap," $7,692,932.00 ",2009,Utah Jazz,Rookie
-8805,Paul Millsap," $7,600,000.00 ",2010,Utah Jazz,Rookie
+8804,Paul Millsap," $7,692,932.00 ",2009,Utah Jazz,Non-rookie
+8805,Paul Millsap," $7,600,000.00 ",2010,Utah Jazz,Non-rookie
 8806,Paul Millsap," $8,103,435.00 ",2011,Utah Jazz,Non-rookie
 8807,Paul Millsap," $8,603,633.00 ",2012,Utah Jazz,Non-rookie
 8808,Paul Millsap," $9,500,000.00 ",2013,Atlanta Hawks,Non-rookie
@@ -9030,8 +9030,8 @@
 9028,Raja Bell," $3,480,000.00 ",2012,Utah Jazz,Non-rookie
 9029,Rajon Rondo," $1,315,080.00 ",2008,Boston Celtics,Rookie
 9030,Rajon Rondo," $2,094,922.00 ",2009,Boston Celtics,Rookie
-9031,Rajon Rondo," $9,090,911.00 ",2010,Boston Celtics,Rookie
-9032,Rajon Rondo," $10,045,455.00 ",2011,Boston Celtics,Rookie
+9031,Rajon Rondo," $9,090,911.00 ",2010,Boston Celtics,Non-rookie
+9032,Rajon Rondo," $10,045,455.00 ",2011,Boston Celtics,Non-rookie
 9033,Rajon Rondo," $11,954,545.00 ",2013,Boston Celtics,Non-rookie
 9034,Rajon Rondo," $12,909,091.00 ",2014,Dallas Mavericks,Non-rookie
 9035,Rajon Rondo," $9,500,000.00 ",2015,Sacramento Kings,Non-rookie
@@ -9178,7 +9178,7 @@
 9176,Ray Allen," $1,785,000.00 ",1996,Milwaukee Bucks,Rookie
 9177,Ray Allen," $2,052,360.00 ",1997,Milwaukee Bucks,Rookie
 9178,Ray Allen," $2,320,000.00 ",1998,Milwaukee Bucks,Rookie
-9179,Ray Allen," $9,000,000.00 ",1999,Milwaukee Bucks,Rookie
+9179,Ray Allen," $9,000,000.00 ",1999,Milwaukee Bucks,Non-rookie
 9180,Ray Allen," $10,130,000.00 ",2000,Milwaukee Bucks,Non-rookie
 9181,Ray Allen," $11,250,000.00 ",2001,Milwaukee Bucks,Non-rookie
 9182,Ray Allen," $12,375,000.00 ",2002,Milwaukee Bucks,Non-rookie
@@ -9198,12 +9198,12 @@
 9196,Ray McCallum," $119,494.00 ",2016,Charlotte Hornets,Rookie
 9197,Ray McCallum," $11,949.00 ",2016,Detroit Pistons,Rookie
 9198,Ray Owes," $220,000.00 ",1996,Golden State Warriors,Rookie
-9199,Raymond Felton," $7,500,000.00 ",2010,Denver Nuggets,Rookie
-9200,Raymond Felton," $7,560,000.00 ",2011,Portland Trail Blazers,Rookie
+9199,Raymond Felton," $7,500,000.00 ",2010,Denver Nuggets,Non-rookie
+9200,Raymond Felton," $7,560,000.00 ",2011,Portland Trail Blazers,Non-rookie
 9201,Raymond Felton," $3,480,453.00 ",2012,New York Knicks,Rookie
 9202,Raymond Felton," $3,637,073.00 ",2013,New York Knicks,Rookie
-9203,Raymond Felton," $3,793,693.00 ",2014,Dallas Mavericks,Non-rookie
-9204,Raymond Felton," $3,950,313.00 ",2015,Dallas Mavericks,Non-rookie
+9203,Raymond Felton," $3,793,693.00 ",2014,Dallas Mavericks,Rookie
+9204,Raymond Felton," $3,950,313.00 ",2015,Dallas Mavericks,Rookie
 9205,Raymond Felton," $1,551,659.00 ",2016,Los Angeles Clippers,Non-rookie
 9206,Raymond Felton," $2,328,652.00 ",2017,Oklahoma City Thunder,Non-rookie
 9207,Reece Gaines," $1,353,120.00 ",2003,Orlando Magic,Rookie
@@ -9425,7 +9425,7 @@
 9423,Robert Covington," $150,000.00 ",2014,Houston Rockets,Rookie
 9424,Robert Covington," $1,000,000.00 ",2015,Philadelphia 76ers,Rookie
 9425,Robert Covington," $1,015,696.00 ",2016,Philadelphia 76ers,Rookie
-9426,Robert Covington," $16,698,103.00 ",2017,Philadelphia 76ers,Rookie
+9426,Robert Covington," $16,698,103.00 ",2017,Philadelphia 76ers,Non-rookie
 9427,Robert Horry," $1,200,000.00 ",1993,Houston Rockets,Rookie
 9428,Robert Horry," $1,499,000.00 ",1994,Houston Rockets,Rookie
 9429,Robert Horry," $1,601,000.00 ",1995,Houston Rockets,Rookie
@@ -10166,7 +10166,7 @@
 10164,Shaquille O\'Neal," $20,000,000.00 ",2009,Cleveland Caveliers,Non-rookie
 10165,Shaquille O\'Neal," $1,352,181.00 ",2010,Boston Celtics,Non-rookie
 10166,Shareef Abdur-Rahim," $2,186,000.00 ",1996,Memphis Grizzlies,Rookie
-10167,Shareef Abdur-Rahim," $9,000,000.00 ",1999,Memphis Grizzlies,Rookie
+10167,Shareef Abdur-Rahim," $9,000,000.00 ",1999,Memphis Grizzlies,Non-rookie
 10168,Shareef Abdur-Rahim," $10,130,000.00 ",2000,Memphis Grizzlies,Non-rookie
 10169,Shareef Abdur-Rahim," $11,250,000.00 ",2001,Atlanta Hawks,Non-rookie
 10170,Shareef Abdur-Rahim," $12,375,000.00 ",2002,Atlanta Hawks,Non-rookie
@@ -10229,7 +10229,7 @@
 10227,Shawn Marion," $1,662,240.00 ",2000,Phoenix Suns,Rookie
 10228,Shawn Marion," $1,778,160.00 ",2001,Phoenix Suns,Rookie
 10229,Shawn Marion," $2,265,375.00 ",2002,Phoenix Suns,Rookie
-10230,Shawn Marion," $10,960,000.00 ",2003,Phoenix Suns,Rookie
+10230,Shawn Marion," $10,960,000.00 ",2003,Phoenix Suns,Non-rookie
 10231,Shawn Marion," $12,330,000.00 ",2004,Phoenix Suns,Non-rookie
 10232,Shawn Marion," $15,070,000.00 ",2006,Phoenix Suns,Non-rookie
 10233,Shawn Marion," $16,440,000.00 ",2007,Miami Heat,Non-rookie
@@ -10311,7 +10311,7 @@
 10309,Solomon Hill," $1,246,680.00 ",2013,Indiana Pacers,Rookie
 10310,Solomon Hill," $1,302,840.00 ",2014,Indiana Pacers,Rookie
 10311,Solomon Hill," $1,358,880.00 ",2015,Indiana Pacers,Rookie
-10312,Solomon Hill," $11,241,218.00 ",2016,New Orleans Pelicans,Rookie
+10312,Solomon Hill," $11,241,218.00 ",2016,New Orleans Pelicans,Non-rookie
 10313,Solomon Hill," $12,236,535.00 ",2017,New Orleans Pelicans,Non-rookie
 10314,Solomon Jones," $675,000.00 ",2006,Atlanta Hawks,Rookie
 10315,Solomon Jones," $729,000.00 ",2007,Atlanta Hawks,Rookie
@@ -10429,8 +10429,8 @@
 10427,Stephen Zimmerman," $1,312,611.00 ",2017,Los Angeles Lakers,Rookie
 10428,Stephon Marbury," $2,266,320.00 ",1997,Minnesota Timberwolves,Rookie
 10429,Stephon Marbury," $2,562,000.00 ",1998,Brooklyn Nets,Rookie
-10430,Stephon Marbury," $9,000,000.00 ",1999,Brooklyn Nets,Rookie
-10431,Stephon Marbury," $10,130,000.00 ",2000,Brooklyn Nets,Rookie
+10430,Stephon Marbury," $9,000,000.00 ",1999,Brooklyn Nets,Non-rookie
+10431,Stephon Marbury," $10,130,000.00 ",2000,Brooklyn Nets,Non-rookie
 10432,Stephon Marbury," $11,250,000.00 ",2001,Phoenix Suns,Non-rookie
 10433,Stephon Marbury," $12,375,000.00 ",2002,Phoenix Suns,Non-rookie
 10434,Stephon Marbury," $13,500,000.00 ",2003,Phoenix Suns,Non-rookie
@@ -10740,7 +10740,7 @@
 10738,Thaddeus Young," $1,968,120.00 ",2008,Philadelphia 76ers,Rookie
 10739,Thaddeus Young," $2,105,400.00 ",2009,Philadelphia 76ers,Rookie
 10740,Thaddeus Young," $2,901,241.00 ",2010,Philadelphia 76ers,Rookie
-10741,Thaddeus Young," $7,478,261.00 ",2011,Philadelphia 76ers,Rookie
+10741,Thaddeus Young," $7,478,261.00 ",2011,Philadelphia 76ers,Non-rookie
 10742,Thaddeus Young," $8,289,130.00 ",2012,Philadelphia 76ers,Non-rookie
 10743,Thaddeus Young," $8,600,000.00 ",2013,Philadelphia 76ers,Non-rookie
 10744,Thaddeus Young," $9,410,870.00 ",2014,Brooklyn Nets,Non-rookie
@@ -10752,7 +10752,7 @@
 10750,Theo Ratliff," $821,000.00 ",1996,Detroit Pistons,Rookie
 10751,Theo Ratliff," $928,080.00 ",1997,Detroit Pistons,Rookie
 10752,Theo Ratliff," $6,000,000.00 ",1998,Philadelphia 76ers,Rookie
-10753,Theo Ratliff," $7,031,250.00 ",1999,Philadelphia 76ers,Rookie
+10753,Theo Ratliff," $7,031,250.00 ",1999,Philadelphia 76ers,Non-rookie
 10754,Theo Ratliff," $9,667,969.00 ",2001,Atlanta Hawks,Non-rookie
 10755,Theo Ratliff," $9,375,000.00 ",2002,Atlanta Hawks,Non-rookie
 10756,Theo Ratliff," $10,156,250.00 ",2003,Atlanta Hawks,Non-rookie
@@ -10780,7 +10780,7 @@
 10778,Tiago Splitter," $3,400,000.00 ",2010,San Antonio Spurs,Rookie
 10779,Tiago Splitter," $3,672,000.00 ",2011,San Antonio Spurs,Rookie
 10780,Tiago Splitter," $3,944,000.00 ",2012,San Antonio Spurs,Rookie
-10781,Tiago Splitter," $10,000,000.00 ",2013,San Antonio Spurs,Rookie
+10781,Tiago Splitter," $10,000,000.00 ",2013,San Antonio Spurs,Non-rookie
 10782,Tiago Splitter," $9,250,000.00 ",2014,San Antonio Spurs,Non-rookie
 10783,Tiago Splitter," $8,500,000.00 ",2015,Atlanta Hawks,Non-rookie
 10784,Tiago Splitter," $8,550,000.00 ",2016,Philadelphia 76ers,Non-rookie
@@ -10860,7 +10860,7 @@
 10858,Tim Thomas," $1,614,240.00 ",1997,Philadelphia 76ers,Rookie
 10859,Tim Thomas," $1,856,000.00 ",1998,Milwaukee Bucks,Rookie
 10860,Tim Thomas," $2,098,560.00 ",1999,Milwaukee Bucks,Rookie
-10861,Tim Thomas," $8,510,000.00 ",2000,Milwaukee Bucks,Rookie
+10861,Tim Thomas," $8,510,000.00 ",2000,Milwaukee Bucks,Non-rookie
 10862,Tim Thomas," $9,675,000.00 ",2001,Milwaukee Bucks,Non-rookie
 10863,Tim Thomas," $10,750,000.00 ",2002,Milwaukee Bucks,Non-rookie
 10864,Tim Thomas," $11,825,000.00 ",2003,Milwaukee Bucks,Non-rookie
@@ -11082,7 +11082,7 @@
 11080,Toure\' Murry," $96,056.00 ",2014,Washington Wizards,Rookie
 11081,Tracy McGrady," $1,359,360.00 ",1997,Toronto Raptors ,Rookie
 11082,Tracy McGrady," $1,767,120.00 ",1999,Toronto Raptors ,Rookie
-11083,Tracy McGrady," $9,660,000.00 ",2000,Orlando Magic,Rookie
+11083,Tracy McGrady," $9,660,000.00 ",2000,Orlando Magic,Non-rookie
 11084,Tracy McGrady," $10,865,250.00 ",2001,Orlando Magic,Non-rookie
 11085,Tracy McGrady," $12,072,500.00 ",2002,Orlando Magic,Non-rookie
 11086,Tracy McGrady," $13,279,750.00 ",2003,Orlando Magic,Non-rookie
@@ -11409,7 +11409,7 @@
 11407,Victor Oladipo," $4,763,760.00 ",2013,Orlando Magic,Rookie
 11408,Victor Oladipo," $4,978,200.00 ",2014,Orlando Magic,Rookie
 11409,Victor Oladipo," $5,192,520.00 ",2015,Orlando Magic,Rookie
-11410,Victor Oladipo," $6,552,960.00 ",2016,Oklahoma City Thunder,Rookie
+11410,Victor Oladipo," $6,552,960.00 ",2016,Oklahoma City Thunder,Non-rookie
 11411,Victor Oladipo," $21,000,000.00 ",2017,Indiana Pacers,Non-rookie
 11412,Viktor Khryapa," $1,019,400.00 ",2004,Portland Trail Blazers,Rookie
 11413,Viktor Khryapa," $1,095,960.00 ",2005,Portland Trail Blazers,Rookie
@@ -11434,7 +11434,7 @@
 11432,Vince Carter," $2,267,280.00 ",1999,Toronto Raptors ,Rookie
 11433,Vince Carter," $2,425,440.00 ",2000,Toronto Raptors ,Rookie
 11434,Vince Carter," $3,073,032.00 ",2001,Toronto Raptors ,Rookie
-11435,Vince Carter," $10,067,750.00 ",2002,Toronto Raptors ,Rookie
+11435,Vince Carter," $10,067,750.00 ",2002,Toronto Raptors ,Non-rookie
 11436,Vince Carter," $11,326,219.00 ",2003,Toronto Raptors ,Non-rookie
 11437,Vince Carter," $12,584,688.00 ",2004,Brooklyn Nets,Non-rookie
 11438,Vince Carter," $13,843,156.00 ",2005,Brooklyn Nets,Non-rookie
@@ -11620,7 +11620,7 @@
 11618,Wesley Matthews," $457,588.00 ",2009,Utah Jazz,Rookie
 11619,Wesley Matthews," $5,765,000.00 ",2010,Portland Trail Blazers,Rookie
 11620,Wesley Matthews," $6,135,160.00 ",2011,Portland Trail Blazers,Rookie
-11621,Wesley Matthews," $6,505,320.00 ",2012,Portland Trail Blazers,Rookie
+11621,Wesley Matthews," $6,505,320.00 ",2012,Portland Trail Blazers,Non-rookie
 11622,Wesley Matthews," $6,875,480.00 ",2013,Portland Trail Blazers,Non-rookie
 11623,Wesley Matthews," $7,245,640.00 ",2014,Portland Trail Blazers,Non-rookie
 11624,Wesley Matthews," $16,400,000.00 ",2015,Dallas Mavericks,Non-rookie
@@ -11739,7 +11739,7 @@
 11737,Yao Ming," $4,147,560.00 ",2003,Houston Rockets,Rookie
 11738,Yao Ming," $4,436,880.00 ",2004,Houston Rockets,Rookie
 11739,Yao Ming," $5,594,906.00 ",2005,Houston Rockets,Rookie
-11740,Yao Ming," $12,455,000.00 ",2006,Houston Rockets,Rookie
+11740,Yao Ming," $12,455,000.00 ",2006,Houston Rockets,Non-rookie
 11741,Yao Ming," $15,070,550.00 ",2008,Houston Rockets,Non-rookie
 11742,Yao Ming," $16,378,325.00 ",2009,Houston Rockets,Non-rookie
 11743,Yao Ming," $17,686,100.00 ",2010,Houston Rockets,Non-rookie
@@ -11825,7 +11825,7 @@
 11823,Zoran Planinic," $150,000.00 ",2006,Brooklyn Nets,Rookie
 11824,Zydrunas Ilgauskas," $720,000.00 ",1996,Cleveland Caveliers,Rookie
 11825,Zydrunas Ilgauskas," $828,000.00 ",1997,Cleveland Caveliers,Rookie
-11826,Zydrunas Ilgauskas," $9,000,000.00 ",1999,Cleveland Caveliers,Rookie
+11826,Zydrunas Ilgauskas," $9,000,000.00 ",1999,Cleveland Caveliers,Non-rookie
 11827,Zydrunas Ilgauskas," $10,130,000.00 ",2000,Cleveland Caveliers,Non-rookie
 11828,Zydrunas Ilgauskas," $11,250,000.00 ",2001,Cleveland Caveliers,Non-rookie
 11829,Zydrunas Ilgauskas," $12,375,000.00 ",2002,Cleveland Caveliers,Non-rookie
@@ -11924,802 +11924,815 @@
 85,Timothe Luwawu-Cabarrot,"$654,468 ",2019,Brooklyn Nets,Minimum
 86,Tyler Johnson,"$183,115 ",2019,Brooklyn Nets,Minimum
 87,Donta Hall,"$101,504 ",2019,Brooklyn Nets,Minimum
-88,Nicolas Batum,"$24,000,000 ",2018,Charlotte Hornets,Bird
-89,Bismack Biyombo,"$17,000,000 ",2018,Charlotte Hornets,Cap Space
-90,Marvin Williams,"$14,087,500 ",2018,Charlotte Hornets,Early Bird
-91,Cody Zeller,"$13,528,090 ",2018,Charlotte Hornets,Bird
-92,Michael Kidd-Gilchrist,"$13,000,000 ",2018,Charlotte Hornets,Bird
-93,Kemba Walker,"$12,000,000 ",2018,Charlotte Hornets,Bird
-94,Jeremy Lamb,"$7,488,372 ",2018,Charlotte Hornets,Bird
-95,Tony Parker,"$5,000,000 ",2018,Charlotte Hornets,NT-MLE
-96,Frank Kaminsky,"$3,627,842 ",2018,Charlotte Hornets,Rookie
-97,Malik Monk,"$3,447,480 ",2018,Charlotte Hornets,Rookie
-98,Miles Bridges,"$3,206,640 ",2018,Charlotte Hornets,Rookie
-99,Willy Hernangomez,"$1,544,951 ",2018,Charlotte Hornets,Cap Space
-100,Shelvin Mack,"$1,512,601 ",2018,Charlotte Hornets,Minimum
-101,Dwayne Bacon,"$1,378,242 ",2018,Charlotte Hornets,NT-MLE
-102,Devonte' Graham,"$988,464 ",2018,Charlotte Hornets,NT-MLE
-103,Nicolas Batum,"$25,565,217 ",2019,Charlotte Hornets,Bird
-104,Terry Rozier,"$19,894,737 ",2019,Charlotte Hornets,Sign-and-Trade
-105,Bismack Biyombo,"$17,000,000 ",2019,Charlotte Hornets,Cap Space
-106,Cody Zeller,"$14,471,910 ",2019,Charlotte Hornets,Bird
-107,Malik Monk,"$4,028,400 ",2019,Charlotte Hornets,Rookie
-108,PJ Washington,"$3,831,840 ",2019,Charlotte Hornets,Rookie
-109,Miles Bridges,"$3,755,400 ",2019,Charlotte Hornets,Rookie
-110,Willy Hernangomez,"$1,676,735 ",2019,Charlotte Hornets,Cap Space
-111,Dwayne Bacon,"$1,618,520 ",2019,Charlotte Hornets,NT-MLE
-112,Devonte' Graham,"$1,416,852 ",2019,Charlotte Hornets,NT-MLE
-113,Cody Martin,"$1,173,310 ",2019,Charlotte Hornets,NT-MLE
-114,Caleb Martin,"$898,310 ",2019,Charlotte Hornets,NT-MLE
-115,Jalen McDaniels,"$898,310 ",2019,Charlotte Hornets,NT-MLE
-116,Joe Chealey,"$81,678 ",2019,Charlotte Hornets,Minimum
-117,Otto Porter Jr.,"$26,011,913 ",2018,Chicago Bulls,Cap Space
-118,Zach LaVine,"$19,500,000 ",2018,Chicago Bulls,Cap Space
-119,Robin Lopez,"$14,357,750 ",2018,Chicago Bulls,Cap Space
-120,Cristiano Felicio,"$8,470,980 ",2018,Chicago Bulls,Cap Space
-121,Lauri Markkanen,"$4,536,120 ",2018,Chicago Bulls,Rookie
-122,Wendell Carter Jr.,"$4,441,200 ",2018,Chicago Bulls,Rookie
-123,Kris Dunn,"$4,221,000 ",2018,Chicago Bulls,Rookie
-124,Denzel Valentine,"$2,280,600 ",2018,Chicago Bulls,Rookie
-125,Chandler Hutchison,"$1,991,520 ",2018,Chicago Bulls,Rookie
-126,Timothe Luwawu-Cabarrot,"$1,544,951 ",2018,Chicago Bulls,Rookie
-127,Wayne Selden,"$1,544,951 ",2018,Chicago Bulls,Minimum
-128,Ryan Arcidiacono,"$1,349,383 ",2018,Chicago Bulls,Minimum
-129,Antonio Blakeney,"$1,349,383 ",2018,Chicago Bulls,Minimum
-130,Shaquille Harrison,"$1,311,264 ",2018,Chicago Bulls,Minimum
-131,Walter Lemon Jr.,"$99,107 ",2018,Chicago Bulls,Minimum
-132,Otto Porter Jr.,"$27,250,575 ",2019,Chicago Bulls,Cap Space
-133,Zach LaVine,"$19,500,000 ",2019,Chicago Bulls,Cap Space
-134,Thaddeus Young,"$12,900,000 ",2019,Chicago Bulls,Cap Space
-135,Tomas Satoransky,"$10,000,000 ",2019,Chicago Bulls,Sign-and-Trade
-136,Cristiano Felicio,"$8,156,500 ",2019,Chicago Bulls,Cap Space
-137,Kris Dunn,"$5,348,007 ",2019,Chicago Bulls,Rookie
-138,Coby White,"$5,307,120 ",2019,Chicago Bulls,Rookie
-139,Lauri Markkanen,"$5,300,400 ",2019,Chicago Bulls,Rookie
-140,Wendell Carter Jr.,"$5,201,400 ",2019,Chicago Bulls,Rookie
-141,Denzel Valentine,"$3,377,569 ",2019,Chicago Bulls,Rookie
-142,Ryan Arcidiacono,"$3,000,000 ",2019,Chicago Bulls,Cap Space
-143,Chandler Hutchison,"$2,332,320 ",2019,Chicago Bulls,Rookie
-144,Luke Kornet,"$2,250,000 ",2019,Chicago Bulls,Room
-145,Daniel Gafford,"$898,310 ",2019,Chicago Bulls,Cap Space
-146,Shaquille Harrison,"$898,310 ",2019,Chicago Bulls,Minimum
-147,Kevin Love,"$24,119,025 ",2018,Cleveland Cavaliers,Bird
-148,Tristan Thompson,"$17,469,565 ",2018,Cleveland Cavaliers,Bird
-149,J.R. Smith,"$14,720,000 ",2018,Cleveland Cavaliers,Bird
-150,Brandon Knight,"$14,631,250 ",2018,Cleveland Cavaliers,Bird
-151,Jordan Clarkson,"$12,500,000 ",2018,Cleveland Cavaliers,Early Bird
-152,John Henson,"$11,327,466 ",2018,Cleveland Cavaliers,Bird
-153,Matthew Dellavedova,"$9,607,500 ",2018,Cleveland Cavaliers,Cap Space
-154,Collin Sexton,"$4,068,600 ",2018,Cleveland Cavaliers,Rookie
-155,Marquese Chriss,"$3,206,160 ",2018,Cleveland Cavaliers,Rookie
-156,Cedi Osman,"$2,775,000 ",2018,Cleveland Cavaliers,T-MLE
-157,Larry Nance Jr.,"$2,272,391 ",2018,Cleveland Cavaliers,Rookie
-158,Ante Zizic,"$1,952,760 ",2018,Cleveland Cavaliers,Rookie
-159,Channing Frye,"$1,512,601 ",2018,Cleveland Cavaliers,Minimum
-160,David Nwaba,"$1,512,601 ",2018,Cleveland Cavaliers,Minimum
-161,Nik Stauskas,"$504,200 ",2018,Cleveland Cavaliers,Minimum
-162,Kevin Love,"$28,942,830 ",2019,Cleveland Cavaliers,Bird
-163,Andre Drummond,"$27,950,199 ",2019,Cleveland Cavaliers,Bird
-164,Tristan Thompson,"$18,539,130 ",2019,Cleveland Cavaliers,Bird
-165,Larry Nance Jr.,"$12,727,273 ",2019,Cleveland Cavaliers,Bird
-166,Matthew Dellavedova,"$9,607,500 ",2019,Cleveland Cavaliers,Cap Space
-167,Dante Exum,"$9,600,000 ",2019,Cleveland Cavaliers,Bird
-168,Darius Garland,"$6,400,920 ",2019,Cleveland Cavaliers,Rookie
-169,Collin Sexton,"$4,764,960 ",2019,Cleveland Cavaliers,Rookie
-170,Cedi Osman,"$2,907,143 ",2019,Cleveland Cavaliers,T-MLE
-171,Ante Zizic,"$2,281,800 ",2019,Cleveland Cavaliers,Rookie
-172,Dylan Windler,"$2,035,800 ",2019,Cleveland Cavaliers,Rookie
-173,Alfonzo McKinnie,"$1,500,000 ",2019,Cleveland Cavaliers,NT-MLE
-174,Kevin Porter Jr.,"$1,290,960 ",2019,Cleveland Cavaliers,Rookie
-175,Dean Wade,"$375,000 ",2019,Cleveland Cavaliers,NT-MLE
-176,Jordan Bell,"$250,000 ",2019,Cleveland Cavaliers,Minimum
-177,Tim Hardaway Jr.,"$19,200,127 ",2018,Dallas Mavericks,Cap Space
-178,Courtney Lee,"$12,253,780 ",2018,Dallas Mavericks,Cap Space
-179,Dwight Powell,"$9,631,250 ",2018,Dallas Mavericks,Cap Space
-180,Luka Doncic,"$6,560,640 ",2018,Dallas Mavericks,Rookie
-181,Kristaps Porzingis,"$5,697,054 ",2018,Dallas Mavericks,Rookie
-182,Dirk Nowitzki,"$5,000,000 ",2018,Dallas Mavericks,Cap Space
-183,Jose Barea,"$3,710,850 ",2018,Dallas Mavericks,Cap Space
-184,Justin Jackson,"$2,807,880 ",2018,Dallas Mavericks,Rookie
-185,Trey Burke,"$1,795,015 ",2018,Dallas Mavericks,Minimum
-186,Dorian Finney-Smith,"$1,544,951 ",2018,Dallas Mavericks,Cap Space
-187,Devin Harris,"$1,512,601 ",2018,Dallas Mavericks,Minimum
-188,Maxi Kleber,"$1,378,242 ",2018,Dallas Mavericks,Minimum
-189,Jalen Brunson,"$1,230,000 ",2018,Dallas Mavericks,Cap Space
-190,Ryan Broekhoff,"$838,464 ",2018,Dallas Mavericks,Cap Space
-191,Salah Mejri,"$512,746 ",2018,Dallas Mavericks,Minimum
-192,Kristaps Porzingis,"$27,285,000 ",2019,Dallas Mavericks,Bird
-193,Tim Hardaway Jr.,"$20,025,127 ",2019,Dallas Mavericks,Cap Space
-194,Courtney Lee,"$12,759,670 ",2019,Dallas Mavericks,Cap Space
-195,Dwight Powell,"$10,259,375 ",2019,Dallas Mavericks,Cap Space
-196,Delon Wright,"$9,473,684 ",2019,Dallas Mavericks,Sign-and-Trade
-197,Maxi Kleber,"$8,000,000 ",2019,Dallas Mavericks,Early Bird
-198,Luka Doncic,"$7,683,360 ",2019,Dallas Mavericks,Rookie
-199,Seth Curry,"$7,461,380 ",2019,Dallas Mavericks,NT-MLE
-200,Dorian Finney-Smith,"$4,000,000 ",2019,Dallas Mavericks,Bird
-201,Boban Marjanovic,"$3,500,000 ",2019,Dallas Mavericks,Bi-Annual
-202,Justin Jackson,"$3,280,920 ",2019,Dallas Mavericks,Rookie
-203,Jose Barea,"$1,620,564 ",2019,Dallas Mavericks,Minimum
-204,Jalen Brunson,"$1,416,852 ",2019,Dallas Mavericks,Cap Space
-205,Michael Kidd-Gilchrist,"$604,278 ",2019,Dallas Mavericks,Minimum
-206,Ryan Broekhoff,"$163,356 ",2019,Dallas Mavericks,Minimum
-207,Paul Millsap,"$29,230,769 ",2018,Denver Nuggets,Cap Space
-208,Nikola Jokic,"$25,467,250 ",2018,Denver Nuggets,Bird
-209,Gary Harris,"$16,517,857 ",2018,Denver Nuggets,Bird
-210,Mason Plumlee,"$12,917,808 ",2018,Denver Nuggets,Bird
-211,Will Barton,"$11,830,358 ",2018,Denver Nuggets,Bird
-212,Jamal Murray,"$3,499,800 ",2018,Denver Nuggets,Rookie
-213,Trey Lyles,"$3,364,249 ",2018,Denver Nuggets,Rookie
-214,Michael Porter Jr.,"$2,894,160 ",2018,Denver Nuggets,Rookie
-215,Juan Hernangomez,"$2,166,360 ",2018,Denver Nuggets,Rookie
-216,Torrey Craig,"$2,000,000 ",2018,Denver Nuggets,Cap Space
-217,Tyler Lydon,"$1,874,640 ",2018,Denver Nuggets,Rookie
-218,Malik Beasley,"$1,773,840 ",2018,Denver Nuggets,Rookie
-219,Isaiah Thomas,"$1,512,601 ",2018,Denver Nuggets,Minimum
-220,Monte Morris,"$1,349,383 ",2018,Denver Nuggets,T-MLE
-221,Jarred Vanderbilt,"$838,464 ",2018,Denver Nuggets,Cap Space
-222,Paul Millsap,"$30,350,000 ",2019,Denver Nuggets,Cap Space
-223,Nikola Jokic,"$27,504,630 ",2019,Denver Nuggets,Bird
-224,Gary Harris,"$17,839,286 ",2019,Denver Nuggets,Bird
-225,Mason Plumlee,"$14,041,096 ",2019,Denver Nuggets,Bird
-226,Will Barton,"$12,776,786 ",2019,Denver Nuggets,Bird
-227,Jerami Grant,"$9,346,153 ",2019,Denver Nuggets,Bird
-228,Jamal Murray,"$4,444,746 ",2019,Denver Nuggets,Rookie
-229,Michael Porter Jr.,"$3,389,400 ",2019,Denver Nuggets,Rookie
-230,Torrey Craig,"$2,000,000 ",2019,Denver Nuggets,Cap Space
-231,Noah Vonleh,"$2,000,000 ",2019,Denver Nuggets,NT-MLE
-232,Monte Morris,"$1,588,231 ",2019,Denver Nuggets,T-MLE
-233,Keita Bates-Diop,"$1,416,852 ",2019,Denver Nuggets,NT-MLE
-234,Vlatko Cancar,"$898,310 ",2019,Denver Nuggets,NT-MLE
-235,P.J. Dozier,"$183,115 ",2019,Denver Nuggets,NT-MLE
-236,Blake Griffin,"$32,088,932 ",2018,Detroit Pistons,Bird
-237,Andre Drummond,"$25,434,263 ",2018,Detroit Pistons,Bird
-238,Reggie Jackson,"$17,043,478 ",2018,Detroit Pistons,Bird
-239,Jon Leuer,"$10,002,681 ",2018,Detroit Pistons,Cap Space
-240,Langston Galloway,"$7,000,000 ",2018,Detroit Pistons,NT-MLE
-241,Ishmael Smith,"$6,000,000 ",2018,Detroit Pistons,Cap Space
-242,Glenn Robinson III,"$4,075,000 ",2018,Detroit Pistons,NT-MLE
-243,Luke Kennard,"$3,275,280 ",2018,Detroit Pistons,Rookie
-244,Thon Maker,"$2,799,720 ",2018,Detroit Pistons,Rookie
-245,Wayne Ellington,"$2,383,076 ",2018,Detroit Pistons,NT-MLE
-246,Jose Calderon,"$1,512,601 ",2018,Detroit Pistons,Minimum
-247,Zaza Pachulia,"$1,512,601 ",2018,Detroit Pistons,Minimum
-248,Sviatoslav Mykhailiuk,"$1,487,694 ",2018,Detroit Pistons,Cap Space
-249,Bruce Brown,"$838,464 ",2018,Detroit Pistons,NT-MLE
-250,Khyri Thomas,"$838,464 ",2018,Detroit Pistons,NT-MLE
-251,Blake Griffin,"$34,449,964 ",2019,Detroit Pistons,Bird
-252,Brandon Knight,"$15,643,750 ",2019,Detroit Pistons,Bird
-253,Tony Snell,"$11,392,857 ",2019,Detroit Pistons,Bird
-254,John Henson,"$9,732,396 ",2019,Detroit Pistons,Bird
-255,Langston Galloway,"$7,333,333 ",2019,Detroit Pistons,NT-MLE
-256,Derrick Rose,"$7,317,073 ",2019,Detroit Pistons,NT-MLE
-257,Luke Kennard,"$3,827,160 ",2019,Detroit Pistons,Rookie
-258,Thon Maker,"$3,569,643 ",2019,Detroit Pistons,Rookie
-259,Sekou Doumbouya,"$3,285,120 ",2019,Detroit Pistons,Rookie
-260,Jordan McRae,"$1,645,357 ",2019,Detroit Pistons,Minimum
-261,Christian Wood,"$1,645,357 ",2019,Detroit Pistons,Minimum
-262,Bruce Brown,"$1,416,852 ",2019,Detroit Pistons,NT-MLE
-263,Sviatoslav Mykhailiuk,"$1,416,852 ",2019,Detroit Pistons,Cap Space
-264,Khyri Thomas,"$1,416,852 ",2019,Detroit Pistons,NT-MLE
-265,Justin Patton,"$183,115 ",2019,Detroit Pistons,Minimum
-266,Stephen Curry,"$37,457,154 ",2018,Golden State Warriors,Bird
-267,Kevin Durant,"$30,000,000 ",2018,Golden State Warriors,Non-Bird
-268,Klay Thompson,"$18,988,725 ",2018,Golden State Warriors,Bird
-269,Draymond Green,"$17,469,565 ",2018,Golden State Warriors,Bird
-270,Andre Iguodala,"$16,000,000 ",2018,Golden State Warriors,Bird
-271,Shaun Livingston,"$8,307,692 ",2018,Golden State Warriors,Bird
-272,DeMarcus Cousins,"$5,337,000 ",2018,Golden State Warriors,T-MLE
-273,Jacob Evans,"$1,644,240 ",2018,Golden State Warriors,Rookie
-274,Quinn Cook,"$1,544,951 ",2018,Golden State Warriors,Minimum
-275,Damian Jones,"$1,544,951 ",2018,Golden State Warriors,Rookie
-276,Jonas Jerebko,"$1,512,601 ",2018,Golden State Warriors,Minimum
-277,Kevon Looney,"$1,512,601 ",2018,Golden State Warriors,Minimum
-278,Jordan Bell,"$1,378,242 ",2018,Golden State Warriors,Minimum
-279,Alfonzo McKinnie,"$1,349,383 ",2018,Golden State Warriors,Minimum
-280,Andrew Bogut,"$307,648 ",2018,Golden State Warriors,Minimum
-281,Stephen Curry,"$40,231,758 ",2019,Golden State Warriors,Bird
-282,Klay Thompson,"$32,742,000 ",2019,Golden State Warriors,Bird
-283,Andrew Wiggins,"$27,504,630 ",2019,Golden State Warriors,Bird
-284,Draymond Green,"$18,539,130 ",2019,Golden State Warriors,Bird
-285,Kevon Looney,"$4,464,286 ",2019,Golden State Warriors,Bird
-286,Jordan Poole,"$1,964,760 ",2019,Golden State Warriors,Rookie
-287,Eric Paschall,"$898,310 ",2019,Golden State Warriors,NT-MLE
-288,Alen Smailagic,"$898,310 ",2019,Golden State Warriors,NT-MLE
-289,Damion Lee,"$842,327 ",2019,Golden State Warriors,NT-MLE
-290,Marquese Chriss,"$654,468 ",2019,Golden State Warriors,Minimum
-291,Ky Bowman,"$350,189 ",2019,Golden State Warriors,NT-MLE
-292,Juan Toscano-Anderson,"$350,189 ",2019,Golden State Warriors,NT-MLE
-293,Mychal Mulder,"$187,782 ",2019,Golden State Warriors,NT-MLE
-294,Dragan Bender,"$91,557 ",2019,Golden State Warriors,Minimum
-295,Dragan Bender,"$94,850 ",2019,Golden State Warriors,-
-296,Chris Paul,"$35,654,150 ",2018,Houston Rockets,Bird
-297,James Harden,"$30,421,854 ",2018,Houston Rockets,Cap Space
-298,Clint Capela,"$13,793,103 ",2018,Houston Rockets,Bird
-299,Eric Gordon,"$13,500,375 ",2018,Houston Rockets,Cap Space
-300,Iman Shumpert,"$11,011,236 ",2018,Houston Rockets,Bird
-301,P.J. Tucker,"$7,969,537 ",2018,Houston Rockets,NT-MLE
-302,Nene Hilario,"$3,651,480 ",2018,Houston Rockets,Non-Bird
-303,Gerald Green,"$1,512,601 ",2018,Houston Rockets,Minimum
-304,Austin Rivers,"$922,943 ",2018,Houston Rockets,Minimum
-305,Isaiah Hartenstein,"$838,464 ",2018,Houston Rockets,T-MLE
-306,Kenneth Faried,"$683,661 ",2018,Houston Rockets,Minimum
-307,Gary Clark,"$596,872 ",2018,Houston Rockets,T-MLE
-308,Danuel House,"$247,827 ",2018,Houston Rockets,Minimum
-309,Chris Chiozza,"$90,005 ",2018,Houston Rockets,Minimum
-310,Michael Frazier,"$23,685 ",2018,Houston Rockets,T-MLE
-311,Russell Westbrook,"$38,506,482 ",2019,Houston Rockets,Bird
-312,James Harden,"$38,199,000 ",2019,Houston Rockets,Bird
-313,Eric Gordon,"$14,057,730 ",2019,Houston Rockets,Cap Space
-314,Robert Covington,"$11,301,219 ",2019,Houston Rockets,Cap Space
-315,P.J. Tucker,"$8,349,039 ",2019,Houston Rockets,NT-MLE
-316,Danuel House,"$3,540,000 ",2019,Houston Rockets,T-MLE
-317,Austin Rivers,"$2,174,318 ",2019,Houston Rockets,Minimum
-318,Ben McLemore,"$2,028,594 ",2019,Houston Rockets,Minimum
-319,Bruno Caboclo,"$1,845,301 ",2019,Houston Rockets,Minimum
-320,Tyson Chandler,"$1,620,564 ",2019,Houston Rockets,Minimum
-321,David Nwaba,"$903,111 ",2019,Houston Rockets,T-MLE
-322,Chris Clemons,"$563,347 ",2019,Houston Rockets,T-MLE
-323,DeMarre Carroll,"$512,721 ",2019,Houston Rockets,Minimum
-324,Jeff Green,"$439,475 ",2019,Houston Rockets,Minimum
-325,Victor Oladipo,"$21,000,000 ",2018,Indiana Pacers,Bird
-326,Thaddeus Young,"$13,764,045 ",2018,Indiana Pacers,Bird
-327,Tyreke Evans,"$12,400,000 ",2018,Indiana Pacers,Cap Space
-328,Bojan Bogdanovic,"$10,500,000 ",2018,Indiana Pacers,Cap Space
-329,Darren Collison,"$10,000,000 ",2018,Indiana Pacers,Cap Space
-330,Cory Joseph,"$7,945,000 ",2018,Indiana Pacers,Cap Space
-331,Doug McDermott,"$7,333,334 ",2018,Indiana Pacers,Cap Space
-332,Kyle O'Quinn,"$4,449,000 ",2018,Indiana Pacers,Room
-333,Myles Turner,"$3,410,284 ",2018,Indiana Pacers,Rookie
-334,Domantas Sabonis,"$2,659,800 ",2018,Indiana Pacers,Rookie
-335,TJ Leaf,"$2,407,560 ",2018,Indiana Pacers,Rookie
-336,Aaron Holiday,"$1,911,960 ",2018,Indiana Pacers,Rookie
-337,Alize Johnson,"$838,464 ",2018,Indiana Pacers,Minimum
-338,Wesley Matthews,"$512,746 ",2018,Indiana Pacers,Minimum
-339,Edmond Sumner,"$449,794 ",2018,Indiana Pacers,Minimum
-340,Victor Oladipo,"$21,000,000 ",2019,Indiana Pacers,Bird
-341,Malcolm Brogdon,"$20,000,000 ",2019,Indiana Pacers,Sign-and-Trade
-342,Myles Turner,"$18,000,000 ",2019,Indiana Pacers,Bird
-343,T.J. Warren,"$10,810,000 ",2019,Indiana Pacers,Bird
-344,Jeremy Lamb,"$10,500,000 ",2019,Indiana Pacers,Cap Space
-345,Doug McDermott,"$7,333,333 ",2019,Indiana Pacers,Cap Space
-346,Justin Holiday,"$4,767,000 ",2019,Indiana Pacers,Room
-347,Domantas Sabonis,"$3,529,555 ",2019,Indiana Pacers,Rookie
-348,T.J. McConnell,"$3,500,000 ",2019,Indiana Pacers,Cap Space
-349,Goga Bitadze,"$2,816,760 ",2019,Indiana Pacers,Rookie
-350,TJ Leaf,"$2,813,280 ",2019,Indiana Pacers,Rookie
-351,Aaron Holiday,"$2,239,200 ",2019,Indiana Pacers,Rookie
-352,Edmond Sumner,"$2,000,000 ",2019,Indiana Pacers,Cap Space
-353,JaKarr Sampson,"$1,620,564 ",2019,Indiana Pacers,Minimum
-354,Alize Johnson,"$1,416,852 ",2019,Indiana Pacers,Minimum
-355,Danilo Gallinari,"$21,587,579 ",2018,Los Angeles Clippers,Bird
-356,Wilson Chandler,"$12,800,562 ",2018,Los Angeles Clippers,Bird
-357,Garrett Temple,"$8,000,000 ",2018,Los Angeles Clippers,Cap Space
-358,Louis Williams,"$8,000,000 ",2018,Los Angeles Clippers,Bird
-359,JaMychal Green,"$7,866,667 ",2018,Los Angeles Clippers,Bird
-360,Montrezl Harrell,"$6,000,000 ",2018,Los Angeles Clippers,Bird
-361,Patrick Beverley,"$5,027,027 ",2018,Los Angeles Clippers,Bird
-362,Shai Gilgeous-Alexander,"$3,375,360 ",2018,Los Angeles Clippers,Rookie
-363,Jerome Robinson,"$3,046,200 ",2018,Los Angeles Clippers,Rookie
-364,Landry Shamet,"$1,703,640 ",2018,Los Angeles Clippers,Rookie
-365,Rodney McGruder,"$1,544,951 ",2018,Los Angeles Clippers,Cap Space
-366,Ivica Zubac,"$1,544,951 ",2018,Los Angeles Clippers,Cap Space
-367,Sindarius Thornwell,"$1,378,242 ",2018,Los Angeles Clippers,NT-MLE
-368,Tyrone Wallace,"$1,349,383 ",2018,Los Angeles Clippers,Minimum
-369,Paul George,"$33,005,556 ",2019,Los Angeles Clippers,Bird
-370,Kawhi Leonard,"$32,742,000 ",2019,Los Angeles Clippers,Cap Space
-371,Marcus Morris Sr.,"$15,000,000 ",2019,Los Angeles Clippers,Cap Space
-372,Patrick Beverley,"$12,345,680 ",2019,Los Angeles Clippers,Bird
-373,Louis Williams,"$8,000,000 ",2019,Los Angeles Clippers,Bird
-374,Ivica Zubac,"$6,481,482 ",2019,Los Angeles Clippers,Bird
-375,Montrezl Harrell,"$6,000,000 ",2019,Los Angeles Clippers,Bird
-376,Rodney McGruder,"$4,807,693 ",2019,Los Angeles Clippers,Cap Space
-377,JaMychal Green,"$4,767,000 ",2019,Los Angeles Clippers,Room
-378,Mfiondu Kabengele,"$1,977,000 ",2019,Los Angeles Clippers,Rookie
-379,Patrick Patterson,"$1,620,564 ",2019,Los Angeles Clippers,Minimum
-380,Terance Mann,"$1,000,000 ",2019,Los Angeles Clippers,Minimum
-381,Reggie Jackson,"$512,721 ",2019,Los Angeles Clippers,Minimum
-382,Joakim Noah,"$183,115 ",2019,Los Angeles Clippers,Minimum
-383,LeBron James,"$35,654,150 ",2018,Los Angeles Lakers,Cap Space
-384,Kentavious Caldwell-Pope,"$12,000,000 ",2018,Los Angeles Lakers,Non-Bird
-385,Rajon Rondo,"$9,000,000 ",2018,Los Angeles Lakers,Cap Space
-386,Lonzo Ball,"$7,461,960 ",2018,Los Angeles Lakers,Rookie
-387,Brandon Ingram,"$5,757,120 ",2018,Los Angeles Lakers,Rookie
-388,Mike Muscala,"$5,000,000 ",2018,Los Angeles Lakers,Bird
-389,Lance Stephenson,"$4,449,000 ",2018,Los Angeles Lakers,Cap Space
-390,Reggie Bullock,"$2,500,000 ",2018,Los Angeles Lakers,Bird
-391,Moritz Wagner,"$1,762,080 ",2018,Los Angeles Lakers,Rookie
-392,Kyle Kuzma,"$1,689,840 ",2018,Los Angeles Lakers,Rookie
-393,Josh Hart,"$1,655,160 ",2018,Los Angeles Lakers,Rookie
-394,JaVale McGee,"$1,512,601 ",2018,Los Angeles Lakers,Minimum
-395,Tyson Chandler,"$1,333,140 ",2018,Los Angeles Lakers,Minimum
-396,Isaac Bonga,"$1,000,000 ",2018,Los Angeles Lakers,Cap Space
-397,Jermerrio Jones,"$52,108 ",2018,Los Angeles Lakers,Minimum
-398,LeBron James,"$37,436,858 ",2019,Los Angeles Lakers,Cap Space
-399,Anthony Davis,"$27,093,019 ",2019,Los Angeles Lakers,Bird
-400,Danny Green,"$14,634,146 ",2019,Los Angeles Lakers,Cap Space
-401,Kentavious Caldwell-Pope,"$8,089,282 ",2019,Los Angeles Lakers,Cap Space
-402,JaVale McGee,"$4,000,000 ",2019,Los Angeles Lakers,Cap Space
-403,Quinn Cook,"$3,000,000 ",2019,Los Angeles Lakers,Cap Space
-404,Alex Caruso,"$2,750,000 ",2019,Los Angeles Lakers,Room
-405,Rajon Rondo,"$2,564,753 ",2019,Los Angeles Lakers,Minimum
-406,Kyle Kuzma,"$1,974,600 ",2019,Los Angeles Lakers,Rookie
-407,Markieff Morris,"$1,750,000 ",2019,Los Angeles Lakers,DPE
-408,Jared Dudley,"$1,620,564 ",2019,Los Angeles Lakers,Minimum
-409,Dwight Howard,"$1,620,564 ",2019,Los Angeles Lakers,Minimum
-410,Talen Horton-Tucker,"$898,310 ",2019,Los Angeles Lakers,Minimum
-411,Dion Waiters,"$375,385 ",2019,Los Angeles Lakers,Minimum
-412,Mike Conley,"$30,521,115 ",2018,Memphis Grizzlies,Bird
-413,Chandler Parsons,"$24,107,258 ",2018,Memphis Grizzlies,Cap Space
-414,Jonas Valanciunas,"$16,539,326 ",2018,Memphis Grizzlies,Bird
-415,Avery Bradley,"$12,000,000 ",2018,Memphis Grizzlies,Bird
-416,Kyle Anderson,"$8,641,000 ",2018,Memphis Grizzlies,NT-MLE
-417,C.J. Miles,"$8,333,333 ",2018,Memphis Grizzlies,NT-MLE
-418,Jaren Jackson Jr.,"$5,915,040 ",2018,Memphis Grizzlies,Rookie
-419,Justin Holiday,"$4,384,615 ",2018,Memphis Grizzlies,NT-MLE
-420,Delon Wright,"$2,536,898 ",2018,Memphis Grizzlies,Rookie
-421,Dillon Brooks,"$1,378,242 ",2018,Memphis Grizzlies,NT-MLE
-422,Tyler Dorsey,"$1,378,242 ",2018,Memphis Grizzlies,Minimum
-423,Ivan Rabb,"$1,378,242 ",2018,Memphis Grizzlies,NT-MLE
-424,Joakim Noah,"$1,093,858 ",2018,Memphis Grizzlies,Minimum
-425,Jevon Carter,"$838,464 ",2018,Memphis Grizzlies,Minimum
-426,Bruno Caboclo,"$522,150 ",2018,Memphis Grizzlies,Minimum
-427,Gorgui Dieng,"$16,229,213 ",2019,Memphis Grizzlies,Bird
-428,Jonas Valanciunas,"$16,000,000 ",2019,Memphis Grizzlies,Bird
-429,Justise Winslow,"$13,000,000 ",2019,Memphis Grizzlies,Bird
-430,Tyus Jones,"$9,258,000 ",2019,Memphis Grizzlies,NT-MLE
-431,Kyle Anderson,"$9,073,050 ",2019,Memphis Grizzlies,NT-MLE
-432,Ja Morant,"$8,730,240 ",2019,Memphis Grizzlies,Rookie
-433,Josh Jackson,"$7,059,480 ",2019,Memphis Grizzlies,Rookie
-434,Jaren Jackson Jr.,"$6,927,480 ",2019,Memphis Grizzlies,Rookie
-435,Marko Guduric,"$2,625,000 ",2019,Memphis Grizzlies,Bi-Annual
-436,Brandon Clarke,"$2,478,840 ",2019,Memphis Grizzlies,Rookie
-437,Grayson Allen,"$2,429,400 ",2019,Memphis Grizzlies,Rookie
-438,Dillon Brooks,"$1,618,520 ",2019,Memphis Grizzlies,NT-MLE
-439,De'Anthony Melton,"$1,416,852 ",2019,Memphis Grizzlies,Cap Space
-440,Jontay Porter,"$197,933 ",2019,Memphis Grizzlies,Minimum
-441,Anthony Tolliver,"$183,115 ",2019,Memphis Grizzlies,Minimum
-442,Hassan Whiteside,"$25,434,263 ",2018,Miami Heat,Cap Space
-443,Ryan Anderson,"$20,421,546 ",2018,Miami Heat,Cap Space
-444,Goran Dragic,"$18,109,175 ",2018,Miami Heat,Bird
-445,James Johnson,"$14,651,700 ",2018,Miami Heat,Cap Space
-446,Kelly Olynyk,"$12,137,527 ",2018,Miami Heat,Cap Space
-447,Dion Waiters,"$11,550,000 ",2018,Miami Heat,Cap Space
-448,Josh Richardson,"$9,367,200 ",2018,Miami Heat,Bird
-449,Justise Winslow,"$3,448,926 ",2018,Miami Heat,Rookie
-450,Edrice Adebayo,"$2,955,840 ",2018,Miami Heat,Rookie
-451,Udonis Haslem,"$1,512,601 ",2018,Miami Heat,Minimum
-452,Dwyane Wade,"$1,512,601 ",2018,Miami Heat,Minimum
-453,Derrick Jones Jr.,"$1,512,601 ",2018,Miami Heat,Minimum
-454,Yante Maten,"$14,211 ",2018,Miami Heat,Minimum
-455,Duncan Robinson,"$9,474 ",2018,Miami Heat,NT-MLE
-456,Kendrick Nunn,"$4,737 ",2018,Miami Heat,Minimum
-457,Jimmy Butler,"$32,742,000 ",2019,Miami Heat,Sign-and-Trade
-458,Goran Dragic,"$19,217,900 ",2019,Miami Heat,Bird
-459,Andre Iguodala,"$17,185,185 ",2019,Miami Heat,Bird
-460,Solomon Hill,"$12,758,781 ",2019,Miami Heat,Cap Space
-461,Kelly Olynyk,"$12,667,886 ",2019,Miami Heat,Cap Space
-462,Meyers Leonard,"$11,286,517 ",2019,Miami Heat,Bird
-463,Jae Crowder,"$7,815,533 ",2019,Miami Heat,Bird
-464,Tyler Herro,"$3,640,200 ",2019,Miami Heat,Rookie
-465,Edrice Adebayo,"$3,454,080 ",2019,Miami Heat,Rookie
-466,Derrick Jones Jr.,"$1,645,357 ",2019,Miami Heat,Minimum
-467,Udonis Haslem,"$1,620,564 ",2019,Miami Heat,Minimum
-468,Kendrick Nunn,"$1,416,852 ",2019,Miami Heat,Minimum
-469,Duncan Robinson,"$1,416,852 ",2019,Miami Heat,NT-MLE
-470,KZ Okpala,"$898,310 ",2019,Miami Heat,NT-MLE
-471,Chris Silva,"$466,918 ",2019,Miami Heat,NT-MLE
-472,Giannis Antetokounmpo,"$24,157,303 ",2018,Milwaukee Bucks,Bird
-473,George Hill,"$19,000,000 ",2018,Milwaukee Bucks,Cap Space
-474,Eric Bledsoe,"$15,000,000 ",2018,Milwaukee Bucks,Bird
-475,Khris Middleton,"$13,000,000 ",2018,Milwaukee Bucks,Bird
-476,Nikola Mirotic,"$12,500,000 ",2018,Milwaukee Bucks,Cap Space
-477,Tony Snell,"$10,807,143 ",2018,Milwaukee Bucks,Bird
-478,Ersan Ilyasova,"$7,000,000 ",2018,Milwaukee Bucks,NT-MLE
-479,Brook Lopez,"$3,382,000 ",2018,Milwaukee Bucks,Bi-Annual
-480,DJ Wilson,"$2,534,280 ",2018,Milwaukee Bucks,Rookie
-481,Donte DiVincenzo,"$2,481,000 ",2018,Milwaukee Bucks,Rookie
-482,Pat Connaughton,"$1,641,000 ",2018,Milwaukee Bucks,NT-MLE
-483,Malcolm Brogdon,"$1,544,951 ",2018,Milwaukee Bucks,Cap Space
-484,Sterling Brown,"$1,378,242 ",2018,Milwaukee Bucks,NT-MLE
-485,Pau Gasol,"$333,285 ",2018,Milwaukee Bucks,Minimum
-486,Tim Frazier,"$196,553 ",2018,Milwaukee Bucks,Minimum
-487,Khris Middleton,"$30,603,448 ",2019,Milwaukee Bucks,Bird
-488,Giannis Antetokounmpo,"$25,842,697 ",2019,Milwaukee Bucks,Bird
-489,Eric Bledsoe,"$15,625,000 ",2019,Milwaukee Bucks,Bird
-490,Brook Lopez,"$12,093,024 ",2019,Milwaukee Bucks,Cap Space
-491,George Hill,"$9,133,907 ",2019,Milwaukee Bucks,Cap Space
-492,Ersan Ilyasova,"$7,000,000 ",2019,Milwaukee Bucks,NT-MLE
-493,Robin Lopez,"$4,767,000 ",2019,Milwaukee Bucks,Room
-494,DJ Wilson,"$2,961,120 ",2019,Milwaukee Bucks,Rookie
-495,Donte DiVincenzo,"$2,905,800 ",2019,Milwaukee Bucks,Rookie
-496,Wesley Matthews,"$2,564,753 ",2019,Milwaukee Bucks,Minimum
-497,Pat Connaughton,"$1,723,050 ",2019,Milwaukee Bucks,NT-MLE
-498,Kyle Korver,"$1,620,564 ",2019,Milwaukee Bucks,Minimum
-499,Sterling Brown,"$1,618,520 ",2019,Milwaukee Bucks,NT-MLE
-500,Thanasis Antetokounmpo,"$1,445,697 ",2019,Milwaukee Bucks,Minimum
-501,Marvin Williams,"$604,278 ",2019,Milwaukee Bucks,Minimum
-502,Andrew Wiggins,"$25,467,250 ",2018,Minnesota Timberwolves,Bird
-503,Jeff Teague,"$19,000,000 ",2018,Minnesota Timberwolves,Cap Space
-504,Gorgui Dieng,"$15,170,787 ",2018,Minnesota Timberwolves,Bird
-505,Taj Gibson,"$14,000,000 ",2018,Minnesota Timberwolves,Cap Space
-506,Robert Covington,"$10,464,092 ",2018,Minnesota Timberwolves,Cap Space
-507,Jerryd Bayless,"$8,575,916 ",2018,Minnesota Timberwolves,Cap Space
-508,Karl-Anthony Towns,"$7,839,435 ",2018,Minnesota Timberwolves,Rookie
-509,Anthony Tolliver,"$5,750,000 ",2018,Minnesota Timberwolves,NT-MLE
-510,Dario Saric,"$2,526,840 ",2018,Minnesota Timberwolves,Rookie
-511,Tyus Jones,"$2,444,053 ",2018,Minnesota Timberwolves,Rookie
-512,Josh Okogie,"$2,160,720 ",2018,Minnesota Timberwolves,Rookie
-513,Luol Deng,"$1,512,601 ",2018,Minnesota Timberwolves,Minimum
-514,Derrick Rose,"$1,512,601 ",2018,Minnesota Timberwolves,Minimum
-515,Keita Bates-Diop,"$838,464 ",2018,Minnesota Timberwolves,NT-MLE
-516,Cam Reynolds,"$108,953 ",2018,Minnesota Timberwolves,Minimum
-517,D'Angelo Russell,"$27,285,000 ",2019,Minnesota Timberwolves,Sign-and-Trade
-518,Karl-Anthony Towns,"$27,285,000 ",2019,Minnesota Timberwolves,Bird
-519,Evan Turner,"$18,606,557 ",2019,Minnesota Timberwolves,Cap Space
-520,James Johnson,"$15,129,400 ",2019,Minnesota Timberwolves,Cap Space
-521,Jarrett Culver,"$5,813,640 ",2019,Minnesota Timberwolves,Rookie
-522,Jake Layman,"$3,581,986 ",2019,Minnesota Timberwolves,Sign-and-Trade
-523,Juan Hernangomez,"$3,321,030 ",2019,Minnesota Timberwolves,Rookie
-524,Malik Beasley,"$2,731,714 ",2019,Minnesota Timberwolves,Rookie
-525,Josh Okogie,"$2,530,680 ",2019,Minnesota Timberwolves,Rookie
-526,Jacob Evans,"$1,925,880 ",2019,Minnesota Timberwolves,Rookie
-527,Omari Spellman,"$1,897,800 ",2019,Minnesota Timberwolves,Rookie
-528,Jarred Vanderbilt,"$1,416,852 ",2019,Minnesota Timberwolves,Cap Space
-529,Jaylen Nowell,"$1,400,000 ",2019,Minnesota Timberwolves,NT-MLE
-530,Naz Reid,"$898,310 ",2019,Minnesota Timberwolves,NT-MLE
-531,Jrue Holiday,"$25,976,111 ",2018,New Orleans Pelicans,Bird
-532,Anthony Davis,"$25,434,263 ",2018,New Orleans Pelicans,Bird
-533,Solomon Hill,"$12,252,928 ",2018,New Orleans Pelicans,Cap Space
-534,E'Twaun Moore,"$8,808,685 ",2018,New Orleans Pelicans,Cap Space
-535,Julius Randle,"$8,641,000 ",2018,New Orleans Pelicans,NT-MLE
-536,Stanley Johnson,"$3,940,402 ",2018,New Orleans Pelicans,Rookie
-537,Elfrid Payton,"$3,000,000 ",2018,New Orleans Pelicans,Bi-Annual
-538,Darius Miller,"$2,205,000 ",2018,New Orleans Pelicans,NT-MLE
-539,Jahlil Okafor,"$1,567,007 ",2018,New Orleans Pelicans,Minimum
-540,Cheick Diallo,"$1,544,951 ",2018,New Orleans Pelicans,Cap Space
-541,Ian Clark,"$1,512,601 ",2018,New Orleans Pelicans,Minimum
-542,Christian Wood,"$1,512,601 ",2018,New Orleans Pelicans,Minimum
-543,Frank Jackson,"$1,378,242 ",2018,New Orleans Pelicans,NT-MLE
-544,Kenrich Williams,"$838,464 ",2018,New Orleans Pelicans,Minimum
-545,Dairis Bertans,"$194,220 ",2018,New Orleans Pelicans,Minimum
-546,Jrue Holiday,"$26,231,111 ",2019,New Orleans Pelicans,Bird
-547,Derrick Favors,"$17,650,000 ",2019,New Orleans Pelicans,Bird
-548,J.J. Redick,"$13,486,300 ",2019,New Orleans Pelicans,Cap Space
-549,Zion Williamson,"$9,757,440 ",2019,New Orleans Pelicans,Rookie
-550,Lonzo Ball,"$8,719,320 ",2019,New Orleans Pelicans,Rookie
-551,E'Twaun Moore,"$8,664,928 ",2019,New Orleans Pelicans,Cap Space
-552,Brandon Ingram,"$7,265,485 ",2019,New Orleans Pelicans,Rookie
-553,Darius Miller,"$7,250,000 ",2019,New Orleans Pelicans,Early Bird
-554,Jaxson Hayes,"$4,862,040 ",2019,New Orleans Pelicans,Rookie
-555,Nicolo Melli,"$4,102,564 ",2019,New Orleans Pelicans,Room
-556,Nickeil Alexander-Walker,"$2,964,840 ",2019,New Orleans Pelicans,Rookie
-557,Josh Hart,"$1,934,160 ",2019,New Orleans Pelicans,Rookie
-558,Jahlil Okafor,"$1,702,486 ",2019,New Orleans Pelicans,Minimum
-559,Frank Jackson,"$1,618,520 ",2019,New Orleans Pelicans,NT-MLE
-560,Kenrich Williams,"$1,416,852 ",2019,New Orleans Pelicans,Minimum
-561,DeAndre Jordan,"$22,897,200 ",2018,New York Knicks,Cap Space
-562,Lance Thomas,"$7,119,650 ",2018,New York Knicks,Early Bird
-563,Mario Hezonja,"$6,500,000 ",2018,New York Knicks,NT-MLE
-564,Emmanuel Mudiay,"$4,294,480 ",2018,New York Knicks,Rookie
-565,Frank Ntilikina,"$4,155,720 ",2018,New York Knicks,Rookie
-566,Dennis Smith Jr.,"$3,819,960 ",2018,New York Knicks,Rookie
-567,Kevin Knox,"$3,739,920 ",2018,New York Knicks,Rookie
-568,Allonzo Trier,"$3,382,000 ",2018,New York Knicks,Bi-Annual
-569,Luke Kornet,"$1,619,260 ",2018,New York Knicks,Non-Bird
-570,Noah Vonleh,"$1,512,601 ",2018,New York Knicks,Minimum
-571,Mitchell Robinson,"$1,485,440 ",2018,New York Knicks,NT-MLE
-572,Damyean Dotson,"$1,378,242 ",2018,New York Knicks,Minimum
-573,John Jenkins,"$486,520 ",2018,New York Knicks,Minimum
-574,Henry Ellenson,"$341,831 ",2018,New York Knicks,Minimum
-575,Billy Garrett,"$42,634 ",2018,New York Knicks,Minimum
-576,Julius Randle,"$18,000,000 ",2019,New York Knicks,Cap Space
-577,Bobby Portis,"$15,000,000 ",2019,New York Knicks,Cap Space
-578,Maurice Harkless,"$11,011,236 ",2019,New York Knicks,Bird
-579,Taj Gibson,"$9,000,000 ",2019,New York Knicks,Cap Space
-580,Wayne Ellington,"$8,000,000 ",2019,New York Knicks,Cap Space
-581,Elfrid Payton,"$8,000,000 ",2019,New York Knicks,Cap Space
-582,R.J. Barrett,"$7,839,960 ",2019,New York Knicks,Rookie
-583,Frank Ntilikina,"$4,855,800 ",2019,New York Knicks,Rookie
-584,Dennis Smith Jr.,"$4,463,640 ",2019,New York Knicks,Rookie
-585,Kevin Knox,"$4,380,120 ",2019,New York Knicks,Rookie
-586,Reggie Bullock,"$4,000,000 ",2019,New York Knicks,Room
-587,Damyean Dotson,"$1,618,520 ",2019,New York Knicks,Minimum
-588,Mitchell Robinson,"$1,559,712 ",2019,New York Knicks,NT-MLE
-589,Theo Pinson,"$1,445,697 ",2019,New York Knicks,Minimum
-590,Ignas Brazdeikis,"$898,310 ",2019,New York Knicks,Cap Space
-591,Russell Westbrook,"$35,654,150 ",2018,Oklahoma City Thunder,Bird
-592,Paul George,"$30,560,700 ",2018,Oklahoma City Thunder,Bird
-593,Steven Adams,"$24,157,303 ",2018,Oklahoma City Thunder,Bird
-594,Dennis Schröder,"$15,500,000 ",2018,Oklahoma City Thunder,Bird
-595,Andre Roberson,"$10,000,000 ",2018,Oklahoma City Thunder,Bird
-596,Jerami Grant,"$8,653,847 ",2018,Oklahoma City Thunder,Bird
-597,Patrick Patterson,"$5,451,600 ",2018,Oklahoma City Thunder,T-MLE
-598,Terrance Ferguson,"$2,118,840 ",2018,Oklahoma City Thunder,Rookie
-599,Nerlens Noel,"$1,757,429 ",2018,Oklahoma City Thunder,Minimum
-600,Raymond Felton,"$1,512,601 ",2018,Oklahoma City Thunder,Minimum
-601,Abdel Nader,"$1,378,242 ",2018,Oklahoma City Thunder,Cap Space
-602,Hamidou Diallo,"$838,464 ",2018,Oklahoma City Thunder,T-MLE
-603,Markieff Morris,"$427,289 ",2018,Oklahoma City Thunder,Minimum
-604,Deonte Burton,"$151,587 ",2018,Oklahoma City Thunder,Minimum
-605,Chris Paul,"$38,506,482 ",2019,Oklahoma City Thunder,Bird
-606,Steven Adams,"$25,842,697 ",2019,Oklahoma City Thunder,Bird
-607,Danilo Gallinari,"$22,615,559 ",2019,Oklahoma City Thunder,Bird
-608,Dennis Schröder,"$15,500,000 ",2019,Oklahoma City Thunder,Bird
-609,Andre Roberson,"$10,740,740 ",2019,Oklahoma City Thunder,Bird
-610,Shai Gilgeous-Alexander,"$3,952,920 ",2019,Oklahoma City Thunder,Rookie
-611,Terrance Ferguson,"$2,475,840 ",2019,Oklahoma City Thunder,Rookie
-612,Darius Bazley,"$2,284,800 ",2019,Oklahoma City Thunder,Rookie
-613,Mike Muscala,"$2,028,594 ",2019,Oklahoma City Thunder,Minimum
-614,Nerlens Noel,"$1,620,564 ",2019,Oklahoma City Thunder,Minimum
-615,Abdel Nader,"$1,618,520 ",2019,Oklahoma City Thunder,Cap Space
-616,Isaiah Roby,"$1,500,000 ",2019,Oklahoma City Thunder,NT-MLE
-617,Deonte Burton,"$1,416,852 ",2019,Oklahoma City Thunder,Minimum
-618,Hamidou Diallo,"$1,416,852 ",2019,Oklahoma City Thunder,T-MLE
-619,Luguentz Dort,"$155,647 ",2019,Oklahoma City Thunder,Minimum
-620,Aaron Gordon,"$21,590,909 ",2018,Orlando Magic,Bird
-621,Evan Fournier,"$17,000,000 ",2018,Orlando Magic,Bird
-622,Timofey Mozgov,"$16,000,000 ",2018,Orlando Magic,Cap Space
-623,Nikola Vucevic,"$13,250,000 ",2018,Orlando Magic,Bird
-624,Terrence Ross,"$10,500,000 ",2018,Orlando Magic,Bird
-625,Markelle Fultz,"$8,339,880 ",2018,Orlando Magic,Rookie
-626,D.J. Augustin,"$7,250,000 ",2018,Orlando Magic,Cap Space
-627,Jonathan Isaac,"$4,969,080 ",2018,Orlando Magic,Rookie
-628,Mohamed Bamba,"$4,865,040 ",2018,Orlando Magic,Rookie
-629,Jerian Grant,"$2,639,314 ",2018,Orlando Magic,Rookie
-630,Jarell Martin,"$2,416,222 ",2018,Orlando Magic,Rookie
-631,Khem Birch,"$1,378,242 ",2018,Orlando Magic,Minimum
-632,Wesley Iwundu,"$1,378,242 ",2018,Orlando Magic,Cap Space
-633,Melvin Frazier,"$1,050,000 ",2018,Orlando Magic,NT-MLE
-634,Michael Carter-Williams,"$59,820 ",2018,Orlando Magic,Minimum
-635,Nikola Vucevic,"$28,000,000 ",2019,Orlando Magic,Bird
-636,Aaron Gordon,"$19,863,636 ",2019,Orlando Magic,Bird
-637,Evan Fournier,"$17,150,000 ",2019,Orlando Magic,Bird
-638,Terrence Ross,"$12,500,000 ",2019,Orlando Magic,Bird
-639,Markelle Fultz,"$9,745,200 ",2019,Orlando Magic,Rookie
-640,Al-Farouq Aminu,"$9,258,000 ",2019,Orlando Magic,NT-MLE
-641,D.J. Augustin,"$7,250,000 ",2019,Orlando Magic,Cap Space
-642,Jonathan Isaac,"$5,806,440 ",2019,Orlando Magic,Rookie
-643,Mohamed Bamba,"$5,697,600 ",2019,Orlando Magic,Rookie
-644,Khem Birch,"$3,000,000 ",2019,Orlando Magic,Early Bird
-645,James Ennis III,"$1,882,867 ",2019,Orlando Magic,Minimum
-646,Michael Carter-Williams,"$1,620,564 ",2019,Orlando Magic,Minimum
-647,Wesley Iwundu,"$1,618,520 ",2019,Orlando Magic,Cap Space
-648,Melvin Frazier,"$1,416,852 ",2019,Orlando Magic,NT-MLE
-649,Gary Clark,"$555,409 ",2019,Orlando Magic,Minimum
-650,Joel Embiid,"$25,467,250 ",2018,Philadelphia 76ers,Bird
-651,Jimmy Butler,"$20,445,779 ",2018,Philadelphia 76ers,Bird
-652,Tobias Harris,"$14,800,000 ",2018,Philadelphia 76ers,Bird
-653,J.J. Redick,"$12,250,000 ",2018,Philadelphia 76ers,Cap Space
-654,Boban Marjanovic,"$7,000,000 ",2018,Philadelphia 76ers,Cap Space
-655,Ben Simmons,"$6,434,520 ",2018,Philadelphia 76ers,Rookie
-656,Jonathon Simmons,"$6,000,000 ",2018,Philadelphia 76ers,Cap Space
-657,Mike Scott,"$4,320,500 ",2018,Philadelphia 76ers,NT-MLE
-658,Zhaire Smith,"$2,611,800 ",2018,Philadelphia 76ers,Rookie
-659,Furkan Korkmaz,"$1,740,000 ",2018,Philadelphia 76ers,Rookie
-660,Jonah Bolden,"$1,690,000 ",2018,Philadelphia 76ers,Cap Space
-661,James Ennis III,"$1,621,415 ",2018,Philadelphia 76ers,Minimum
-662,T.J. McConnell,"$1,600,520 ",2018,Philadelphia 76ers,Minimum
-663,Amir Johnson,"$1,512,601 ",2018,Philadelphia 76ers,Minimum
-664,Greg Monroe,"$59,820 ",2018,Philadelphia 76ers,Minimum
-665,Tobias Harris,"$32,742,000 ",2019,Philadelphia 76ers,Bird
-666,Al Horford,"$28,000,000 ",2019,Philadelphia 76ers,Cap Space
-667,Joel Embiid,"$27,504,630 ",2019,Philadelphia 76ers,Bird
-668,Josh Richardson,"$10,116,576 ",2019,Philadelphia 76ers,Bird
-669,Ben Simmons,"$8,113,930 ",2019,Philadelphia 76ers,Rookie
-670,Mike Scott,"$4,767,000 ",2019,Philadelphia 76ers,Room
-671,Zhaire Smith,"$3,058,800 ",2019,Philadelphia 76ers,Rookie
-672,Matisse Thybulle,"$2,582,160 ",2019,Philadelphia 76ers,Rookie
-673,Alec Burks,"$1,620,564 ",2019,Philadelphia 76ers,Minimum
-674,Kyle O'Quinn,"$1,620,564 ",2019,Philadelphia 76ers,Minimum
-675,Glenn Robinson III,"$1,620,564 ",2019,Philadelphia 76ers,Minimum
-676,Raul Neto,"$1,620,564 ",2019,Philadelphia 76ers,Minimum
-677,Furkan Korkmaz,"$1,620,564 ",2019,Philadelphia 76ers,Minimum
-678,Shake Milton,"$1,445,697 ",2019,Philadelphia 76ers,Cap Space
-679,Norvel Pelle,"$350,189 ",2019,Philadelphia 76ers,Minimum
-680,Tyler Johnson,"$19,245,370 ",2018,Phoenix Suns,Cap Space
-681,T.J. Warren,"$11,750,000 ",2018,Phoenix Suns,Bird
-682,Deandre Ayton,"$8,165,160 ",2018,Phoenix Suns,Rookie
-683,Josh Jackson,"$6,041,520 ",2018,Phoenix Suns,Rookie
-684,Dragan Bender,"$4,661,280 ",2018,Phoenix Suns,Rookie
-685,Mikal Bridges,"$3,552,960 ",2018,Phoenix Suns,Rookie
-686,Devin Booker,"$3,314,365 ",2018,Phoenix Suns,Rookie
-687,Troy Daniels,"$3,258,549 ",2018,Phoenix Suns,Cap Space
-688,Kelly Oubre Jr.,"$3,208,630 ",2018,Phoenix Suns,Rookie
-689,Richaun Holmes,"$1,600,520 ",2018,Phoenix Suns,Cap Space
-690,Jamal Crawford,"$1,512,601 ",2018,Phoenix Suns,Minimum
-691,Élie Okobo,"$1,238,464 ",2018,Phoenix Suns,Cap Space
-692,De'Anthony Melton,"$949,000 ",2018,Phoenix Suns,Cap Space
-693,Ray Spalding,"$184,746 ",2018,Phoenix Suns,Minimum
-694,Jimmer Fredette,"$170,915 ",2018,Phoenix Suns,Minimum
-695,Devin Booker,"$27,285,000 ",2019,Phoenix Suns,Bird
-696,Ricky Rubio,"$16,200,000 ",2019,Phoenix Suns,Cap Space
-697,Kelly Oubre Jr.,"$15,625,000 ",2019,Phoenix Suns,Bird
-698,Deandre Ayton,"$9,562,920 ",2019,Phoenix Suns,Rookie
-699,Aron Baynes,"$5,453,280 ",2019,Phoenix Suns,Non-Bird
-700,Frank Kaminsky,"$4,767,000 ",2019,Phoenix Suns,Room
-701,Mikal Bridges,"$4,161,000 ",2019,Phoenix Suns,Rookie
-702,Cameron Johnson,"$4,033,440 ",2019,Phoenix Suns,Rookie
-703,Dario Saric,"$3,481,986 ",2019,Phoenix Suns,Rookie
-704,Ty Jerome,"$2,193,480 ",2019,Phoenix Suns,Rookie
-705,Cheick Diallo,"$1,678,854 ",2019,Phoenix Suns,Minimum
-706,Jevon Carter,"$1,416,852 ",2019,Phoenix Suns,Minimum
-707,Élie Okobo,"$1,416,852 ",2019,Phoenix Suns,Cap Space
-708,Jalen Lecque,"$898,310 ",2019,Phoenix Suns,Cap Space
-709,Cameron Payne,"$196,288 ",2019,Phoenix Suns,Minimum
-710,Damian Lillard,"$27,977,689 ",2018,Portland Trail Blazers,Bird
-711,C.J. McCollum,"$25,759,766 ",2018,Portland Trail Blazers,Bird
-712,Evan Turner,"$17,868,852 ",2018,Portland Trail Blazers,Cap Space
-713,Jusuf Nurkic,"$12,361,111 ",2018,Portland Trail Blazers,Bird
-714,Meyers Leonard,"$10,595,506 ",2018,Portland Trail Blazers,Bird
-715,Maurice Harkless,"$10,337,079 ",2018,Portland Trail Blazers,Bird
-716,Al-Farouq Aminu,"$6,957,105 ",2018,Portland Trail Blazers,Cap Space
-717,Zach Collins,"$3,628,920 ",2018,Portland Trail Blazers,Rookie
-718,Rodney Hood,"$3,472,887 ",2018,Portland Trail Blazers,Qualifying Offer
-719,Seth Curry,"$2,795,000 ",2018,Portland Trail Blazers,NT-MLE
-720,Anfernee Simons,"$1,835,520 ",2018,Portland Trail Blazers,Rookie
-721,Skal Labissiere,"$1,544,951 ",2018,Portland Trail Blazers,Rookie
-722,Jake Layman,"$1,544,951 ",2018,Portland Trail Blazers,Cap Space
-723,Gary Trent Jr.,"$838,464 ",2018,Portland Trail Blazers,NT-MLE
-724,Enes Kanter,"$487,109 ",2018,Portland Trail Blazers,Minimum
-725,Damian Lillard,"$29,802,321 ",2019,Portland Trail Blazers,Bird
-726,C.J. McCollum,"$27,556,959 ",2019,Portland Trail Blazers,Bird
-727,Hassan Whiteside,"$27,093,019 ",2019,Portland Trail Blazers,Cap Space
-728,Jusuf Nurkic,"$13,250,000 ",2019,Portland Trail Blazers,Bird
-729,Trevor Ariza,"$12,200,000 ",2019,Portland Trail Blazers,Cap Space
-730,Rodney Hood,"$5,718,000 ",2019,Portland Trail Blazers,T-MLE
-731,Zach Collins,"$4,240,200 ",2019,Portland Trail Blazers,Rookie
-732,Anfernee Simons,"$2,149,560 ",2019,Portland Trail Blazers,Rookie
-733,Nassir Little,"$2,105,520 ",2019,Portland Trail Blazers,Rookie
-734,Caleb Swanigan,"$2,033,160 ",2019,Portland Trail Blazers,Rookie
-735,Mario Hezonja,"$1,737,145 ",2019,Portland Trail Blazers,Minimum
-736,Wenyen Gabriel,"$1,445,697 ",2019,Portland Trail Blazers,Minimum
-737,Gary Trent Jr.,"$1,416,852 ",2019,Portland Trail Blazers,NT-MLE
-738,Carmelo Anthony,"$1,364,204 ",2019,Portland Trail Blazers,Minimum
-739,Harrison Barnes,"$24,793,702 ",2018,Sacramento Kings,Cap Space
-740,Alec Burks,"$11,536,515 ",2018,Sacramento Kings,Bird
-741,Bogdan Bogdanovic,"$9,000,000 ",2018,Sacramento Kings,Cap Space
-742,Kosta Koufos,"$8,739,500 ",2018,Sacramento Kings,Cap Space
-743,Marvin Bagley III,"$7,305,600 ",2018,Sacramento Kings,Rookie
-744,Nemanja Bjelica,"$6,500,000 ",2018,Sacramento Kings,Cap Space
-745,De'Aaron Fox,"$5,470,920 ",2018,Sacramento Kings,Rookie
-746,Willie Cauley-Stein,"$4,696,875 ",2018,Sacramento Kings,Rookie
-747,Buddy Hield,"$3,833,760 ",2018,Sacramento Kings,Rookie
-748,Yogi Ferrell,"$3,000,000 ",2018,Sacramento Kings,Cap Space
-749,Harry Giles,"$2,207,040 ",2018,Sacramento Kings,Rookie
-750,Corey Brewer,"$2,000,000 ",2018,Sacramento Kings,Room
-751,Caleb Swanigan,"$1,740,000 ",2018,Sacramento Kings,Rookie
-752,Frank Mason III,"$1,378,242 ",2018,Sacramento Kings,Cap Space
-753,B.J. Johnson,"$47,371 ",2018,Sacramento Kings,Minimum
-754,Harrison Barnes,"$24,147,727 ",2019,Sacramento Kings,Bird
-755,Kent Bazemore,"$19,269,662 ",2019,Sacramento Kings,Cap Space
-756,Cory Joseph,"$12,000,000 ",2019,Sacramento Kings,Cap Space
-757,Marvin Bagley III,"$8,556,120 ",2019,Sacramento Kings,Rookie
-758,Bogdan Bogdanovic,"$8,529,386 ",2019,Sacramento Kings,Cap Space
-759,Nemanja Bjelica,"$6,825,000 ",2019,Sacramento Kings,Cap Space
-760,Jabari Parker,"$6,500,000 ",2019,Sacramento Kings,Cap Space
-761,De'Aaron Fox,"$6,392,760 ",2019,Sacramento Kings,Rookie
-762,Buddy Hield,"$4,861,208 ",2019,Sacramento Kings,Rookie
-763,Richaun Holmes,"$4,767,000 ",2019,Sacramento Kings,Room
-764,Alex Len,"$4,160,000 ",2019,Sacramento Kings,Room
-765,Yogi Ferrell,"$3,150,000 ",2019,Sacramento Kings,Cap Space
-766,Harry Giles,"$2,578,800 ",2019,Sacramento Kings,Rookie
-767,Justin James,"$898,310 ",2019,Sacramento Kings,Cap Space
-768,Corey Brewer,"$183,115 ",2019,Sacramento Kings,Minimum
-769,DeMar DeRozan,"$27,739,975 ",2018,San Antonio Spurs,Bird
-770,LaMarcus Aldridge,"$22,347,015 ",2018,San Antonio Spurs,Cap Space
-771,Patrick Mills,"$11,571,429 ",2018,San Antonio Spurs,Bird
-772,Rudy Gay,"$10,087,200 ",2018,San Antonio Spurs,Non-Bird
-773,Davis Bertans,"$7,000,000 ",2018,San Antonio Spurs,Early Bird
-774,Marco Belinelli,"$6,153,846 ",2018,San Antonio Spurs,NT-MLE
-775,Bryn Forbes,"$3,125,000 ",2018,San Antonio Spurs,Early Bird
-776,Jakob Poeltl,"$2,947,320 ",2018,San Antonio Spurs,Rookie
-777,Dante Cunningham,"$2,487,000 ",2018,San Antonio Spurs,NT-MLE
-778,Lonnie Walker IV,"$2,357,160 ",2018,San Antonio Spurs,Rookie
-779,Derrick White,"$1,667,160 ",2018,San Antonio Spurs,Rookie
-780,Dejounte Murray,"$1,544,951 ",2018,San Antonio Spurs,Rookie
-781,Quincy Pondexter,"$1,512,601 ",2018,San Antonio Spurs,Minimum
-782,Chimezie Metu,"$838,464 ",2018,San Antonio Spurs,NT-MLE
-783,Donatas Motiejunas,"$59,820 ",2018,San Antonio Spurs,Minimum
-784,DeMar DeRozan,"$27,739,975 ",2019,San Antonio Spurs,Bird
-785,LaMarcus Aldridge,"$26,000,000 ",2019,San Antonio Spurs,Early Bird
-786,Rudy Gay,"$14,500,000 ",2019,San Antonio Spurs,Early Bird
-787,Patrick Mills,"$12,428,571 ",2019,San Antonio Spurs,Bird
-788,Marco Belinelli,"$5,846,154 ",2019,San Antonio Spurs,NT-MLE
-789,Trey Lyles,"$5,500,000 ",2019,San Antonio Spurs,NT-MLE
-790,Jakob Poeltl,"$3,754,886 ",2019,San Antonio Spurs,Rookie
-791,Bryn Forbes,"$2,875,000 ",2019,San Antonio Spurs,Early Bird
-792,Lonnie Walker IV,"$2,760,480 ",2019,San Antonio Spurs,Rookie
-793,Luka Samanic,"$2,689,920 ",2019,San Antonio Spurs,Rookie
-794,Dejounte Murray,"$2,321,735 ",2019,San Antonio Spurs,Rookie
-795,Keldon Johnson,"$1,950,600 ",2019,San Antonio Spurs,Rookie
-796,Derrick White,"$1,948,080 ",2019,San Antonio Spurs,Rookie
-797,Chimezie Metu,"$1,416,852 ",2019,San Antonio Spurs,NT-MLE
-798,Tyler Zeller,"$183,115 ",2019,San Antonio Spurs,Minimum
-799,Kyle Lowry,"$32,700,000 ",2018,Toronto Raptors,Bird
-800,Marc Gasol,"$24,119,025 ",2018,Toronto Raptors,Bird
-801,Kawhi Leonard,"$23,114,066 ",2018,Toronto Raptors,Bird
-802,Serge Ibaka,"$21,666,667 ",2018,Toronto Raptors,Bird
-803,Danny Green,"$10,000,000 ",2018,Toronto Raptors,Bird
-804,Norman Powell,"$9,367,200 ",2018,Toronto Raptors,Early Bird
-805,Fred VanVleet,"$8,653,847 ",2018,Toronto Raptors,Early Bird
-806,OG Anunoby,"$1,952,760 ",2018,Toronto Raptors,Rookie
-807,Pascal Siakam,"$1,544,951 ",2018,Toronto Raptors,Rookie
-808,Patrick McCaw,"$786,211 ",2018,Toronto Raptors,Minimum
-809,Jeremy Lin,"$487,109 ",2018,Toronto Raptors,Minimum
-810,Chris Boucher,"$457,418 ",2018,Toronto Raptors,Minimum
-811,Malcolm Miller,"$457,418 ",2018,Toronto Raptors,Minimum
-812,Jodie Meeks,"$136,732 ",2018,Toronto Raptors,Minimum
-813,Eric Moreland,"$17,092 ",2018,Toronto Raptors,Minimum
-814,Kyle Lowry,"$34,996,296 ",2019,Toronto Raptors,Bird
-815,Marc Gasol,"$25,595,700 ",2019,Toronto Raptors,Bird
-816,Serge Ibaka,"$23,271,605 ",2019,Toronto Raptors,Bird
-817,Norman Powell,"$10,116,576 ",2019,Toronto Raptors,Early Bird
-818,Fred VanVleet,"$9,346,153 ",2019,Toronto Raptors,Early Bird
-819,Patrick McCaw,"$4,000,000 ",2019,Toronto Raptors,NT-MLE
-820,Stanley Johnson,"$3,623,000 ",2019,Toronto Raptors,Bi-Annual
-821,Rondae Hollis-Jefferson,"$2,500,000 ",2019,Toronto Raptors,NT-MLE
-822,Pascal Siakam,"$2,351,839 ",2019,Toronto Raptors,Rookie
-823,OG Anunoby,"$2,281,800 ",2019,Toronto Raptors,Rookie
-824,Chris Boucher,"$1,588,231 ",2019,Toronto Raptors,Minimum
-825,Malcolm Miller,"$1,588,231 ",2019,Toronto Raptors,Minimum
-826,Terence Davis,"$898,310 ",2019,Toronto Raptors,Minimum
-827,Dewan Hernandez,"$898,310 ",2019,Toronto Raptors,NT-MLE
-828,Matt Thomas,"$898,310 ",2019,Toronto Raptors,NT-MLE
-829,Rudy Gobert,"$23,491,573 ",2018,Utah Jazz,Bird
-830,Derrick Favors,"$16,900,000 ",2018,Utah Jazz,Bird
-831,Ricky Rubio,"$14,975,000 ",2018,Utah Jazz,Bird
-832,Joe Ingles,"$13,045,455 ",2018,Utah Jazz,Bird
-833,Dante Exum,"$9,600,000 ",2018,Utah Jazz,Bird
-834,Kyle Korver,"$7,560,000 ",2018,Utah Jazz,Bird
-835,Jae Crowder,"$7,305,825 ",2018,Utah Jazz,Bird
-836,Thabo Sefolosha,"$5,250,000 ",2018,Utah Jazz,Cap Space
-837,Ekpe Udoh,"$3,360,000 ",2018,Utah Jazz,Room
-838,Donovan Mitchell,"$3,111,480 ",2018,Utah Jazz,Rookie
-839,Raul Neto,"$2,150,000 ",2018,Utah Jazz,Bird
-840,Grayson Allen,"$2,074,320 ",2018,Utah Jazz,Rookie
-841,Tony Bradley,"$1,679,520 ",2018,Utah Jazz,Rookie
-842,Georges Niang,"$1,512,601 ",2018,Utah Jazz,Non-Bird
-843,Royce O'Neale,"$1,378,242 ",2018,Utah Jazz,Cap Space
-844,Mike Conley,"$32,511,623 ",2019,Utah Jazz,Bird
-845,Rudy Gobert,"$25,008,427 ",2019,Utah Jazz,Bird
-846,Bojan Bogdanovic,"$17,000,000 ",2019,Utah Jazz,Cap Space
-847,Jordan Clarkson,"$13,437,500 ",2019,Utah Jazz,Early Bird
-848,Joe Ingles,"$11,954,546 ",2019,Utah Jazz,Bird
-849,Ed Davis,"$4,767,000 ",2019,Utah Jazz,Room
-850,Donovan Mitchell,"$3,635,760 ",2019,Utah Jazz,Rookie
-851,Tony Bradley,"$1,962,360 ",2019,Utah Jazz,Rookie
-852,Georges Niang,"$1,678,854 ",2019,Utah Jazz,Non-Bird
-853,Emmanuel Mudiay,"$1,620,564 ",2019,Utah Jazz,Minimum
-854,Royce O'Neale,"$1,618,520 ",2019,Utah Jazz,Cap Space
-855,Nigel Williams-Goss,"$1,500,000 ",2019,Utah Jazz,Cap Space
-856,Miye Oni,"$898,310 ",2019,Utah Jazz,Cap Space
-857,Juwan Morgan,"$746,054 ",2019,Utah Jazz,Minimum
-858,Rayjon Tucker,"$578,573 ",2019,Utah Jazz,Minimum
-859,Bradley Beal,"$25,434,263 ",2018,Washington Wizards,Bird
-860,Jabari Parker,"$20,000,000 ",2018,Washington Wizards,Cap Space
-861,John Wall,"$19,169,800 ",2018,Washington Wizards,Bird
-862,Ian Mahinmi,"$15,944,154 ",2018,Washington Wizards,Cap Space
-863,Trevor Ariza,"$15,000,000 ",2018,Washington Wizards,Cap Space
-864,Dwight Howard,"$5,337,000 ",2018,Washington Wizards,T-MLE
-865,Tomas Satoransky,"$3,129,187 ",2018,Washington Wizards,Cap Space
-866,Sam Dekker,"$2,760,095 ",2018,Washington Wizards,Rookie
-867,Troy Brown Jr.,"$2,749,080 ",2018,Washington Wizards,Rookie
-868,Bobby Portis,"$2,494,346 ",2018,Washington Wizards,Rookie
-869,Jeff Green,"$1,512,601 ",2018,Washington Wizards,Minimum
-870,Thomas Bryant,"$1,378,242 ",2018,Washington Wizards,Minimum
-871,Chasson Randle,"$869,094 ",2018,Washington Wizards,Minimum
-872,Jordan McRae,"$17,092 ",2018,Washington Wizards,Minimum
-873,Tarik Phillip,"$9,474 ",2018,Washington Wizards,Minimum
-874,John Wall,"$38,199,000 ",2019,Washington Wizards,Bird
-875,Ian Mahinmi,"$15,450,051 ",2019,Washington Wizards,Cap Space
-876,Thomas Bryant,"$8,000,000 ",2019,Washington Wizards,Early Bird
-877,Ishmael Smith,"$6,000,000 ",2019,Washington Wizards,NT-MLE
-878,Rui Hachimura,"$4,469,160 ",2019,Washington Wizards,Rookie
-879,Jerome Robinson,"$3,567,720 ",2019,Washington Wizards,Rookie
-880,Troy Brown Jr.,"$3,219,480 ",2019,Washington Wizards,Rookie
-881,Moritz Wagner,"$2,063,520 ",2019,Washington Wizards,Rookie
-882,Shabazz Napier,"$1,845,301 ",2019,Washington Wizards,Cap Space
-883,Isaac Bonga,"$1,416,852 ",2019,Washington Wizards,Cap Space
-884,Gary Payton II,"$1,052,909 ",2019,Washington Wizards,Hardship
-885,Admiral Schofield,"$1,000,000 ",2019,Washington Wizards,NT-MLE
-886,Anzejs Pasecniks,"$482,144 ",2019,Washington Wizards,NT-MLE
+88,Jamal Crawford,- ,2019,Brooklyn Nets,Minimum
+89,Lance Thomas,- ,2019,Brooklyn Nets,Minimum
+90,Nicolas Batum,"$24,000,000 ",2018,Charlotte Hornets,Bird
+91,Bismack Biyombo,"$17,000,000 ",2018,Charlotte Hornets,Cap Space
+92,Marvin Williams,"$14,087,500 ",2018,Charlotte Hornets,Early Bird
+93,Cody Zeller,"$13,528,090 ",2018,Charlotte Hornets,Bird
+94,Michael Kidd-Gilchrist,"$13,000,000 ",2018,Charlotte Hornets,Bird
+95,Kemba Walker,"$12,000,000 ",2018,Charlotte Hornets,Bird
+96,Jeremy Lamb,"$7,488,372 ",2018,Charlotte Hornets,Bird
+97,Tony Parker,"$5,000,000 ",2018,Charlotte Hornets,NT-MLE
+98,Frank Kaminsky,"$3,627,842 ",2018,Charlotte Hornets,Rookie
+99,Malik Monk,"$3,447,480 ",2018,Charlotte Hornets,Rookie
+100,Miles Bridges,"$3,206,640 ",2018,Charlotte Hornets,Rookie
+101,Willy Hernangomez,"$1,544,951 ",2018,Charlotte Hornets,Cap Space
+102,Shelvin Mack,"$1,512,601 ",2018,Charlotte Hornets,Minimum
+103,Dwayne Bacon,"$1,378,242 ",2018,Charlotte Hornets,NT-MLE
+104,Devonte' Graham,"$988,464 ",2018,Charlotte Hornets,NT-MLE
+105,Nicolas Batum,"$25,565,217 ",2019,Charlotte Hornets,Bird
+106,Terry Rozier,"$19,894,737 ",2019,Charlotte Hornets,Sign-and-Trade
+107,Bismack Biyombo,"$17,000,000 ",2019,Charlotte Hornets,Cap Space
+108,Cody Zeller,"$14,471,910 ",2019,Charlotte Hornets,Bird
+109,Malik Monk,"$4,028,400 ",2019,Charlotte Hornets,Rookie
+110,PJ Washington,"$3,831,840 ",2019,Charlotte Hornets,Rookie
+111,Miles Bridges,"$3,755,400 ",2019,Charlotte Hornets,Rookie
+112,Willy Hernangomez,"$1,676,735 ",2019,Charlotte Hornets,Cap Space
+113,Dwayne Bacon,"$1,618,520 ",2019,Charlotte Hornets,NT-MLE
+114,Devonte' Graham,"$1,416,852 ",2019,Charlotte Hornets,NT-MLE
+115,Cody Martin,"$1,173,310 ",2019,Charlotte Hornets,NT-MLE
+116,Caleb Martin,"$898,310 ",2019,Charlotte Hornets,NT-MLE
+117,Jalen McDaniels,"$898,310 ",2019,Charlotte Hornets,NT-MLE
+118,Joe Chealey,"$81,678 ",2019,Charlotte Hornets,Minimum
+119,Kobi Simmons,PG,2019,Charlotte Hornets,
+120,Otto Porter Jr.,"$26,011,913 ",2018,Chicago Bulls,Cap Space
+121,Zach LaVine,"$19,500,000 ",2018,Chicago Bulls,Cap Space
+122,Robin Lopez,"$14,357,750 ",2018,Chicago Bulls,Cap Space
+123,Cristiano Felicio,"$8,470,980 ",2018,Chicago Bulls,Cap Space
+124,Lauri Markkanen,"$4,536,120 ",2018,Chicago Bulls,Rookie
+125,Wendell Carter Jr.,"$4,441,200 ",2018,Chicago Bulls,Rookie
+126,Kris Dunn,"$4,221,000 ",2018,Chicago Bulls,Rookie
+127,Denzel Valentine,"$2,280,600 ",2018,Chicago Bulls,Rookie
+128,Chandler Hutchison,"$1,991,520 ",2018,Chicago Bulls,Rookie
+129,Timothe Luwawu-Cabarrot,"$1,544,951 ",2018,Chicago Bulls,Rookie
+130,Wayne Selden,"$1,544,951 ",2018,Chicago Bulls,Minimum
+131,Ryan Arcidiacono,"$1,349,383 ",2018,Chicago Bulls,Minimum
+132,Antonio Blakeney,"$1,349,383 ",2018,Chicago Bulls,Minimum
+133,Shaquille Harrison,"$1,311,264 ",2018,Chicago Bulls,Minimum
+134,Walter Lemon Jr.,"$99,107 ",2018,Chicago Bulls,Minimum
+135,Otto Porter Jr.,"$27,250,575 ",2019,Chicago Bulls,Cap Space
+136,Zach LaVine,"$19,500,000 ",2019,Chicago Bulls,Cap Space
+137,Thaddeus Young,"$12,900,000 ",2019,Chicago Bulls,Cap Space
+138,Tomas Satoransky,"$10,000,000 ",2019,Chicago Bulls,Sign-and-Trade
+139,Cristiano Felicio,"$8,156,500 ",2019,Chicago Bulls,Cap Space
+140,Kris Dunn,"$5,348,007 ",2019,Chicago Bulls,Rookie
+141,Coby White,"$5,307,120 ",2019,Chicago Bulls,Rookie
+142,Lauri Markkanen,"$5,300,400 ",2019,Chicago Bulls,Rookie
+143,Wendell Carter Jr.,"$5,201,400 ",2019,Chicago Bulls,Rookie
+144,Denzel Valentine,"$3,377,569 ",2019,Chicago Bulls,Rookie
+145,Ryan Arcidiacono,"$3,000,000 ",2019,Chicago Bulls,Cap Space
+146,Chandler Hutchison,"$2,332,320 ",2019,Chicago Bulls,Rookie
+147,Luke Kornet,"$2,250,000 ",2019,Chicago Bulls,Room
+148,Daniel Gafford,"$898,310 ",2019,Chicago Bulls,Cap Space
+149,Shaquille Harrison,"$898,310 ",2019,Chicago Bulls,Minimum
+150,Kevin Love,"$24,119,025 ",2018,Cleveland Cavaliers,Bird
+151,Tristan Thompson,"$17,469,565 ",2018,Cleveland Cavaliers,Bird
+152,J.R. Smith,"$14,720,000 ",2018,Cleveland Cavaliers,Bird
+153,Brandon Knight,"$14,631,250 ",2018,Cleveland Cavaliers,Bird
+154,Jordan Clarkson,"$12,500,000 ",2018,Cleveland Cavaliers,Early Bird
+155,John Henson,"$11,327,466 ",2018,Cleveland Cavaliers,Bird
+156,Matthew Dellavedova,"$9,607,500 ",2018,Cleveland Cavaliers,Cap Space
+157,Collin Sexton,"$4,068,600 ",2018,Cleveland Cavaliers,Rookie
+158,Marquese Chriss,"$3,206,160 ",2018,Cleveland Cavaliers,Rookie
+159,Cedi Osman,"$2,775,000 ",2018,Cleveland Cavaliers,T-MLE
+160,Larry Nance Jr.,"$2,272,391 ",2018,Cleveland Cavaliers,Rookie
+161,Ante Zizic,"$1,952,760 ",2018,Cleveland Cavaliers,Rookie
+162,Channing Frye,"$1,512,601 ",2018,Cleveland Cavaliers,Minimum
+163,David Nwaba,"$1,512,601 ",2018,Cleveland Cavaliers,Minimum
+164,Nik Stauskas,"$504,200 ",2018,Cleveland Cavaliers,Minimum
+165,Kevin Love,"$28,942,830 ",2019,Cleveland Cavaliers,Bird
+166,Andre Drummond,"$27,950,199 ",2019,Cleveland Cavaliers,Bird
+167,Tristan Thompson,"$18,539,130 ",2019,Cleveland Cavaliers,Bird
+168,Larry Nance Jr.,"$12,727,273 ",2019,Cleveland Cavaliers,Bird
+169,Matthew Dellavedova,"$9,607,500 ",2019,Cleveland Cavaliers,Cap Space
+170,Dante Exum,"$9,600,000 ",2019,Cleveland Cavaliers,Bird
+171,Darius Garland,"$6,400,920 ",2019,Cleveland Cavaliers,Rookie
+172,Collin Sexton,"$4,764,960 ",2019,Cleveland Cavaliers,Rookie
+173,Cedi Osman,"$2,907,143 ",2019,Cleveland Cavaliers,T-MLE
+174,Ante Zizic,"$2,281,800 ",2019,Cleveland Cavaliers,Rookie
+175,Dylan Windler,"$2,035,800 ",2019,Cleveland Cavaliers,Rookie
+176,Alfonzo McKinnie,"$1,500,000 ",2019,Cleveland Cavaliers,NT-MLE
+177,Kevin Porter Jr.,"$1,290,960 ",2019,Cleveland Cavaliers,Rookie
+178,Dean Wade,"$375,000 ",2019,Cleveland Cavaliers,NT-MLE
+179,Jordan Bell,"$250,000 ",2019,Cleveland Cavaliers,Minimum
+180,Tim Hardaway Jr.,"$19,200,127 ",2018,Dallas Mavericks,Cap Space
+181,Courtney Lee,"$12,253,780 ",2018,Dallas Mavericks,Cap Space
+182,Dwight Powell,"$9,631,250 ",2018,Dallas Mavericks,Cap Space
+183,Luka Doncic,"$6,560,640 ",2018,Dallas Mavericks,Rookie
+184,Kristaps Porzingis,"$5,697,054 ",2018,Dallas Mavericks,Rookie
+185,Dirk Nowitzki,"$5,000,000 ",2018,Dallas Mavericks,Cap Space
+186,Jose Barea,"$3,710,850 ",2018,Dallas Mavericks,Cap Space
+187,Justin Jackson,"$2,807,880 ",2018,Dallas Mavericks,Rookie
+188,Trey Burke,"$1,795,015 ",2018,Dallas Mavericks,Minimum
+189,Dorian Finney-Smith,"$1,544,951 ",2018,Dallas Mavericks,Cap Space
+190,Devin Harris,"$1,512,601 ",2018,Dallas Mavericks,Minimum
+191,Maxi Kleber,"$1,378,242 ",2018,Dallas Mavericks,Minimum
+192,Jalen Brunson,"$1,230,000 ",2018,Dallas Mavericks,Cap Space
+193,Ryan Broekhoff,"$838,464 ",2018,Dallas Mavericks,Cap Space
+194,Salah Mejri,"$512,746 ",2018,Dallas Mavericks,Minimum
+195,Kristaps Porzingis,"$27,285,000 ",2019,Dallas Mavericks,Bird
+196,Tim Hardaway Jr.,"$20,025,127 ",2019,Dallas Mavericks,Cap Space
+197,Courtney Lee,"$12,759,670 ",2019,Dallas Mavericks,Cap Space
+198,Dwight Powell,"$10,259,375 ",2019,Dallas Mavericks,Cap Space
+199,Delon Wright,"$9,473,684 ",2019,Dallas Mavericks,Sign-and-Trade
+200,Maxi Kleber,"$8,000,000 ",2019,Dallas Mavericks,Early Bird
+201,Luka Doncic,"$7,683,360 ",2019,Dallas Mavericks,Rookie
+202,Seth Curry,"$7,461,380 ",2019,Dallas Mavericks,NT-MLE
+203,Dorian Finney-Smith,"$4,000,000 ",2019,Dallas Mavericks,Bird
+204,Boban Marjanovic,"$3,500,000 ",2019,Dallas Mavericks,Bi-Annual
+205,Justin Jackson,"$3,280,920 ",2019,Dallas Mavericks,Rookie
+206,Jose Barea,"$1,620,564 ",2019,Dallas Mavericks,Minimum
+207,Jalen Brunson,"$1,416,852 ",2019,Dallas Mavericks,Cap Space
+208,Michael Kidd-Gilchrist,"$604,278 ",2019,Dallas Mavericks,Minimum
+209,Ryan Broekhoff,"$163,356 ",2019,Dallas Mavericks,Minimum
+210,Paul Millsap,"$29,230,769 ",2018,Denver Nuggets,Cap Space
+211,Nikola Jokic,"$25,467,250 ",2018,Denver Nuggets,Bird
+212,Gary Harris,"$16,517,857 ",2018,Denver Nuggets,Bird
+213,Mason Plumlee,"$12,917,808 ",2018,Denver Nuggets,Bird
+214,Will Barton,"$11,830,358 ",2018,Denver Nuggets,Bird
+215,Jamal Murray,"$3,499,800 ",2018,Denver Nuggets,Rookie
+216,Trey Lyles,"$3,364,249 ",2018,Denver Nuggets,Rookie
+217,Michael Porter Jr.,"$2,894,160 ",2018,Denver Nuggets,Rookie
+218,Juan Hernangomez,"$2,166,360 ",2018,Denver Nuggets,Rookie
+219,Torrey Craig,"$2,000,000 ",2018,Denver Nuggets,Cap Space
+220,Tyler Lydon,"$1,874,640 ",2018,Denver Nuggets,Rookie
+221,Malik Beasley,"$1,773,840 ",2018,Denver Nuggets,Rookie
+222,Isaiah Thomas,"$1,512,601 ",2018,Denver Nuggets,Minimum
+223,Monte Morris,"$1,349,383 ",2018,Denver Nuggets,T-MLE
+224,Jarred Vanderbilt,"$838,464 ",2018,Denver Nuggets,Cap Space
+225,Paul Millsap,"$30,350,000 ",2019,Denver Nuggets,Cap Space
+226,Nikola Jokic,"$27,504,630 ",2019,Denver Nuggets,Bird
+227,Gary Harris,"$17,839,286 ",2019,Denver Nuggets,Bird
+228,Mason Plumlee,"$14,041,096 ",2019,Denver Nuggets,Bird
+229,Will Barton,"$12,776,786 ",2019,Denver Nuggets,Bird
+230,Jerami Grant,"$9,346,153 ",2019,Denver Nuggets,Bird
+231,Jamal Murray,"$4,444,746 ",2019,Denver Nuggets,Rookie
+232,Michael Porter Jr.,"$3,389,400 ",2019,Denver Nuggets,Rookie
+233,Torrey Craig,"$2,000,000 ",2019,Denver Nuggets,Cap Space
+234,Noah Vonleh,"$2,000,000 ",2019,Denver Nuggets,NT-MLE
+235,Monte Morris,"$1,588,231 ",2019,Denver Nuggets,T-MLE
+236,Keita Bates-Diop,"$1,416,852 ",2019,Denver Nuggets,NT-MLE
+237,Vlatko Cancar,"$898,310 ",2019,Denver Nuggets,NT-MLE
+238,P.J. Dozier,"$183,115 ",2019,Denver Nuggets,NT-MLE
+239,Bol Bol,PG,2019,Denver Nuggets,SG
+240,Blake Griffin,"$32,088,932 ",2018,Detroit Pistons,Bird
+241,Andre Drummond,"$25,434,263 ",2018,Detroit Pistons,Bird
+242,Reggie Jackson,"$17,043,478 ",2018,Detroit Pistons,Bird
+243,Jon Leuer,"$10,002,681 ",2018,Detroit Pistons,Cap Space
+244,Langston Galloway,"$7,000,000 ",2018,Detroit Pistons,NT-MLE
+245,Ishmael Smith,"$6,000,000 ",2018,Detroit Pistons,Cap Space
+246,Glenn Robinson III,"$4,075,000 ",2018,Detroit Pistons,NT-MLE
+247,Luke Kennard,"$3,275,280 ",2018,Detroit Pistons,Rookie
+248,Thon Maker,"$2,799,720 ",2018,Detroit Pistons,Rookie
+249,Wayne Ellington,"$2,383,076 ",2018,Detroit Pistons,NT-MLE
+250,Jose Calderon,"$1,512,601 ",2018,Detroit Pistons,Minimum
+251,Zaza Pachulia,"$1,512,601 ",2018,Detroit Pistons,Minimum
+252,Sviatoslav Mykhailiuk,"$1,487,694 ",2018,Detroit Pistons,Cap Space
+253,Bruce Brown,"$838,464 ",2018,Detroit Pistons,NT-MLE
+254,Khyri Thomas,"$838,464 ",2018,Detroit Pistons,NT-MLE
+255,Blake Griffin,"$34,449,964 ",2019,Detroit Pistons,Bird
+256,Brandon Knight,"$15,643,750 ",2019,Detroit Pistons,Bird
+257,Tony Snell,"$11,392,857 ",2019,Detroit Pistons,Bird
+258,John Henson,"$9,732,396 ",2019,Detroit Pistons,Bird
+259,Langston Galloway,"$7,333,333 ",2019,Detroit Pistons,NT-MLE
+260,Derrick Rose,"$7,317,073 ",2019,Detroit Pistons,NT-MLE
+261,Luke Kennard,"$3,827,160 ",2019,Detroit Pistons,Rookie
+262,Thon Maker,"$3,569,643 ",2019,Detroit Pistons,Rookie
+263,Sekou Doumbouya,"$3,285,120 ",2019,Detroit Pistons,Rookie
+264,Jordan McRae,"$1,645,357 ",2019,Detroit Pistons,Minimum
+265,Christian Wood,"$1,645,357 ",2019,Detroit Pistons,Minimum
+266,Bruce Brown,"$1,416,852 ",2019,Detroit Pistons,NT-MLE
+267,Sviatoslav Mykhailiuk,"$1,416,852 ",2019,Detroit Pistons,Cap Space
+268,Khyri Thomas,"$1,416,852 ",2019,Detroit Pistons,NT-MLE
+269,Justin Patton,"$183,115 ",2019,Detroit Pistons,Minimum
+270,Stephen Curry,"$37,457,154 ",2018,Golden State Warriors,Bird
+271,Kevin Durant,"$30,000,000 ",2018,Golden State Warriors,Non-Bird
+272,Klay Thompson,"$18,988,725 ",2018,Golden State Warriors,Bird
+273,Draymond Green,"$17,469,565 ",2018,Golden State Warriors,Bird
+274,Andre Iguodala,"$16,000,000 ",2018,Golden State Warriors,Bird
+275,Shaun Livingston,"$8,307,692 ",2018,Golden State Warriors,Bird
+276,DeMarcus Cousins,"$5,337,000 ",2018,Golden State Warriors,T-MLE
+277,Jacob Evans,"$1,644,240 ",2018,Golden State Warriors,Rookie
+278,Quinn Cook,"$1,544,951 ",2018,Golden State Warriors,Minimum
+279,Damian Jones,"$1,544,951 ",2018,Golden State Warriors,Rookie
+280,Jonas Jerebko,"$1,512,601 ",2018,Golden State Warriors,Minimum
+281,Kevon Looney,"$1,512,601 ",2018,Golden State Warriors,Minimum
+282,Jordan Bell,"$1,378,242 ",2018,Golden State Warriors,Minimum
+283,Alfonzo McKinnie,"$1,349,383 ",2018,Golden State Warriors,Minimum
+284,Andrew Bogut,"$307,648 ",2018,Golden State Warriors,Minimum
+285,Stephen Curry,"$40,231,758 ",2019,Golden State Warriors,Bird
+286,Klay Thompson,"$32,742,000 ",2019,Golden State Warriors,Bird
+287,Andrew Wiggins,"$27,504,630 ",2019,Golden State Warriors,Bird
+288,Draymond Green,"$18,539,130 ",2019,Golden State Warriors,Bird
+289,Kevon Looney,"$4,464,286 ",2019,Golden State Warriors,Bird
+290,Jordan Poole,"$1,964,760 ",2019,Golden State Warriors,Rookie
+291,Eric Paschall,"$898,310 ",2019,Golden State Warriors,NT-MLE
+292,Alen Smailagic,"$898,310 ",2019,Golden State Warriors,NT-MLE
+293,Damion Lee,"$842,327 ",2019,Golden State Warriors,NT-MLE
+294,Marquese Chriss,"$654,468 ",2019,Golden State Warriors,Minimum
+295,Ky Bowman,"$350,189 ",2019,Golden State Warriors,NT-MLE
+296,Juan Toscano-Anderson,"$350,189 ",2019,Golden State Warriors,NT-MLE
+297,Mychal Mulder,"$187,782 ",2019,Golden State Warriors,NT-MLE
+298,Dragan Bender,"$91,557 ",2019,Golden State Warriors,Minimum
+299,Dragan Bender,"$94,850",2019,Golden State Warriors,-
+300,Chris Paul,"$35,654,150 ",2018,Houston Rockets,Bird
+301,James Harden,"$30,421,854 ",2018,Houston Rockets,Cap Space
+302,Clint Capela,"$13,793,103 ",2018,Houston Rockets,Bird
+303,Eric Gordon,"$13,500,375 ",2018,Houston Rockets,Cap Space
+304,Iman Shumpert,"$11,011,236 ",2018,Houston Rockets,Bird
+305,P.J. Tucker,"$7,969,537 ",2018,Houston Rockets,NT-MLE
+306,Nene Hilario,"$3,651,480 ",2018,Houston Rockets,Non-Bird
+307,Gerald Green,"$1,512,601 ",2018,Houston Rockets,Minimum
+308,Austin Rivers,"$922,943 ",2018,Houston Rockets,Minimum
+309,Isaiah Hartenstein,"$838,464 ",2018,Houston Rockets,T-MLE
+310,Kenneth Faried,"$683,661 ",2018,Houston Rockets,Minimum
+311,Gary Clark,"$596,872 ",2018,Houston Rockets,T-MLE
+312,Danuel House,"$247,827 ",2018,Houston Rockets,Minimum
+313,Chris Chiozza,"$90,005 ",2018,Houston Rockets,Minimum
+314,Michael Frazier,"$23,685 ",2018,Houston Rockets,T-MLE
+315,Russell Westbrook,"$38,506,482 ",2019,Houston Rockets,Bird
+316,James Harden,"$38,199,000 ",2019,Houston Rockets,Bird
+317,Eric Gordon,"$14,057,730 ",2019,Houston Rockets,Cap Space
+318,Robert Covington,"$11,301,219 ",2019,Houston Rockets,Cap Space
+319,P.J. Tucker,"$8,349,039 ",2019,Houston Rockets,NT-MLE
+320,Danuel House,"$3,540,000 ",2019,Houston Rockets,T-MLE
+321,Austin Rivers,"$2,174,318 ",2019,Houston Rockets,Minimum
+322,Ben McLemore,"$2,028,594 ",2019,Houston Rockets,Minimum
+323,Bruno Caboclo,"$1,845,301 ",2019,Houston Rockets,Minimum
+324,Tyson Chandler,"$1,620,564 ",2019,Houston Rockets,Minimum
+325,David Nwaba,"$903,111 ",2019,Houston Rockets,T-MLE
+326,Chris Clemons,"$563,347 ",2019,Houston Rockets,T-MLE
+327,DeMarre Carroll,"$512,721 ",2019,Houston Rockets,Minimum
+328,Jeff Green,"$439,475 ",2019,Houston Rockets,Minimum
+329,Luc Richard Mbah a Moute,- ,2019,Houston Rockets,Minimum
+330,Victor Oladipo,"$21,000,000 ",2018,Indiana Pacers,Bird
+331,Thaddeus Young,"$13,764,045 ",2018,Indiana Pacers,Bird
+332,Tyreke Evans,"$12,400,000 ",2018,Indiana Pacers,Cap Space
+333,Bojan Bogdanovic,"$10,500,000 ",2018,Indiana Pacers,Cap Space
+334,Darren Collison,"$10,000,000 ",2018,Indiana Pacers,Cap Space
+335,Cory Joseph,"$7,945,000 ",2018,Indiana Pacers,Cap Space
+336,Doug McDermott,"$7,333,334 ",2018,Indiana Pacers,Cap Space
+337,Kyle O'Quinn,"$4,449,000 ",2018,Indiana Pacers,Room
+338,Myles Turner,"$3,410,284 ",2018,Indiana Pacers,Rookie
+339,Domantas Sabonis,"$2,659,800 ",2018,Indiana Pacers,Rookie
+340,TJ Leaf,"$2,407,560 ",2018,Indiana Pacers,Rookie
+341,Aaron Holiday,"$1,911,960 ",2018,Indiana Pacers,Rookie
+342,Alize Johnson,"$838,464 ",2018,Indiana Pacers,Minimum
+343,Wesley Matthews,"$512,746 ",2018,Indiana Pacers,Minimum
+344,Edmond Sumner,"$449,794 ",2018,Indiana Pacers,Minimum
+345,Victor Oladipo,"$21,000,000 ",2019,Indiana Pacers,Bird
+346,Malcolm Brogdon,"$20,000,000 ",2019,Indiana Pacers,Sign-and-Trade
+347,Myles Turner,"$18,000,000 ",2019,Indiana Pacers,Bird
+348,T.J. Warren,"$10,810,000 ",2019,Indiana Pacers,Bird
+349,Jeremy Lamb,"$10,500,000 ",2019,Indiana Pacers,Cap Space
+350,Doug McDermott,"$7,333,333 ",2019,Indiana Pacers,Cap Space
+351,Justin Holiday,"$4,767,000 ",2019,Indiana Pacers,Room
+352,Domantas Sabonis,"$3,529,555 ",2019,Indiana Pacers,Rookie
+353,T.J. McConnell,"$3,500,000 ",2019,Indiana Pacers,Cap Space
+354,Goga Bitadze,"$2,816,760 ",2019,Indiana Pacers,Rookie
+355,TJ Leaf,"$2,813,280 ",2019,Indiana Pacers,Rookie
+356,Aaron Holiday,"$2,239,200 ",2019,Indiana Pacers,Rookie
+357,Edmond Sumner,"$2,000,000 ",2019,Indiana Pacers,Cap Space
+358,JaKarr Sampson,"$1,620,564 ",2019,Indiana Pacers,Minimum
+359,Alize Johnson,"$1,416,852 ",2019,Indiana Pacers,Minimum
+360,Danilo Gallinari,"$21,587,579 ",2018,Los Angeles Clippers,Bird
+361,Wilson Chandler,"$12,800,562 ",2018,Los Angeles Clippers,Bird
+362,Garrett Temple,"$8,000,000 ",2018,Los Angeles Clippers,Cap Space
+363,Louis Williams,"$8,000,000 ",2018,Los Angeles Clippers,Bird
+364,JaMychal Green,"$7,866,667 ",2018,Los Angeles Clippers,Bird
+365,Montrezl Harrell,"$6,000,000 ",2018,Los Angeles Clippers,Bird
+366,Patrick Beverley,"$5,027,027 ",2018,Los Angeles Clippers,Bird
+367,Shai Gilgeous-Alexander,"$3,375,360 ",2018,Los Angeles Clippers,Rookie
+368,Jerome Robinson,"$3,046,200 ",2018,Los Angeles Clippers,Rookie
+369,Landry Shamet,"$1,703,640 ",2018,Los Angeles Clippers,Rookie
+370,Rodney McGruder,"$1,544,951 ",2018,Los Angeles Clippers,Cap Space
+371,Ivica Zubac,"$1,544,951 ",2018,Los Angeles Clippers,Cap Space
+372,Sindarius Thornwell,"$1,378,242 ",2018,Los Angeles Clippers,NT-MLE
+373,Tyrone Wallace,"$1,349,383 ",2018,Los Angeles Clippers,Minimum
+374,Angel Delgado,G,2018,Los Angeles Clippers,
+375,Paul George,"$33,005,556 ",2019,Los Angeles Clippers,Bird
+376,Kawhi Leonard,"$32,742,000 ",2019,Los Angeles Clippers,Cap Space
+377,Marcus Morris Sr.,"$15,000,000 ",2019,Los Angeles Clippers,Cap Space
+378,Patrick Beverley,"$12,345,680 ",2019,Los Angeles Clippers,Bird
+379,Louis Williams,"$8,000,000 ",2019,Los Angeles Clippers,Bird
+380,Ivica Zubac,"$6,481,482 ",2019,Los Angeles Clippers,Bird
+381,Montrezl Harrell,"$6,000,000 ",2019,Los Angeles Clippers,Bird
+382,Rodney McGruder,"$4,807,693 ",2019,Los Angeles Clippers,Cap Space
+383,JaMychal Green,"$4,767,000 ",2019,Los Angeles Clippers,Room
+384,Mfiondu Kabengele,"$1,977,000 ",2019,Los Angeles Clippers,Rookie
+385,Patrick Patterson,"$1,620,564 ",2019,Los Angeles Clippers,Minimum
+386,Terance Mann,"$1,000,000 ",2019,Los Angeles Clippers,Minimum
+387,Reggie Jackson,"$512,721 ",2019,Los Angeles Clippers,Minimum
+388,Joakim Noah,"$183,115 ",2019,Los Angeles Clippers,Minimum
+389,Amir Coffey,C,2019,Los Angeles Clippers,
+390,LeBron James,"$35,654,150 ",2018,Los Angeles Lakers,Cap Space
+391,Kentavious Caldwell-Pope,"$12,000,000 ",2018,Los Angeles Lakers,Non-Bird
+392,Rajon Rondo,"$9,000,000 ",2018,Los Angeles Lakers,Cap Space
+393,Lonzo Ball,"$7,461,960 ",2018,Los Angeles Lakers,Rookie
+394,Brandon Ingram,"$5,757,120 ",2018,Los Angeles Lakers,Rookie
+395,Mike Muscala,"$5,000,000 ",2018,Los Angeles Lakers,Bird
+396,Lance Stephenson,"$4,449,000 ",2018,Los Angeles Lakers,Cap Space
+397,Reggie Bullock,"$2,500,000 ",2018,Los Angeles Lakers,Bird
+398,Moritz Wagner,"$1,762,080 ",2018,Los Angeles Lakers,Rookie
+399,Kyle Kuzma,"$1,689,840 ",2018,Los Angeles Lakers,Rookie
+400,Josh Hart,"$1,655,160 ",2018,Los Angeles Lakers,Rookie
+401,JaVale McGee,"$1,512,601 ",2018,Los Angeles Lakers,Minimum
+402,Tyson Chandler,"$1,333,140 ",2018,Los Angeles Lakers,Minimum
+403,Isaac Bonga,"$1,000,000 ",2018,Los Angeles Lakers,Cap Space
+404,Jermerrio Jones,"$52,108 ",2018,Los Angeles Lakers,Minimum
+405,LeBron James,"$37,436,858 ",2019,Los Angeles Lakers,Cap Space
+406,Anthony Davis,"$27,093,019 ",2019,Los Angeles Lakers,Bird
+407,Danny Green,"$14,634,146 ",2019,Los Angeles Lakers,Cap Space
+408,Kentavious Caldwell-Pope,"$8,089,282 ",2019,Los Angeles Lakers,Cap Space
+409,JaVale McGee,"$4,000,000 ",2019,Los Angeles Lakers,Cap Space
+410,Quinn Cook,"$3,000,000 ",2019,Los Angeles Lakers,Cap Space
+411,Alex Caruso,"$2,750,000 ",2019,Los Angeles Lakers,Room
+412,Rajon Rondo,"$2,564,753 ",2019,Los Angeles Lakers,Minimum
+413,Kyle Kuzma,"$1,974,600 ",2019,Los Angeles Lakers,Rookie
+414,Markieff Morris,"$1,750,000 ",2019,Los Angeles Lakers,DPE
+415,Jared Dudley,"$1,620,564 ",2019,Los Angeles Lakers,Minimum
+416,Dwight Howard,"$1,620,564 ",2019,Los Angeles Lakers,Minimum
+417,Talen Horton-Tucker,"$898,310 ",2019,Los Angeles Lakers,Minimum
+418,Dion Waiters,"$375,385 ",2019,Los Angeles Lakers,Minimum
+419,J.R. Smith,- ,2019,Los Angeles Lakers,Minimum
+420,Mike Conley,"$30,521,115 ",2018,Memphis Grizzlies,Bird
+421,Chandler Parsons,"$24,107,258 ",2018,Memphis Grizzlies,Cap Space
+422,Jonas Valanciunas,"$16,539,326 ",2018,Memphis Grizzlies,Bird
+423,Avery Bradley,"$12,000,000 ",2018,Memphis Grizzlies,Bird
+424,Kyle Anderson,"$8,641,000 ",2018,Memphis Grizzlies,NT-MLE
+425,C.J. Miles,"$8,333,333 ",2018,Memphis Grizzlies,NT-MLE
+426,Jaren Jackson Jr.,"$5,915,040 ",2018,Memphis Grizzlies,Rookie
+427,Justin Holiday,"$4,384,615 ",2018,Memphis Grizzlies,NT-MLE
+428,Delon Wright,"$2,536,898 ",2018,Memphis Grizzlies,Rookie
+429,Dillon Brooks,"$1,378,242 ",2018,Memphis Grizzlies,NT-MLE
+430,Tyler Dorsey,"$1,378,242 ",2018,Memphis Grizzlies,Minimum
+431,Ivan Rabb,"$1,378,242 ",2018,Memphis Grizzlies,NT-MLE
+432,Joakim Noah,"$1,093,858 ",2018,Memphis Grizzlies,Minimum
+433,Jevon Carter,"$838,464 ",2018,Memphis Grizzlies,Minimum
+434,Bruno Caboclo,"$522,150 ",2018,Memphis Grizzlies,Minimum
+435,Gorgui Dieng,"$16,229,213 ",2019,Memphis Grizzlies,Bird
+436,Jonas Valanciunas,"$16,000,000 ",2019,Memphis Grizzlies,Bird
+437,Justise Winslow,"$13,000,000 ",2019,Memphis Grizzlies,Bird
+438,Tyus Jones,"$9,258,000 ",2019,Memphis Grizzlies,NT-MLE
+439,Kyle Anderson,"$9,073,050 ",2019,Memphis Grizzlies,NT-MLE
+440,Ja Morant,"$8,730,240 ",2019,Memphis Grizzlies,Rookie
+441,Josh Jackson,"$7,059,480 ",2019,Memphis Grizzlies,Rookie
+442,Jaren Jackson Jr.,"$6,927,480 ",2019,Memphis Grizzlies,Rookie
+443,Marko Guduric,"$2,625,000 ",2019,Memphis Grizzlies,Bi-Annual
+444,Brandon Clarke,"$2,478,840 ",2019,Memphis Grizzlies,Rookie
+445,Grayson Allen,"$2,429,400 ",2019,Memphis Grizzlies,Rookie
+446,Dillon Brooks,"$1,618,520 ",2019,Memphis Grizzlies,NT-MLE
+447,De'Anthony Melton,"$1,416,852 ",2019,Memphis Grizzlies,Cap Space
+448,Jontay Porter,"$197,933 ",2019,Memphis Grizzlies,Minimum
+449,Anthony Tolliver,"$183,115 ",2019,Memphis Grizzlies,Minimum
+450,Hassan Whiteside,"$25,434,263 ",2018,Miami Heat,Cap Space
+451,Ryan Anderson,"$20,421,546 ",2018,Miami Heat,Cap Space
+452,Goran Dragic,"$18,109,175 ",2018,Miami Heat,Bird
+453,James Johnson,"$14,651,700 ",2018,Miami Heat,Cap Space
+454,Kelly Olynyk,"$12,137,527 ",2018,Miami Heat,Cap Space
+455,Dion Waiters,"$11,550,000 ",2018,Miami Heat,Cap Space
+456,Josh Richardson,"$9,367,200 ",2018,Miami Heat,Bird
+457,Justise Winslow,"$3,448,926 ",2018,Miami Heat,Rookie
+458,Edrice Adebayo,"$2,955,840 ",2018,Miami Heat,Rookie
+459,Udonis Haslem,"$1,512,601 ",2018,Miami Heat,Minimum
+460,Dwyane Wade,"$1,512,601 ",2018,Miami Heat,Minimum
+461,Derrick Jones Jr.,"$1,512,601 ",2018,Miami Heat,Minimum
+462,Yante Maten,"$14,211 ",2018,Miami Heat,Minimum
+463,Duncan Robinson,"$9,474 ",2018,Miami Heat,NT-MLE
+464,Kendrick Nunn,"$4,737 ",2018,Miami Heat,Minimum
+465,Jimmy Butler,"$32,742,000 ",2019,Miami Heat,Sign-and-Trade
+466,Goran Dragic,"$19,217,900 ",2019,Miami Heat,Bird
+467,Andre Iguodala,"$17,185,185 ",2019,Miami Heat,Bird
+468,Solomon Hill,"$12,758,781 ",2019,Miami Heat,Cap Space
+469,Kelly Olynyk,"$12,667,886 ",2019,Miami Heat,Cap Space
+470,Meyers Leonard,"$11,286,517 ",2019,Miami Heat,Bird
+471,Jae Crowder,"$7,815,533 ",2019,Miami Heat,Bird
+472,Tyler Herro,"$3,640,200 ",2019,Miami Heat,Rookie
+473,Edrice Adebayo,"$3,454,080 ",2019,Miami Heat,Rookie
+474,Derrick Jones Jr.,"$1,645,357 ",2019,Miami Heat,Minimum
+475,Udonis Haslem,"$1,620,564 ",2019,Miami Heat,Minimum
+476,Kendrick Nunn,"$1,416,852 ",2019,Miami Heat,Minimum
+477,Duncan Robinson,"$1,416,852 ",2019,Miami Heat,NT-MLE
+478,KZ Okpala,"$898,310 ",2019,Miami Heat,NT-MLE
+479,Chris Silva,"$466,918 ",2019,Miami Heat,NT-MLE
+480,Giannis Antetokounmpo,"$24,157,303 ",2018,Milwaukee Bucks,Bird
+481,George Hill,"$19,000,000 ",2018,Milwaukee Bucks,Cap Space
+482,Eric Bledsoe,"$15,000,000 ",2018,Milwaukee Bucks,Bird
+483,Khris Middleton,"$13,000,000 ",2018,Milwaukee Bucks,Bird
+484,Nikola Mirotic,"$12,500,000 ",2018,Milwaukee Bucks,Cap Space
+485,Tony Snell,"$10,807,143 ",2018,Milwaukee Bucks,Bird
+486,Ersan Ilyasova,"$7,000,000 ",2018,Milwaukee Bucks,NT-MLE
+487,Brook Lopez,"$3,382,000 ",2018,Milwaukee Bucks,Bi-Annual
+488,DJ Wilson,"$2,534,280 ",2018,Milwaukee Bucks,Rookie
+489,Donte DiVincenzo,"$2,481,000 ",2018,Milwaukee Bucks,Rookie
+490,Pat Connaughton,"$1,641,000 ",2018,Milwaukee Bucks,NT-MLE
+491,Malcolm Brogdon,"$1,544,951 ",2018,Milwaukee Bucks,Cap Space
+492,Sterling Brown,"$1,378,242 ",2018,Milwaukee Bucks,NT-MLE
+493,Pau Gasol,"$333,285 ",2018,Milwaukee Bucks,Minimum
+494,Tim Frazier,"$196,553 ",2018,Milwaukee Bucks,Minimum
+495,Khris Middleton,"$30,603,448 ",2019,Milwaukee Bucks,Bird
+496,Giannis Antetokounmpo,"$25,842,697 ",2019,Milwaukee Bucks,Bird
+497,Eric Bledsoe,"$15,625,000 ",2019,Milwaukee Bucks,Bird
+498,Brook Lopez,"$12,093,024 ",2019,Milwaukee Bucks,Cap Space
+499,George Hill,"$9,133,907 ",2019,Milwaukee Bucks,Cap Space
+500,Ersan Ilyasova,"$7,000,000 ",2019,Milwaukee Bucks,NT-MLE
+501,Robin Lopez,"$4,767,000 ",2019,Milwaukee Bucks,Room
+502,DJ Wilson,"$2,961,120 ",2019,Milwaukee Bucks,Rookie
+503,Donte DiVincenzo,"$2,905,800 ",2019,Milwaukee Bucks,Rookie
+504,Wesley Matthews,"$2,564,753 ",2019,Milwaukee Bucks,Minimum
+505,Pat Connaughton,"$1,723,050 ",2019,Milwaukee Bucks,NT-MLE
+506,Kyle Korver,"$1,620,564 ",2019,Milwaukee Bucks,Minimum
+507,Sterling Brown,"$1,618,520 ",2019,Milwaukee Bucks,NT-MLE
+508,Thanasis Antetokounmpo,"$1,445,697 ",2019,Milwaukee Bucks,Minimum
+509,Marvin Williams,"$604,278 ",2019,Milwaukee Bucks,Minimum
+510,Andrew Wiggins,"$25,467,250 ",2018,Minnesota Timberwolves,Bird
+511,Jeff Teague,"$19,000,000 ",2018,Minnesota Timberwolves,Cap Space
+512,Gorgui Dieng,"$15,170,787 ",2018,Minnesota Timberwolves,Bird
+513,Taj Gibson,"$14,000,000 ",2018,Minnesota Timberwolves,Cap Space
+514,Robert Covington,"$10,464,092 ",2018,Minnesota Timberwolves,Cap Space
+515,Jerryd Bayless,"$8,575,916 ",2018,Minnesota Timberwolves,Cap Space
+516,Karl-Anthony Towns,"$7,839,435 ",2018,Minnesota Timberwolves,Rookie
+517,Anthony Tolliver,"$5,750,000 ",2018,Minnesota Timberwolves,NT-MLE
+518,Dario Saric,"$2,526,840 ",2018,Minnesota Timberwolves,Rookie
+519,Tyus Jones,"$2,444,053 ",2018,Minnesota Timberwolves,Rookie
+520,Josh Okogie,"$2,160,720 ",2018,Minnesota Timberwolves,Rookie
+521,Luol Deng,"$1,512,601 ",2018,Minnesota Timberwolves,Minimum
+522,Derrick Rose,"$1,512,601 ",2018,Minnesota Timberwolves,Minimum
+523,Keita Bates-Diop,"$838,464 ",2018,Minnesota Timberwolves,NT-MLE
+524,Cam Reynolds,"$108,953 ",2018,Minnesota Timberwolves,Minimum
+525,D'Angelo Russell,"$27,285,000 ",2019,Minnesota Timberwolves,Sign-and-Trade
+526,Karl-Anthony Towns,"$27,285,000 ",2019,Minnesota Timberwolves,Bird
+527,Evan Turner,"$18,606,557 ",2019,Minnesota Timberwolves,Cap Space
+528,James Johnson,"$15,129,400 ",2019,Minnesota Timberwolves,Cap Space
+529,Jarrett Culver,"$5,813,640 ",2019,Minnesota Timberwolves,Rookie
+530,Jake Layman,"$3,581,986 ",2019,Minnesota Timberwolves,Sign-and-Trade
+531,Juan Hernangomez,"$3,321,030 ",2019,Minnesota Timberwolves,Rookie
+532,Malik Beasley,"$2,731,714 ",2019,Minnesota Timberwolves,Rookie
+533,Josh Okogie,"$2,530,680 ",2019,Minnesota Timberwolves,Rookie
+534,Jacob Evans,"$1,925,880 ",2019,Minnesota Timberwolves,Rookie
+535,Omari Spellman,"$1,897,800 ",2019,Minnesota Timberwolves,Rookie
+536,Jarred Vanderbilt,"$1,416,852 ",2019,Minnesota Timberwolves,Cap Space
+537,Jaylen Nowell,"$1,400,000 ",2019,Minnesota Timberwolves,NT-MLE
+538,Naz Reid,"$898,310 ",2019,Minnesota Timberwolves,NT-MLE
+539,Kelan Martin,SG,2019,Minnesota Timberwolves,"$17,818,456"
+540,Jrue Holiday,"$25,976,111 ",2018,New Orleans Pelicans,Bird
+541,Anthony Davis,"$25,434,263 ",2018,New Orleans Pelicans,Bird
+542,Solomon Hill,"$12,252,928 ",2018,New Orleans Pelicans,Cap Space
+543,E'Twaun Moore,"$8,808,685 ",2018,New Orleans Pelicans,Cap Space
+544,Julius Randle,"$8,641,000 ",2018,New Orleans Pelicans,NT-MLE
+545,Stanley Johnson,"$3,940,402 ",2018,New Orleans Pelicans,Rookie
+546,Elfrid Payton,"$3,000,000 ",2018,New Orleans Pelicans,Bi-Annual
+547,Darius Miller,"$2,205,000 ",2018,New Orleans Pelicans,NT-MLE
+548,Jahlil Okafor,"$1,567,007 ",2018,New Orleans Pelicans,Minimum
+549,Cheick Diallo,"$1,544,951 ",2018,New Orleans Pelicans,Cap Space
+550,Ian Clark,"$1,512,601 ",2018,New Orleans Pelicans,Minimum
+551,Christian Wood,"$1,512,601 ",2018,New Orleans Pelicans,Minimum
+552,Frank Jackson,"$1,378,242 ",2018,New Orleans Pelicans,NT-MLE
+553,Kenrich Williams,"$838,464 ",2018,New Orleans Pelicans,Minimum
+554,Dairis Bertans,"$194,220 ",2018,New Orleans Pelicans,Minimum
+555,Jrue Holiday,"$26,231,111 ",2019,New Orleans Pelicans,Bird
+556,Derrick Favors,"$17,650,000 ",2019,New Orleans Pelicans,Bird
+557,J.J. Redick,"$13,486,300 ",2019,New Orleans Pelicans,Cap Space
+558,Zion Williamson,"$9,757,440 ",2019,New Orleans Pelicans,Rookie
+559,Lonzo Ball,"$8,719,320 ",2019,New Orleans Pelicans,Rookie
+560,E'Twaun Moore,"$8,664,928 ",2019,New Orleans Pelicans,Cap Space
+561,Brandon Ingram,"$7,265,485 ",2019,New Orleans Pelicans,Rookie
+562,Darius Miller,"$7,250,000 ",2019,New Orleans Pelicans,Early Bird
+563,Jaxson Hayes,"$4,862,040 ",2019,New Orleans Pelicans,Rookie
+564,Nicolo Melli,"$4,102,564 ",2019,New Orleans Pelicans,Room
+565,Nickeil Alexander-Walker,"$2,964,840 ",2019,New Orleans Pelicans,Rookie
+566,Josh Hart,"$1,934,160 ",2019,New Orleans Pelicans,Rookie
+567,Jahlil Okafor,"$1,702,486 ",2019,New Orleans Pelicans,Minimum
+568,Frank Jackson,"$1,618,520 ",2019,New Orleans Pelicans,NT-MLE
+569,Kenrich Williams,"$1,416,852 ",2019,New Orleans Pelicans,Minimum
+570,DeAndre Jordan,"$22,897,200 ",2018,New York Knicks,Cap Space
+571,Lance Thomas,"$7,119,650 ",2018,New York Knicks,Early Bird
+572,Mario Hezonja,"$6,500,000 ",2018,New York Knicks,NT-MLE
+573,Emmanuel Mudiay,"$4,294,480 ",2018,New York Knicks,Rookie
+574,Frank Ntilikina,"$4,155,720 ",2018,New York Knicks,Rookie
+575,Dennis Smith Jr.,"$3,819,960 ",2018,New York Knicks,Rookie
+576,Kevin Knox,"$3,739,920 ",2018,New York Knicks,Rookie
+577,Allonzo Trier,"$3,382,000 ",2018,New York Knicks,Bi-Annual
+578,Luke Kornet,"$1,619,260 ",2018,New York Knicks,Non-Bird
+579,Noah Vonleh,"$1,512,601 ",2018,New York Knicks,Minimum
+580,Mitchell Robinson,"$1,485,440 ",2018,New York Knicks,NT-MLE
+581,Damyean Dotson,"$1,378,242 ",2018,New York Knicks,Minimum
+582,John Jenkins,"$486,520 ",2018,New York Knicks,Minimum
+583,Henry Ellenson,"$341,831 ",2018,New York Knicks,Minimum
+584,Billy Garrett,"$42,634 ",2018,New York Knicks,Minimum
+585,Julius Randle,"$18,000,000 ",2019,New York Knicks,Cap Space
+586,Bobby Portis,"$15,000,000 ",2019,New York Knicks,Cap Space
+587,Maurice Harkless,"$11,011,236 ",2019,New York Knicks,Bird
+588,Taj Gibson,"$9,000,000 ",2019,New York Knicks,Cap Space
+589,Wayne Ellington,"$8,000,000 ",2019,New York Knicks,Cap Space
+590,Elfrid Payton,"$8,000,000 ",2019,New York Knicks,Cap Space
+591,R.J. Barrett,"$7,839,960 ",2019,New York Knicks,Rookie
+592,Frank Ntilikina,"$4,855,800 ",2019,New York Knicks,Rookie
+593,Dennis Smith Jr.,"$4,463,640 ",2019,New York Knicks,Rookie
+594,Kevin Knox,"$4,380,120 ",2019,New York Knicks,Rookie
+595,Reggie Bullock,"$4,000,000 ",2019,New York Knicks,Room
+596,Damyean Dotson,"$1,618,520 ",2019,New York Knicks,Minimum
+597,Mitchell Robinson,"$1,559,712 ",2019,New York Knicks,NT-MLE
+598,Theo Pinson,"$1,445,697 ",2019,New York Knicks,Minimum
+599,Ignas Brazdeikis,"$898,310 ",2019,New York Knicks,Cap Space
+600,Russell Westbrook,"$35,654,150 ",2018,Oklahoma City Thunder,Bird
+601,Paul George,"$30,560,700 ",2018,Oklahoma City Thunder,Bird
+602,Steven Adams,"$24,157,303 ",2018,Oklahoma City Thunder,Bird
+603,Dennis Schröder,"$15,500,000 ",2018,Oklahoma City Thunder,Bird
+604,Andre Roberson,"$10,000,000 ",2018,Oklahoma City Thunder,Bird
+605,Jerami Grant,"$8,653,847 ",2018,Oklahoma City Thunder,Bird
+606,Patrick Patterson,"$5,451,600 ",2018,Oklahoma City Thunder,T-MLE
+607,Terrance Ferguson,"$2,118,840 ",2018,Oklahoma City Thunder,Rookie
+608,Nerlens Noel,"$1,757,429 ",2018,Oklahoma City Thunder,Minimum
+609,Raymond Felton,"$1,512,601 ",2018,Oklahoma City Thunder,Minimum
+610,Abdel Nader,"$1,378,242 ",2018,Oklahoma City Thunder,Cap Space
+611,Hamidou Diallo,"$838,464 ",2018,Oklahoma City Thunder,T-MLE
+612,Markieff Morris,"$427,289 ",2018,Oklahoma City Thunder,Minimum
+613,Deonte Burton,"$151,587 ",2018,Oklahoma City Thunder,Minimum
+614,Jawun Evans,SF,2018,Oklahoma City Thunder,
+615,Chris Paul,"$38,506,482 ",2019,Oklahoma City Thunder,Bird
+616,Steven Adams,"$25,842,697 ",2019,Oklahoma City Thunder,Bird
+617,Danilo Gallinari,"$22,615,559 ",2019,Oklahoma City Thunder,Bird
+618,Dennis Schröder,"$15,500,000 ",2019,Oklahoma City Thunder,Bird
+619,Andre Roberson,"$10,740,740 ",2019,Oklahoma City Thunder,Bird
+620,Shai Gilgeous-Alexander,"$3,952,920 ",2019,Oklahoma City Thunder,Rookie
+621,Terrance Ferguson,"$2,475,840 ",2019,Oklahoma City Thunder,Rookie
+622,Darius Bazley,"$2,284,800 ",2019,Oklahoma City Thunder,Rookie
+623,Mike Muscala,"$2,028,594 ",2019,Oklahoma City Thunder,Minimum
+624,Nerlens Noel,"$1,620,564 ",2019,Oklahoma City Thunder,Minimum
+625,Abdel Nader,"$1,618,520 ",2019,Oklahoma City Thunder,Cap Space
+626,Isaiah Roby,"$1,500,000 ",2019,Oklahoma City Thunder,NT-MLE
+627,Deonte Burton,"$1,416,852 ",2019,Oklahoma City Thunder,Minimum
+628,Hamidou Diallo,"$1,416,852 ",2019,Oklahoma City Thunder,T-MLE
+629,Luguentz Dort,"$155,647 ",2019,Oklahoma City Thunder,Minimum
+630,Aaron Gordon,"$21,590,909 ",2018,Orlando Magic,Bird
+631,Evan Fournier,"$17,000,000 ",2018,Orlando Magic,Bird
+632,Timofey Mozgov,"$16,000,000 ",2018,Orlando Magic,Cap Space
+633,Nikola Vucevic,"$13,250,000 ",2018,Orlando Magic,Bird
+634,Terrence Ross,"$10,500,000 ",2018,Orlando Magic,Bird
+635,Markelle Fultz,"$8,339,880 ",2018,Orlando Magic,Rookie
+636,D.J. Augustin,"$7,250,000 ",2018,Orlando Magic,Cap Space
+637,Jonathan Isaac,"$4,969,080 ",2018,Orlando Magic,Rookie
+638,Mohamed Bamba,"$4,865,040 ",2018,Orlando Magic,Rookie
+639,Jerian Grant,"$2,639,314 ",2018,Orlando Magic,Rookie
+640,Jarell Martin,"$2,416,222 ",2018,Orlando Magic,Rookie
+641,Khem Birch,"$1,378,242 ",2018,Orlando Magic,Minimum
+642,Wesley Iwundu,"$1,378,242 ",2018,Orlando Magic,Cap Space
+643,Melvin Frazier,"$1,050,000 ",2018,Orlando Magic,NT-MLE
+644,Michael Carter-Williams,"$59,820 ",2018,Orlando Magic,Minimum
+645,Nikola Vucevic,"$28,000,000 ",2019,Orlando Magic,Bird
+646,Aaron Gordon,"$19,863,636 ",2019,Orlando Magic,Bird
+647,Evan Fournier,"$17,150,000 ",2019,Orlando Magic,Bird
+648,Terrence Ross,"$12,500,000 ",2019,Orlando Magic,Bird
+649,Markelle Fultz,"$9,745,200 ",2019,Orlando Magic,Rookie
+650,Al-Farouq Aminu,"$9,258,000 ",2019,Orlando Magic,NT-MLE
+651,D.J. Augustin,"$7,250,000 ",2019,Orlando Magic,Cap Space
+652,Jonathan Isaac,"$5,806,440 ",2019,Orlando Magic,Rookie
+653,Mohamed Bamba,"$5,697,600 ",2019,Orlando Magic,Rookie
+654,Khem Birch,"$3,000,000 ",2019,Orlando Magic,Early Bird
+655,James Ennis III,"$1,882,867 ",2019,Orlando Magic,Minimum
+656,Michael Carter-Williams,"$1,620,564 ",2019,Orlando Magic,Minimum
+657,Wesley Iwundu,"$1,618,520 ",2019,Orlando Magic,Cap Space
+658,Melvin Frazier,"$1,416,852 ",2019,Orlando Magic,NT-MLE
+659,Gary Clark,"$555,409 ",2019,Orlando Magic,Minimum
+660,Joel Embiid,"$25,467,250 ",2018,Philadelphia 76ers,Bird
+661,Jimmy Butler,"$20,445,779 ",2018,Philadelphia 76ers,Bird
+662,Tobias Harris,"$14,800,000 ",2018,Philadelphia 76ers,Bird
+663,J.J. Redick,"$12,250,000 ",2018,Philadelphia 76ers,Cap Space
+664,Boban Marjanovic,"$7,000,000 ",2018,Philadelphia 76ers,Cap Space
+665,Ben Simmons,"$6,434,520 ",2018,Philadelphia 76ers,Rookie
+666,Jonathon Simmons,"$6,000,000 ",2018,Philadelphia 76ers,Cap Space
+667,Mike Scott,"$4,320,500 ",2018,Philadelphia 76ers,NT-MLE
+668,Zhaire Smith,"$2,611,800 ",2018,Philadelphia 76ers,Rookie
+669,Furkan Korkmaz,"$1,740,000 ",2018,Philadelphia 76ers,Rookie
+670,Jonah Bolden,"$1,690,000 ",2018,Philadelphia 76ers,Cap Space
+671,James Ennis III,"$1,621,415 ",2018,Philadelphia 76ers,Minimum
+672,T.J. McConnell,"$1,600,520 ",2018,Philadelphia 76ers,Minimum
+673,Amir Johnson,"$1,512,601 ",2018,Philadelphia 76ers,Minimum
+674,Greg Monroe,"$59,820 ",2018,Philadelphia 76ers,Minimum
+675,Tobias Harris,"$32,742,000 ",2019,Philadelphia 76ers,Bird
+676,Al Horford,"$28,000,000 ",2019,Philadelphia 76ers,Cap Space
+677,Joel Embiid,"$27,504,630 ",2019,Philadelphia 76ers,Bird
+678,Josh Richardson,"$10,116,576 ",2019,Philadelphia 76ers,Bird
+679,Ben Simmons,"$8,113,930 ",2019,Philadelphia 76ers,Rookie
+680,Mike Scott,"$4,767,000 ",2019,Philadelphia 76ers,Room
+681,Zhaire Smith,"$3,058,800 ",2019,Philadelphia 76ers,Rookie
+682,Matisse Thybulle,"$2,582,160 ",2019,Philadelphia 76ers,Rookie
+683,Alec Burks,"$1,620,564 ",2019,Philadelphia 76ers,Minimum
+684,Kyle O'Quinn,"$1,620,564 ",2019,Philadelphia 76ers,Minimum
+685,Glenn Robinson III,"$1,620,564 ",2019,Philadelphia 76ers,Minimum
+686,Raul Neto,"$1,620,564 ",2019,Philadelphia 76ers,Minimum
+687,Furkan Korkmaz,"$1,620,564 ",2019,Philadelphia 76ers,Minimum
+688,Shake Milton,"$1,445,697 ",2019,Philadelphia 76ers,Cap Space
+689,Norvel Pelle,"$350,189 ",2019,Philadelphia 76ers,Minimum
+690,Tyler Johnson,"$19,245,370 ",2018,Phoenix Suns,Cap Space
+691,T.J. Warren,"$11,750,000 ",2018,Phoenix Suns,Bird
+692,Deandre Ayton,"$8,165,160 ",2018,Phoenix Suns,Rookie
+693,Josh Jackson,"$6,041,520 ",2018,Phoenix Suns,Rookie
+694,Dragan Bender,"$4,661,280 ",2018,Phoenix Suns,Rookie
+695,Mikal Bridges,"$3,552,960 ",2018,Phoenix Suns,Rookie
+696,Devin Booker,"$3,314,365 ",2018,Phoenix Suns,Rookie
+697,Troy Daniels,"$3,258,549 ",2018,Phoenix Suns,Cap Space
+698,Kelly Oubre Jr.,"$3,208,630 ",2018,Phoenix Suns,Rookie
+699,Richaun Holmes,"$1,600,520 ",2018,Phoenix Suns,Cap Space
+700,Jamal Crawford,"$1,512,601 ",2018,Phoenix Suns,Minimum
+701,Élie Okobo,"$1,238,464 ",2018,Phoenix Suns,Cap Space
+702,De'Anthony Melton,"$949,000 ",2018,Phoenix Suns,Cap Space
+703,Ray Spalding,"$184,746 ",2018,Phoenix Suns,Minimum
+704,Jimmer Fredette,"$170,915 ",2018,Phoenix Suns,Minimum
+705,Devin Booker,"$27,285,000 ",2019,Phoenix Suns,Bird
+706,Ricky Rubio,"$16,200,000 ",2019,Phoenix Suns,Cap Space
+707,Kelly Oubre Jr.,"$15,625,000 ",2019,Phoenix Suns,Bird
+708,Deandre Ayton,"$9,562,920 ",2019,Phoenix Suns,Rookie
+709,Aron Baynes,"$5,453,280 ",2019,Phoenix Suns,Non-Bird
+710,Frank Kaminsky,"$4,767,000 ",2019,Phoenix Suns,Room
+711,Mikal Bridges,"$4,161,000 ",2019,Phoenix Suns,Rookie
+712,Cameron Johnson,"$4,033,440 ",2019,Phoenix Suns,Rookie
+713,Dario Saric,"$3,481,986 ",2019,Phoenix Suns,Rookie
+714,Ty Jerome,"$2,193,480 ",2019,Phoenix Suns,Rookie
+715,Cheick Diallo,"$1,678,854 ",2019,Phoenix Suns,Minimum
+716,Jevon Carter,"$1,416,852 ",2019,Phoenix Suns,Minimum
+717,Élie Okobo,"$1,416,852 ",2019,Phoenix Suns,Cap Space
+718,Jalen Lecque,"$898,310 ",2019,Phoenix Suns,Cap Space
+719,Cameron Payne,"$196,288 ",2019,Phoenix Suns,Minimum
+720,Damian Lillard,"$27,977,689 ",2018,Portland Trail Blazers,Bird
+721,C.J. McCollum,"$25,759,766 ",2018,Portland Trail Blazers,Bird
+722,Evan Turner,"$17,868,852 ",2018,Portland Trail Blazers,Cap Space
+723,Jusuf Nurkic,"$12,361,111 ",2018,Portland Trail Blazers,Bird
+724,Meyers Leonard,"$10,595,506 ",2018,Portland Trail Blazers,Bird
+725,Maurice Harkless,"$10,337,079 ",2018,Portland Trail Blazers,Bird
+726,Al-Farouq Aminu,"$6,957,105 ",2018,Portland Trail Blazers,Cap Space
+727,Zach Collins,"$3,628,920 ",2018,Portland Trail Blazers,Rookie
+728,Rodney Hood,"$3,472,887 ",2018,Portland Trail Blazers,Qualifying Offer
+729,Seth Curry,"$2,795,000 ",2018,Portland Trail Blazers,NT-MLE
+730,Anfernee Simons,"$1,835,520 ",2018,Portland Trail Blazers,Rookie
+731,Skal Labissiere,"$1,544,951 ",2018,Portland Trail Blazers,Rookie
+732,Jake Layman,"$1,544,951 ",2018,Portland Trail Blazers,Cap Space
+733,Gary Trent Jr.,"$838,464 ",2018,Portland Trail Blazers,NT-MLE
+734,Enes Kanter,"$487,109 ",2018,Portland Trail Blazers,Minimum
+735,Damian Lillard,"$29,802,321 ",2019,Portland Trail Blazers,Bird
+736,C.J. McCollum,"$27,556,959 ",2019,Portland Trail Blazers,Bird
+737,Hassan Whiteside,"$27,093,019 ",2019,Portland Trail Blazers,Cap Space
+738,Jusuf Nurkic,"$13,250,000 ",2019,Portland Trail Blazers,Bird
+739,Trevor Ariza,"$12,200,000 ",2019,Portland Trail Blazers,Cap Space
+740,Rodney Hood,"$5,718,000 ",2019,Portland Trail Blazers,T-MLE
+741,Zach Collins,"$4,240,200 ",2019,Portland Trail Blazers,Rookie
+742,Anfernee Simons,"$2,149,560 ",2019,Portland Trail Blazers,Rookie
+743,Nassir Little,"$2,105,520 ",2019,Portland Trail Blazers,Rookie
+744,Caleb Swanigan,"$2,033,160 ",2019,Portland Trail Blazers,Rookie
+745,Mario Hezonja,"$1,737,145 ",2019,Portland Trail Blazers,Minimum
+746,Wenyen Gabriel,"$1,445,697 ",2019,Portland Trail Blazers,Minimum
+747,Gary Trent Jr.,"$1,416,852 ",2019,Portland Trail Blazers,NT-MLE
+748,Carmelo Anthony,"$1,364,204 ",2019,Portland Trail Blazers,Minimum
+749,Jaylen Adams,- ,2019,Portland Trail Blazers,Minimum
+750,Harrison Barnes,"$24,793,702 ",2018,Sacramento Kings,Cap Space
+751,Alec Burks,"$11,536,515 ",2018,Sacramento Kings,Bird
+752,Bogdan Bogdanovic,"$9,000,000 ",2018,Sacramento Kings,Cap Space
+753,Kosta Koufos,"$8,739,500 ",2018,Sacramento Kings,Cap Space
+754,Marvin Bagley III,"$7,305,600 ",2018,Sacramento Kings,Rookie
+755,Nemanja Bjelica,"$6,500,000 ",2018,Sacramento Kings,Cap Space
+756,De'Aaron Fox,"$5,470,920 ",2018,Sacramento Kings,Rookie
+757,Willie Cauley-Stein,"$4,696,875 ",2018,Sacramento Kings,Rookie
+758,Buddy Hield,"$3,833,760 ",2018,Sacramento Kings,Rookie
+759,Yogi Ferrell,"$3,000,000 ",2018,Sacramento Kings,Cap Space
+760,Harry Giles,"$2,207,040 ",2018,Sacramento Kings,Rookie
+761,Corey Brewer,"$2,000,000 ",2018,Sacramento Kings,Room
+762,Caleb Swanigan,"$1,740,000 ",2018,Sacramento Kings,Rookie
+763,Frank Mason III,"$1,378,242 ",2018,Sacramento Kings,Cap Space
+764,B.J. Johnson,"$47,371 ",2018,Sacramento Kings,Minimum
+765,Harrison Barnes,"$24,147,727 ",2019,Sacramento Kings,Bird
+766,Kent Bazemore,"$19,269,662 ",2019,Sacramento Kings,Cap Space
+767,Cory Joseph,"$12,000,000 ",2019,Sacramento Kings,Cap Space
+768,Marvin Bagley III,"$8,556,120 ",2019,Sacramento Kings,Rookie
+769,Bogdan Bogdanovic,"$8,529,386 ",2019,Sacramento Kings,Cap Space
+770,Nemanja Bjelica,"$6,825,000 ",2019,Sacramento Kings,Cap Space
+771,Jabari Parker,"$6,500,000 ",2019,Sacramento Kings,Cap Space
+772,De'Aaron Fox,"$6,392,760 ",2019,Sacramento Kings,Rookie
+773,Buddy Hield,"$4,861,208 ",2019,Sacramento Kings,Rookie
+774,Richaun Holmes,"$4,767,000 ",2019,Sacramento Kings,Room
+775,Alex Len,"$4,160,000 ",2019,Sacramento Kings,Room
+776,Yogi Ferrell,"$3,150,000 ",2019,Sacramento Kings,Cap Space
+777,Harry Giles,"$2,578,800 ",2019,Sacramento Kings,Rookie
+778,Justin James,"$898,310 ",2019,Sacramento Kings,Cap Space
+779,Corey Brewer,"$183,115 ",2019,Sacramento Kings,Minimum
+780,DeMar DeRozan,"$27,739,975 ",2018,San Antonio Spurs,Bird
+781,LaMarcus Aldridge,"$22,347,015 ",2018,San Antonio Spurs,Cap Space
+782,Patrick Mills,"$11,571,429 ",2018,San Antonio Spurs,Bird
+783,Rudy Gay,"$10,087,200 ",2018,San Antonio Spurs,Non-Bird
+784,Davis Bertans,"$7,000,000 ",2018,San Antonio Spurs,Early Bird
+785,Marco Belinelli,"$6,153,846 ",2018,San Antonio Spurs,NT-MLE
+786,Bryn Forbes,"$3,125,000 ",2018,San Antonio Spurs,Early Bird
+787,Jakob Poeltl,"$2,947,320 ",2018,San Antonio Spurs,Rookie
+788,Dante Cunningham,"$2,487,000 ",2018,San Antonio Spurs,NT-MLE
+789,Lonnie Walker IV,"$2,357,160 ",2018,San Antonio Spurs,Rookie
+790,Derrick White,"$1,667,160 ",2018,San Antonio Spurs,Rookie
+791,Dejounte Murray,"$1,544,951 ",2018,San Antonio Spurs,Rookie
+792,Quincy Pondexter,"$1,512,601 ",2018,San Antonio Spurs,Minimum
+793,Chimezie Metu,"$838,464 ",2018,San Antonio Spurs,NT-MLE
+794,Donatas Motiejunas,"$59,820 ",2018,San Antonio Spurs,Minimum
+795,DeMar DeRozan,"$27,739,975 ",2019,San Antonio Spurs,Bird
+796,LaMarcus Aldridge,"$26,000,000 ",2019,San Antonio Spurs,Early Bird
+797,Rudy Gay,"$14,500,000 ",2019,San Antonio Spurs,Early Bird
+798,Patrick Mills,"$12,428,571 ",2019,San Antonio Spurs,Bird
+799,Marco Belinelli,"$5,846,154 ",2019,San Antonio Spurs,NT-MLE
+800,Trey Lyles,"$5,500,000 ",2019,San Antonio Spurs,NT-MLE
+801,Jakob Poeltl,"$3,754,886 ",2019,San Antonio Spurs,Rookie
+802,Bryn Forbes,"$2,875,000 ",2019,San Antonio Spurs,Early Bird
+803,Lonnie Walker IV,"$2,760,480 ",2019,San Antonio Spurs,Rookie
+804,Luka Samanic,"$2,689,920 ",2019,San Antonio Spurs,Rookie
+805,Dejounte Murray,"$2,321,735 ",2019,San Antonio Spurs,Rookie
+806,Keldon Johnson,"$1,950,600 ",2019,San Antonio Spurs,Rookie
+807,Derrick White,"$1,948,080 ",2019,San Antonio Spurs,Rookie
+808,Chimezie Metu,"$1,416,852 ",2019,San Antonio Spurs,NT-MLE
+809,Tyler Zeller,"$183,115 ",2019,San Antonio Spurs,Minimum
+810,Kyle Lowry,"$32,700,000 ",2018,Toronto Raptors,Bird
+811,Marc Gasol,"$24,119,025 ",2018,Toronto Raptors,Bird
+812,Kawhi Leonard,"$23,114,066 ",2018,Toronto Raptors,Bird
+813,Serge Ibaka,"$21,666,667 ",2018,Toronto Raptors,Bird
+814,Danny Green,"$10,000,000 ",2018,Toronto Raptors,Bird
+815,Norman Powell,"$9,367,200 ",2018,Toronto Raptors,Early Bird
+816,Fred VanVleet,"$8,653,847 ",2018,Toronto Raptors,Early Bird
+817,OG Anunoby,"$1,952,760 ",2018,Toronto Raptors,Rookie
+818,Pascal Siakam,"$1,544,951 ",2018,Toronto Raptors,Rookie
+819,Patrick McCaw,"$786,211 ",2018,Toronto Raptors,Minimum
+820,Jeremy Lin,"$487,109 ",2018,Toronto Raptors,Minimum
+821,Chris Boucher,"$457,418 ",2018,Toronto Raptors,Minimum
+822,Malcolm Miller,"$457,418 ",2018,Toronto Raptors,Minimum
+823,Jodie Meeks,"$136,732 ",2018,Toronto Raptors,Minimum
+824,Eric Moreland,"$17,092 ",2018,Toronto Raptors,Minimum
+825,Kyle Lowry,"$34,996,296 ",2019,Toronto Raptors,Bird
+826,Marc Gasol,"$25,595,700 ",2019,Toronto Raptors,Bird
+827,Serge Ibaka,"$23,271,605 ",2019,Toronto Raptors,Bird
+828,Norman Powell,"$10,116,576 ",2019,Toronto Raptors,Early Bird
+829,Fred VanVleet,"$9,346,153 ",2019,Toronto Raptors,Early Bird
+830,Patrick McCaw,"$4,000,000 ",2019,Toronto Raptors,NT-MLE
+831,Stanley Johnson,"$3,623,000 ",2019,Toronto Raptors,Bi-Annual
+832,Rondae Hollis-Jefferson,"$2,500,000 ",2019,Toronto Raptors,NT-MLE
+833,Pascal Siakam,"$2,351,839 ",2019,Toronto Raptors,Rookie
+834,OG Anunoby,"$2,281,800 ",2019,Toronto Raptors,Rookie
+835,Chris Boucher,"$1,588,231 ",2019,Toronto Raptors,Minimum
+836,Malcolm Miller,"$1,588,231 ",2019,Toronto Raptors,Minimum
+837,Terence Davis,"$898,310 ",2019,Toronto Raptors,Minimum
+838,Dewan Hernandez,"$898,310 ",2019,Toronto Raptors,NT-MLE
+839,Matt Thomas,"$898,310 ",2019,Toronto Raptors,NT-MLE
+840,Rudy Gobert,"$23,491,573 ",2018,Utah Jazz,Bird
+841,Derrick Favors,"$16,900,000 ",2018,Utah Jazz,Bird
+842,Ricky Rubio,"$14,975,000 ",2018,Utah Jazz,Bird
+843,Joe Ingles,"$13,045,455 ",2018,Utah Jazz,Bird
+844,Dante Exum,"$9,600,000 ",2018,Utah Jazz,Bird
+845,Kyle Korver,"$7,560,000 ",2018,Utah Jazz,Bird
+846,Jae Crowder,"$7,305,825 ",2018,Utah Jazz,Bird
+847,Thabo Sefolosha,"$5,250,000 ",2018,Utah Jazz,Cap Space
+848,Ekpe Udoh,"$3,360,000 ",2018,Utah Jazz,Room
+849,Donovan Mitchell,"$3,111,480 ",2018,Utah Jazz,Rookie
+850,Raul Neto,"$2,150,000 ",2018,Utah Jazz,Bird
+851,Grayson Allen,"$2,074,320 ",2018,Utah Jazz,Rookie
+852,Tony Bradley,"$1,679,520 ",2018,Utah Jazz,Rookie
+853,Georges Niang,"$1,512,601 ",2018,Utah Jazz,Non-Bird
+854,Royce O'Neale,"$1,378,242 ",2018,Utah Jazz,Cap Space
+855,Mike Conley,"$32,511,623 ",2019,Utah Jazz,Bird
+856,Rudy Gobert,"$25,008,427 ",2019,Utah Jazz,Bird
+857,Bojan Bogdanovic,"$17,000,000 ",2019,Utah Jazz,Cap Space
+858,Jordan Clarkson,"$13,437,500 ",2019,Utah Jazz,Early Bird
+859,Joe Ingles,"$11,954,546 ",2019,Utah Jazz,Bird
+860,Ed Davis,"$4,767,000 ",2019,Utah Jazz,Room
+861,Donovan Mitchell,"$3,635,760 ",2019,Utah Jazz,Rookie
+862,Tony Bradley,"$1,962,360 ",2019,Utah Jazz,Rookie
+863,Georges Niang,"$1,678,854 ",2019,Utah Jazz,Non-Bird
+864,Emmanuel Mudiay,"$1,620,564 ",2019,Utah Jazz,Minimum
+865,Royce O'Neale,"$1,618,520 ",2019,Utah Jazz,Cap Space
+866,Nigel Williams-Goss,"$1,500,000 ",2019,Utah Jazz,Cap Space
+867,Miye Oni,"$898,310 ",2019,Utah Jazz,Cap Space
+868,Juwan Morgan,"$746,054 ",2019,Utah Jazz,Minimum
+869,Rayjon Tucker,"$578,573 ",2019,Utah Jazz,Minimum
+870,Bradley Beal,"$25,434,263 ",2018,Washington Wizards,Bird
+871,Jabari Parker,"$20,000,000 ",2018,Washington Wizards,Cap Space
+872,John Wall,"$19,169,800 ",2018,Washington Wizards,Bird
+873,Ian Mahinmi,"$15,944,154 ",2018,Washington Wizards,Cap Space
+874,Trevor Ariza,"$15,000,000 ",2018,Washington Wizards,Cap Space
+875,Dwight Howard,"$5,337,000 ",2018,Washington Wizards,T-MLE
+876,Tomas Satoransky,"$3,129,187 ",2018,Washington Wizards,Cap Space
+877,Sam Dekker,"$2,760,095 ",2018,Washington Wizards,Rookie
+878,Troy Brown Jr.,"$2,749,080 ",2018,Washington Wizards,Rookie
+879,Bobby Portis,"$2,494,346 ",2018,Washington Wizards,Rookie
+880,Jeff Green,"$1,512,601 ",2018,Washington Wizards,Minimum
+881,Thomas Bryant,"$1,378,242 ",2018,Washington Wizards,Minimum
+882,Chasson Randle,"$869,094 ",2018,Washington Wizards,Minimum
+883,Jordan McRae,"$17,092 ",2018,Washington Wizards,Minimum
+884,Tarik Phillip,"$9,474 ",2018,Washington Wizards,Minimum
+885,John Wall,"$38,199,000 ",2019,Washington Wizards,Bird
+886,Ian Mahinmi,"$15,450,051 ",2019,Washington Wizards,Cap Space
+887,Thomas Bryant,"$8,000,000 ",2019,Washington Wizards,Early Bird
+888,Ishmael Smith,"$6,000,000 ",2019,Washington Wizards,NT-MLE
+889,Rui Hachimura,"$4,469,160 ",2019,Washington Wizards,Rookie
+890,Jerome Robinson,"$3,567,720 ",2019,Washington Wizards,Rookie
+891,Troy Brown Jr.,"$3,219,480 ",2019,Washington Wizards,Rookie
+892,Moritz Wagner,"$2,063,520 ",2019,Washington Wizards,Rookie
+893,Shabazz Napier,"$1,845,301 ",2019,Washington Wizards,Cap Space
+894,Isaac Bonga,"$1,416,852 ",2019,Washington Wizards,Cap Space
+895,Gary Payton II,"$1,052,909 ",2019,Washington Wizards,Hardship
+896,Admiral Schofield,"$1,000,000 ",2019,Washington Wizards,NT-MLE
+897,Anzejs Pasecniks,"$482,144 ",2019,Washington Wizards,NT-MLE
+898,Jerian Grant,- ,2019,Washington Wizards,Minimum
+899,Jarrod Uthoff,- ,2019,Washington Wizards,Minimum

@@ -17,11 +17,15 @@ if __name__  == '__main__':
     #iterate and label first 4 years as rookie
     rookie_dict = {}
     contract_type = []
+
     for i, row in data.iterrows():
-        if(row["Name"] not in rookie_dict):
+        curr_contract = row["Contract Value"]
+        curr_contract = curr_contract.strip()[1:-3]
+        curr_contract = int(curr_contract.replace(",", ""))
+        if(row["Name"] not in rookie_dict and curr_contract <= 6200000):
             rookie_dict[row["Name"]] = row["Year"]
             contract_type.append("Rookie")
-        elif(row["Year"] <= rookie_dict[row["Name"]] + 3):
+        elif(curr_contract <= 6200000 and row["Year"] <= rookie_dict[row["Name"]] + 3):
             contract_type.append("Rookie")
         else:
             contract_type.append("Non-rookie")

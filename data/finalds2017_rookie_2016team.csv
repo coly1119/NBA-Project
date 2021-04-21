@@ -1,0 +1,192 @@
+X,Unnamed..0,rating,Team,mu,sd,name,Contract.Value,Year,Type,coefs,index,player_id,player_name
+0,1,6.894414691,Houston Rockets,0.437537,5,Chinanu Onuaku,"$1,312,611.00 ",2017,Rookie,-1.631243054,530,1627778,Chinanu Onuaku
+1,3,6.894414691,Houston Rockets,0.778173333,5,Clint Capela,"$2,334,520.00 ",2017,Rookie,0.212787112,460,203991,Clint Capela
+2,5,6.894414691,Houston Rockets,0.066666667,5,Isaiah Canaan,"$200,000.00 ",2017,Rookie,2.383798721,404,203477,Isaiah Canaan
+3,10,6.894414691,Houston Rockets,1.096666667,5,Tarik Black,"$3,290,000.00 ",2017,Rookie,-0.973460808,459,204028,Tarik Black
+4,12,6.894414691,Houston Rockets,0.490460667,5,Troy Williams,"$1,471,382.00 ",2017,Rookie,0.68678754,238,1627786,Troy Williams
+5,13,6.894414691,Houston Rockets,0.271871667,5,Zhou Qi,"$815,615.00 ",2017,Rookie,-1.192312649,287,1627753,Zhou Qi
+6,15,13.43031611,Golden State Warriors,0.437537,5,Damian Jones,"$1,312,611.00 ",2017,Rookie,-1.175021422,242,1627745,Damian Jones
+7,19,13.43031611,Golden State Warriors,0.271871667,5,Jordan Bell,"$815,615.00 ",2017,Rookie,4.275907773,241,1628395,Jordan Bell
+8,21,13.43031611,Golden State Warriors,0.490460667,5,Kevon Looney,"$1,471,382.00 ",2017,Rookie,4.704462675,472,1626172,Kevon Looney
+9,25,13.43031611,Golden State Warriors,0.437537,5,Patrick McCaw,"$1,312,611.00 ",2017,Rookie,-1.490965604,504,1627775,Patrick McCaw
+10,30,-4.722418349,Philadelphia 76ers,2.05628,5,Ben Simmons,"$6,168,840.00 ",2017,Rookie,4.737778158,439,1627732,Ben Simmons
+11,31,-4.722418349,Philadelphia 76ers,0.80752,5,Dario Saric,"$2,422,560.00 ",2017,Rookie,0.912509956,505,203967,Dario Saric
+12,32,-4.722418349,Philadelphia 76ers,0.48864,5,Furkan Korkmaz,"$1,465,920.00 ",2017,Rookie,-3.09863089,374,1627788,Furkan Korkmaz
+13,33,-4.722418349,Philadelphia 76ers,1.66504,5,Jahlil Okafor,"$4,995,120.00 ",2017,Rookie,-6.114323679,509,1626143,Jahlil Okafor
+14,35,-4.722418349,Philadelphia 76ers,2.033422,5,Joel Embiid,"$6,100,266.00 ",2017,Rookie,5.603896029,314,203954,Joel Embiid
+15,36,-4.722418349,Philadelphia 76ers,0.52648,5,Justin Anderson,"$1,579,440.00 ",2017,Rookie,-8.838457284,42,1626147,Justin Anderson
+16,38,-4.722418349,Philadelphia 76ers,1.269048667,5,Nik Stauskas,"$3,807,146.00 ",2017,Rookie,-7.529376473,308,203917,Nik Stauskas
+17,39,-4.722418349,Philadelphia 76ers,0.490460667,5,Richaun Holmes,"$1,471,382.00 ",2017,Rookie,-1.952326927,353,1626158,Richaun Holmes
+18,41,-4.722418349,Philadelphia 76ers,0.490460667,5,T.J. McConnell,"$1,471,382.00 ",2017,Rookie,2.838011845,39,204456,T.J. McConnell
+19,42,-4.722418349,Philadelphia 76ers,0.4622,5,Timothe Luwawu-Cabarrot,"$1,386,600.00 ",2017,Rookie,-3.174884414,201,1627789,Timothe Luwawu-Cabarrot
+20,37,-4.722418349,Philadelphia 76ers,2.34208,5,Markelle Fultz,"$7,026,240.00 ",2017,Rookie,-1.080328184,269,1628365,Markelle Fultz
+20,44,4.969595181,Utah Jazz,1.664128333,5,Dante Exum,"$4,992,385.00 ",2017,Rookie,1.129743434,445,203957,Dante Exum
+21,46,4.969595181,Utah Jazz,0.87376,5,Donovan Mitchell,"$2,621,280.00 ",2017,Rookie,6.415048514,417,1628378,Donovan Mitchell
+22,50,4.969595181,Utah Jazz,0.437537,5,Joel Bolomboy,"$1,312,611.00 ",2017,Rookie,0,536,1627762,Joel Bolomboy
+23,52,4.969595181,Utah Jazz,0.490460667,5,Raul Neto,"$1,471,382.00 ",2017,Rookie,2.03092841,112,203526,Raul Neto
+24,54,4.969595181,Utah Jazz,0.795621333,5,Rodney Hood,"$2,386,864.00 ",2017,Rookie,1.917715986,110,203918,Rodney Hood
+25,57,4.969595181,Utah Jazz,0.47164,5,Tony Bradley,"$1,414,920.00 ",2017,Rookie,-0.0413689,397,1628396,Tony Bradley
+26,61,2.082185522,Oklahoma City Thunder,0.271871667,5,Dakari Johnson,"$815,615.00 ",2017,Rookie,-2.242858816,131,1626177,Dakari Johnson
+27,62,2.082185522,Oklahoma City Thunder,0.508101667,5,Jerami Grant,"$1,524,305.00 ",2017,Rookie,-0.848014197,101,203924,Jerami Grant
+28,63,2.082185522,Oklahoma City Thunder,0.490460667,5,Josh Huestis,"$1,471,382.00 ",2017,Rookie,8.415359203,340,203962,Josh Huestis
+29,71,2.082185522,Oklahoma City Thunder,0.595,5,Terrance Ferguson,"$1,785,000.00 ",2017,Rookie,-0.689255209,99,1628390,Terrance Ferguson
+30,72,2.709757135,Boston Celtics,0.389111,5,Abdel Nader,"$1,167,333.00 ",2017,Rookie,1.352961324,134,1627846,Abdel Nader
+31,75,2.709757135,Boston Celtics,0.271871667,5,Daniel Theis,"$815,615.00 ",2017,Rookie,3.583572697,280,1628464,Daniel Theis
+32,76,2.709757135,Boston Celtics,0.030952667,5,Demetrius Jackson,"$92,858.00 ",2017,Rookie,-0.339243761,522,1627743,Demetrius Jackson
+33,78,2.709757135,Boston Celtics,0.74916,5,Guerschon Yabusele,"$2,247,480.00 ",2017,Rookie,2.130797717,273,1627824,Guerschon Yabusele
+34,79,2.709757135,Boston Celtics,1.65216,5,Jaylen Brown,"$4,956,480.00 ",2017,Rookie,4.930657917,117,1627759,Jaylen Brown
+35,80,2.709757135,Boston Celtics,1.8818,5,Jayson Tatum,"$5,645,400.00 ",2017,Rookie,5.716106913,120,1628369,Jayson Tatum
+36,83,2.709757135,Boston Celtics,1.512673333,5,Marcus Smart,"$4,538,020.00 ",2017,Rookie,-0.34320387,511,203935,Marcus Smart
+37,84,2.709757135,Boston Celtics,0.430630667,5,Semi Ojeleye,"$1,291,892.00 ",2017,Rookie,-6.114585594,202,1628400,Semi Ojeleye
+38,86,2.709757135,Boston Celtics,0.66284,5,Terry Rozier,"$1,988,520.00 ",2017,Rookie,1.768390945,119,1626179,Terry Rozier
+39,87,8.154010436,San Antonio Spurs,0.271871667,5,Brandon Paul,"$815,615.00 ",2017,Rookie,4.066323287,247,203464,Brandon Paul
+40,88,8.154010436,San Antonio Spurs,0.437537,5,Bryn Forbes,"$1,312,611.00 ",2017,Rookie,0.205047355,188,1627854,Bryn Forbes
+41,90,8.154010436,San Antonio Spurs,0.437537,5,Davis Bertans,"$1,312,611.00 ",2017,Rookie,0.008210648,80,202722,Davis Bertans
+42,91,8.154010436,San Antonio Spurs,0.437537,5,Dejounte Murray,"$1,312,611.00 ",2017,Rookie,-2.702436028,82,1627749,Dejounte Murray
+43,92,8.154010436,San Antonio Spurs,0.4682,5,Derrick White,"$1,404,600.00 ",2017,Rookie,1.627455666,465,1628401,Derrick White
+44,93,8.154010436,San Antonio Spurs,0.508101667,5,Joffrey Lauvergne,"$1,524,305.00 ",2017,Rookie,-4.450499377,220,203530,Joffrey Lauvergne
+45,95,8.154010436,San Antonio Spurs,0.717234667,5,Kyle Anderson,"$2,151,704.00 ",2017,Rookie,-0.556701268,81,203937,Kyle Anderson
+46,110,0.487595368,Minnesota Timberwolves,0.74916,5,Justin Patton,"$2,247,480.00 ",2017,Rookie,0.259449529,523,1628383,Justin Patton
+47,112,0.487595368,Minnesota Timberwolves,0.437537,5,Marcus Georges-Hunt,"$1,312,611.00 ",2017,Rookie,-1.497682498,30,1627875,Marcus Georges-Hunt
+48,113,0.487595368,Minnesota Timberwolves,1.316666333,5,Nemanja Bjelica,"$3,949,999.00 ",2017,Rookie,-1.19894128,415,202357,Nemanja Bjelica
+49,116,0.487595368,Minnesota Timberwolves,0.490460667,5,Tyus Jones,"$1,471,382.00 ",2017,Rookie,-0.681580223,28,1626145,Tyus Jones
+50,118,0.655602464,Portland Trail Blazers,0.48864,5,Caleb Swanigan,"$1,465,920.00 ",2017,Rookie,0.403679101,231,1628403,Caleb Swanigan
+51,122,0.655602464,Portland Trail Blazers,0.437537,5,Jake Layman,"$1,312,611.00 ",2017,Rookie,1.170391349,230,1627774,Jake Layman
+52,123,0.655602464,Portland Trail Blazers,0.982435,5,Jusuf Nurkic,"$2,947,305.00 ",2017,Rookie,-6.070743971,483,203994,Jusuf Nurkic
+53,126,0.655602464,Portland Trail Blazers,1.168411,5,Noah Vonleh,"$3,505,233.00 ",2017,Rookie,-2.631467036,162,203943,Noah Vonleh
+54,127,0.655602464,Portland Trail Blazers,0.490460667,5,Pat Connaughton,"$1,471,382.00 ",2017,Rookie,1.392985677,123,1626192,Pat Connaughton
+55,128,0.655602464,Portland Trail Blazers,0.78712,5,Shabazz Napier,"$2,361,360.00 ",2017,Rookie,-1.0569344,367,203894,Shabazz Napier
+56,129,0.655602464,Portland Trail Blazers,1.01908,5,Zach Collins,"$3,057,240.00 ",2017,Rookie,-3.419040514,482,1628380,Zach Collins
+57,131,-0.562154828,New Orleans Pelicans,0.437537,5,Cheick Diallo,"$1,312,611.00 ",2017,Rookie,-4.804266543,372,1627767,Cheick Diallo
+58,135,-0.562154828,New Orleans Pelicans,0.525743333,5,Ian Clark,"$1,577,230.00 ",2017,Rookie,-0.57254736,427,203546,Ian Clark
+59,143,-0.562154828,New Orleans Pelicans,0.033333333,5,Quinn Cook,"$100,000.00 ",2017,Rookie,3.547307082,255,1626188,Quinn Cook
+60,154,0.567018304,Indiana Pacers,0.85,5,Domantas Sabonis,"$2,550,000.00 ",2017,Rookie,-0.726083448,348,1627734,Domantas Sabonis
+61,155,0.567018304,Indiana Pacers,0.033333333,5,Georges Niang,"$100,000.00 ",2017,Rookie,-0.050207905,179,1627777,Georges Niang
+62,156,0.567018304,Indiana Pacers,0.316666667,5,Ike Anigbogu,"$950,000.00 ",2017,Rookie,-3.113020699,271,1628387,Ike Anigbogu
+63,157,0.567018304,Indiana Pacers,0.490460667,5,Joe Young,"$1,471,382.00 ",2017,Rookie,-5.991034292,3,1626202,Joe Young
+64,159,0.567018304,Indiana Pacers,0.85664,5,Myles Turner,"$2,569,920.00 ",2017,Rookie,1.372436443,309,1626167,Myles Turner
+65,163,1.813798095,Denver Nuggets,1.12716,5,Emmanuel Mudiay,"$3,381,480.00 ",2017,Rookie,-4.77066208,142,1626144,Emmanuel Mudiay
+66,164,1.813798095,Denver Nuggets,0.850018333,5,Gary Harris,"$2,550,055.00 ",2017,Rookie,5.139888355,32,203914,Gary Harris
+67,165,1.813798095,Denver Nuggets,1.11844,5,Jamal Murray,"$3,355,320.00 ",2017,Rookie,4.613053365,31,1627750,Jamal Murray
+68,169,1.813798095,Denver Nuggets,0.56688,5,Malik Beasley,"$1,700,640.00 ",2017,Rookie,-3.742299388,208,1627736,Malik Beasley
+69,171,1.813798095,Denver Nuggets,0.490460667,5,Nikola Jokic,"$1,471,382.00 ",2017,Rookie,5.796173083,503,203999,Nikola Jokic
+70,175,1.813798095,Denver Nuggets,0.8138,5,Trey Lyles,"$2,441,400.00 ",2017,Rookie,0.858827884,448,1626168,Trey Lyles
+71,176,1.813798095,Denver Nuggets,0.52648,5,Tyler Lydon,"$1,579,440.00 ",2017,Rookie,0,537,1628399,Tyler Lydon
+72,180,2.37472787,Washington Wizards,0.490460667,5,Chris McCullough,"$1,471,382.00 ",2017,Rookie,0.406465405,356,1626191,Chris McCullough
+73,188,2.37472787,Washington Wizards,0.666666667,5,Tim Frazier,"$2,000,000.00 ",2017,Rookie,3.022018886,515,204025,Tim Frazier
+74,189,2.37472787,Washington Wizards,1,5,Tomas Satoransky,"$3,000,000.00 ",2017,Rookie,-0.40876592,56,203107,Tomas Satoransky
+75,192,5.382403139,Los Angeles Clippers,0.44372,5,Brice Johnson,"$1,331,160.00 ",2017,Rookie,-6.82164963,222,1627744,Brice Johnson
+76,195,5.382403139,Los Angeles Clippers,0.271871667,5,Jawun Evans,"$815,615.00 ",2017,Rookie,8.963091005,70,1628393,Jawun Evans
+77,198,5.382403139,Los Angeles Clippers,0.490460667,5,Montrezl Harrell,"$1,471,382.00 ",2017,Rookie,2.782002989,71,1626149,Montrezl Harrell
+78,200,5.382403139,Los Angeles Clippers,0.5982,5,Sam Dekker,"$1,794,600.00 ",2017,Rookie,-2.81447274,181,1626155,Sam Dekker
+79,201,5.382403139,Los Angeles Clippers,0.271871667,5,Sindarius Thornwell,"$815,615.00 ",2017,Rookie,-7.060799435,182,1628414,Sindarius Thornwell
+80,203,5.382403139,Los Angeles Clippers,0.525743333,5,Willie Reed,"$1,577,230.00 ",2017,Rookie,0.634957709,344,203186,Willie Reed
+81,205,1.065368971,Charlotte Hornets,0.271871667,5,Dwayne Bacon,"$815,615.00 ",2017,Rookie,6.775430898,461,1628407,Dwayne Bacon
+82,207,1.065368971,Charlotte Hornets,0.9492,5,Frank Kaminsky,"$2,847,600.00 ",2017,Rookie,2.393027289,233,1626163,Frank Kaminsky
+83,211,1.065368971,Charlotte Hornets,0.96816,5,Malik Monk,"$2,904,480.00 ",2017,Rookie,-8.572503289,212,1628370,Malik Monk
+84,216,1.065368971,Charlotte Hornets,0.437537,5,Treveon Graham,"$1,312,611.00 ",2017,Rookie,-2.442165165,474,1626203,Treveon Graham
+85,217,1.904907009,Miami Heat,0.83012,5,Bam Adebayo,"$2,490,360.00 ",2017,Rookie,-6.887809352,84,1628389,Bam Adebayo
+86,222,1.904907009,Miami Heat,0.490460667,5,Jordan Mickey,"$1,471,382.00 ",2017,Rookie,-2.42647485,516,1626175,Jordan Mickey
+87,223,1.904907009,Miami Heat,0.490460667,5,Josh Richardson,"$1,471,382.00 ",2017,Rookie,2.864861853,351,1626196,Josh Richardson
+88,224,1.904907009,Miami Heat,0.90168,5,Justise Winslow,"$2,705,040.00 ",2017,Rookie,-1.645799774,221,1626159,Justise Winslow
+89,226,1.904907009,Miami Heat,0.437537,5,Okaro White,"$1,312,611.00 ",2017,Rookie,-1.033198038,390,1627855,Okaro White
+90,227,1.904907009,Miami Heat,0.437537,5,Rodney McGruder,"$1,312,611.00 ",2017,Rookie,0.323404655,218,203585,Rodney McGruder
+91,231,0.860694254,Milwaukee Bucks,0.71168,5,D.J. Wilson,"$2,135,040.00 ",2017,Rookie,-5.040875024,304,1628391,D.J. Wilson
+92,240,0.860694254,Milwaukee Bucks,0.437537,5,Malcolm Brogdon,"$1,312,611.00 ",2017,Rookie,-0.457327765,452,1627763,Malcolm Brogdon
+93,243,0.860694254,Milwaukee Bucks,0.62968,5,Rashad Vaughn,"$1,889,040.00 ",2017,Rookie,-6.959130367,362,1626173,Rashad Vaughn
+94,244,0.860694254,Milwaukee Bucks,0.271871667,5,Sterling Brown,"$815,615.00 ",2017,Rookie,-1.625686266,174,1628425,Sterling Brown
+95,245,0.860694254,Milwaukee Bucks,0.89472,5,Thon Maker,"$2,684,160.00 ",2017,Rookie,-1.473464369,26,1627748,Thon Maker
+96,252,-0.16488799,Detroit Pistons,0.579777667,5,Eric Moreland,"$1,739,333.00 ",2017,Rookie,-2.453173261,178,203961,Eric Moreland
+97,253,-0.16488799,Detroit Pistons,0.5936,5,Henry Ellenson,"$1,780,800.00 ",2017,Rookie,-1.337777145,451,1627740,Henry Ellenson
+98,259,-0.16488799,Detroit Pistons,0.91976,5,Luke Kennard,"$2,759,280.00 ",2017,Rookie,3.69935974,205,1628379,Luke Kennard
+99,262,-0.16488799,Detroit Pistons,1.0326,5,Stanley Johnson,"$3,097,800.00 ",2017,Rookie,-1.34284732,328,1626169,Stanley Johnson
+100,265,-5.179052184,Los Angeles Lakers,1.8398,5,Brandon Ingram,"$5,519,400.00 ",2017,Rookie,2.11931737,473,1627742,Brandon Ingram
+101,266,-5.179052184,Los Angeles Lakers,0.016666667,5,Briante Weber,"$50,000.00 ",2017,Rookie,0.211006357,244,1627362,Briante Weber
+102,269,-5.179052184,Los Angeles Lakers,0.437537,5,Ivica Zubac,"$1,312,611.00 ",2017,Rookie,-1.113048166,261,1627826,Ivica Zubac
+103,271,-5.179052184,Los Angeles Lakers,0.46484,5,Josh Hart,"$1,394,520.00 ",2017,Rookie,1.77766154,302,1628404,Josh Hart
+104,272,-5.179052184,Los Angeles Lakers,1.383080667,5,Julius Randle,"$4,149,242.00 ",2017,Rookie,3.204982907,47,203944,Julius Randle
+105,274,-5.179052184,Los Angeles Lakers,0.47452,5,Kyle Kuzma,"$1,423,560.00 ",2017,Rookie,-2.095265356,48,1628398,Kyle Kuzma
+106,277,-5.179052184,Los Angeles Lakers,0.271871667,5,Thomas Bryant,"$815,615.00 ",2017,Rookie,-1.220694852,215,1628418,Thomas Bryant
+107,278,-5.179052184,Los Angeles Lakers,0.508101667,5,Tyler Ennis,"$1,524,305.00 ",2017,Rookie,2.550984556,317,203898,Tyler Ennis
+108,279,-5.179052184,Los Angeles Lakers,0.016666667,5,Vander Blue,"$50,000.00 ",2017,Rookie,0,395,203505,Vander Blue
+155,275,-5.179052184,Los Angeles Lakers,2.09552,5,Lonzo Ball,"$6,286,560.00 ",2017,Rookie,1.867431783,49,1628366,Lonzo Ball
+109,282,-1.412858355,Dallas Mavericks,0.437537,5,Dorian Finney-Smith,"$1,312,611.00 ",2017,Rookie,-0.262328915,388,1627827,Dorian Finney-Smith
+110,284,-1.412858355,Dallas Mavericks,0.016666667,5,Gian Clavell,"$50,000.00 ",2017,Rookie,1.546268806,283,1628492,Gian Clavell
+111,286,-1.412858355,Dallas Mavericks,1.3013,5,J.J. Barea,"$3,903,900.00 ",2017,Rookie,0.586407511,368,200826,J.J. Barea
+112,287,-1.412858355,Dallas Mavericks,0.525773333,5,Jeff Withey,"$1,577,320.00 ",2017,Rookie,1.784170758,526,203481,Jeff Withey
+113,289,-1.412858355,Dallas Mavericks,0.271871667,5,Maxi Kleber,"$815,615.00 ",2017,Rookie,-3.256273159,329,1628467,Maxi Kleber
+114,291,-1.412858355,Dallas Mavericks,0.490460667,5,Salah Mejri,"$1,471,382.00 ",2017,Rookie,-2.500454056,336,1626257,Salah Mejri
+115,293,-1.412858355,Dallas Mavericks,0.437537,5,Yogi Ferrell,"$1,312,611.00 ",2017,Rookie,3.391779043,152,1627812,Yogi Ferrell
+116,295,-2.742011328,New York Knicks,0.366666667,5,Damyean Dotson,"$1,100,000.00 ",2017,Rookie,-4.58594244,197,1628422,Damyean Dotson
+117,296,-2.742011328,New York Knicks,1.098331333,5,Doug McDermott,"$3,294,994.00 ",2017,Rookie,4.760490287,478,203926,Doug McDermott
+118,298,-2.742011328,New York Knicks,1.16704,5,Frank Ntilikina,"$3,501,120.00 ",2017,Rookie,-0.708732427,414,1628373,Frank Ntilikina
+119,301,-2.742011328,New York Knicks,1.5012,5,Kristaps Porzingis,"$4,503,600.00 ",2017,Rookie,3.81078354,86,204001,Kristaps Porzingis
+120,303,-2.742011328,New York Knicks,0.033333333,5,Marshall Plumlee,"$100,000.00 ",2017,Rookie,0.340257401,421,1627850,Marshall Plumlee
+121,305,-2.742011328,New York Knicks,1.008345,5,Mindaugas Kuzminskas,"$3,025,035.00 ",2017,Rookie,0,535,1627851,Mindaugas Kuzminskas
+122,306,-2.742011328,New York Knicks,0.016666667,5,Nigel Hayes,"$50,000.00 ",2017,Rookie,3.10935732,9,1628502,Nigel Hayes
+123,308,-2.742011328,New York Knicks,1.442666667,5,Ron Baker,"$4,328,000.00 ",2017,Rookie,7.869608164,286,1627758,Ron Baker
+124,309,-2.742011328,New York Knicks,0.478583333,5,Willy Hernangomez,"$1,435,750.00 ",2017,Rookie,4.096499631,341,1626195,Willy Hernangomez
+125,311,-5.629013734,Brooklyn Nets,0.54416,5,Caris LeVert,"$1,632,480.00 ",2017,Rookie,-0.006510134,97,1627747,Caris LeVert
+126,313,-5.629013734,Brooklyn Nets,0.437537,5,Isaiah Whitehead,"$1,312,611.00 ",2017,Rookie,3.398689007,206,1627785,Isaiah Whitehead
+127,314,-5.629013734,Brooklyn Nets,0.57124,5,Jarrett Allen,"$1,713,720.00 ",2017,Rookie,-1.098824715,96,1628386,Jarrett Allen
+128,316,-5.629013734,Brooklyn Nets,0.508101667,5,Joe Harris,"$1,524,305.00 ",2017,Rookie,3.790127499,457,203925,Joe Harris
+129,318,-5.629013734,Brooklyn Nets,0.490460667,5,Rondae Hollis-Jefferson,"$1,471,382.00 ",2017,Rookie,-4.34758892,95,1626178,Rondae Hollis-Jefferson
+130,319,-5.629013734,Brooklyn Nets,0.508101667,5,Sean Kilpatrick,"$1,524,305.00 ",2017,Rookie,-6.862210295,263,203930,Sean Kilpatrick
+131,320,-5.629013734,Brooklyn Nets,0.508101667,5,Spencer Dinwiddie,"$1,524,305.00 ",2017,Rookie,3.78982172,186,203915,Spencer Dinwiddie
+132,324,-5.497607056,Orlando Magic,1.834806667,5,Aaron Gordon,"$5,504,420.00 ",2017,Rookie,0.85435065,409,203932,Aaron Gordon
+133,329,-5.497607056,Orlando Magic,1.11078,5,Elfrid Payton,"$3,332,340.00 ",2017,Rookie,-2.892584785,114,203901,Elfrid Payton
+134,331,-5.497607056,Orlando Magic,1.39544,5,Jonathan Isaac,"$4,186,320.00 ",2017,Rookie,1.537837599,240,1628371,Jonathan Isaac
+135,333,-5.497607056,Orlando Magic,0.271871667,5,Khem Birch,"$815,615.00 ",2017,Rookie,6.003096987,155,203920,Khem Birch
+136,334,-5.497607056,Orlando Magic,1.35944,5,Mario Hezonja,"$4,078,320.00 ",2017,Rookie,-3.098943814,115,1626209,Mario Hezonja
+137,339,1.934503325,Memphis Grizzlies,0.437537,5,Andrew Harrison,"$1,312,611.00 ",2017,Rookie,-3.223791935,23,1626150,Andrew Harrison
+138,343,1.934503325,Memphis Grizzlies,0.437537,5,Deyonta Davis,"$1,312,611.00 ",2017,Rookie,-1.584357429,377,1627738,Deyonta Davis
+139,344,1.934503325,Memphis Grizzlies,0.271871667,5,Dillon Brooks,"$815,615.00 ",2017,Rookie,0.056648113,501,1628415,Dillon Brooks
+140,345,1.934503325,Memphis Grizzlies,0.316666667,5,Ivan Rabb,"$950,000.00 ",2017,Rookie,1.428614015,163,1628397,Ivan Rabb
+141,347,1.934503325,Memphis Grizzlies,0.490460667,5,Jarell Martin,"$1,471,382.00 ",2017,Rookie,0.279654937,22,1626185,Jarell Martin
+142,352,1.934503325,Memphis Grizzlies,0.437537,5,Wayne Selden,"$1,312,611.00 ",2017,Rookie,-2.535287835,105,1627782,Wayne Selden
+143,358,-2.167864662,Sacramento Kings,1.22516,5,Buddy Hield,"$3,675,480.00 ",2017,Rookie,-5.90116516,470,1627741,Buddy Hield
+144,359,-2.167864662,Sacramento Kings,0.394795,5,Frank Mason,"$1,184,385.00 ",2017,Rookie,1.663648744,437,1628412,Frank Mason
+145,362,-2.167864662,Sacramento Kings,0.76712,5,Georgios Papagiannis,"$2,301,360.00 ",2017,Rookie,0.880045237,429,1627834,Georgios Papagiannis
+146,363,-2.167864662,Sacramento Kings,0.78852,5,Justin Jackson,"$2,365,560.00 ",2017,Rookie,-1.783443685,251,1628382,Justin Jackson
+147,365,-2.167864662,Sacramento Kings,0.50152,5,Malachi Richardson,"$1,504,560.00 ",2017,Rookie,-1.607066872,132,1627781,Malachi Richardson
+148,366,-2.167864662,Sacramento Kings,0.437537,5,Skal Labissiere,"$1,312,611.00 ",2017,Rookie,-2.029559659,45,1627746,Skal Labissiere
+149,368,-2.167864662,Sacramento Kings,1.23472,5,Willie Cauley-Stein,"$3,704,160.00 ",2017,Rookie,2.450750738,11,1626161,Willie Cauley-Stein
+150,370,0.824932591,Chicago Bulls,0.50544,5,Bobby Portis,"$1,516,320.00 ",2017,Rookie,1.220763098,126,1626171,Bobby Portis
+151,371,0.824932591,Chicago Bulls,0.73448,5,Cameron Payne,"$2,203,440.00 ",2017,Rookie,5.793693688,355,1626166,Cameron Payne
+152,373,0.824932591,Chicago Bulls,0.437537,5,David Nwaba,"$1,312,611.00 ",2017,Rookie,-4.97763477,203,1628021,David Nwaba
+153,374,0.824932591,Chicago Bulls,0.7288,5,Denzel Valentine,"$2,186,400.00 ",2017,Rookie,2.946145522,78,1627756,Denzel Valentine
+154,379,0.824932591,Chicago Bulls,0.005741333,5,Jarell Eddie,"$17,224.00 ",2017,Rookie,0.242063549,226,204067,Jarell Eddie
+155,380,0.824932591,Chicago Bulls,0.57128,5,Jerian Grant,"$1,713,840.00 ",2017,Rookie,-2.393874879,258,1626170,Jerian Grant
+156,381,0.824932591,Chicago Bulls,1.538461667,5,Justin Holiday,"$4,615,385.00 ",2017,Rookie,2.784453116,76,203200,Justin Holiday
+157,382,0.824932591,Chicago Bulls,0.437537,5,Kay Felder,"$1,312,611.00 ",2017,Rookie,1.913152559,464,1627770,Kay Felder
+158,383,0.824932591,Chicago Bulls,1.34892,5,Kris Dunn,"$4,046,760.00 ",2017,Rookie,3.588259117,434,1627739,Kris Dunn
+159,384,0.824932591,Chicago Bulls,1.27388,5,Lauri Markkanen,"$3,821,640.00 ",2017,Rookie,-4.533282218,335,1628374,Lauri Markkanen
+160,386,0.824932591,Chicago Bulls,0.437537,5,Paul Zipser,"$1,312,611.00 ",2017,Rookie,-2.078318976,514,1627835,Paul Zipser
+161,391,0.824932591,Chicago Bulls,1.067405667,5,Zach LaVine,"$3,202,217.00 ",2017,Rookie,0.560135335,354,203897,Zach LaVine
+162,394,-4.014177796,Phoenix Suns,0.271871667,5,Davon Reed,"$815,615.00 ",2017,Rookie,-4.230308471,350,1628432,Davon Reed
+163,395,-4.014177796,Phoenix Suns,0.77312,5,Devin Booker,"$2,319,360.00 ",2017,Rookie,-2.217019145,167,1626164,Devin Booker
+164,396,-4.014177796,Phoenix Suns,1.4896,5,Dragan Bender,"$4,468,800.00 ",2017,Rookie,-0.04409049,337,1627733,Dragan Bender
+165,399,-4.014177796,Phoenix Suns,1.69668,5,Josh Jackson,"$5,090,040.00 ",2017,Rookie,-0.470863088,89,1628367,Josh Jackson
+166,400,-4.014177796,Phoenix Suns,1.0246,5,Marquese Chriss,"$3,073,800.00 ",2017,Rookie,-2.973858068,338,1627737,Marquese Chriss
+167,401,-4.014177796,Phoenix Suns,1.050977,5,T.J. Warren,"$3,152,931.00 ",2017,Rookie,3.388963647,431,203933,T.J. Warren
+168,402,-4.014177796,Phoenix Suns,1.136173333,5,Troy Daniels,"$3,408,520.00 ",2017,Rookie,-3.217953254,65,203584,Troy Daniels
+169,403,-4.014177796,Phoenix Suns,0.437537,5,Tyler Ulis,"$1,312,611.00 ",2017,Rookie,0.757696571,64,1627755,Tyler Ulis
+170,405,3.979408403,Toronto Raptors ,0.271871667,5,Alfonzo McKinnie,"$815,615.00 ",2017,Rookie,-2.693817196,7,1628035,Alfonzo McKinnie
+171,406,3.979408403,Toronto Raptors ,0.817075,5,Bruno Caboclo,"$2,451,225.00 ",2017,Rookie,-3.661102298,359,203998,Bruno Caboclo
+172,407,3.979408403,Toronto Raptors ,0.5484,5,Delon Wright,"$1,645,200.00 ",2017,Rookie,-0.521014571,195,1626153,Delon Wright
+173,409,3.979408403,Toronto Raptors ,0.437537,5,Fred VanVleet,"$1,312,611.00 ",2017,Rookie,0.983997754,446,1627832,Fred VanVleet
+174,410,3.979408403,Toronto Raptors ,0.94188,5,Jakob Poeltl,"$2,825,640.00 ",2017,Rookie,1.941253638,74,1627751,Jakob Poeltl
+175,413,3.979408403,Toronto Raptors ,0.982435,5,Lucas Nogueira,"$2,947,305.00 ",2017,Rookie,-1.704950522,375,203512,Lucas Nogueira
+176,414,3.979408403,Toronto Raptors ,0.490460667,5,Norman Powell,"$1,471,382.00 ",2017,Rookie,-1.563582108,43,1626181,Norman Powell
+177,415,3.979408403,Toronto Raptors ,0.5484,5,OG Anunoby,"$1,645,200.00 ",2017,Rookie,-1.892398777,6,1628384,OG Anunoby
+178,416,3.979408403,Toronto Raptors ,0.437537,5,Pascal Siakam,"$1,312,611.00 ",2017,Rookie,-3.871828301,75,1627783,Pascal Siakam
+179,418,5.695697826,Cleveland Cavaliers,0.5484,5,Ante Zizic,"$1,645,200.00 ",2017,Rookie,-3.208933733,246,1627790,Ante Zizic
+180,419,5.695697826,Cleveland Cavaliers,0.880952333,5,Cedi Osman,"$2,642,857.00 ",2017,Rookie,5.973600256,191,1626224,Cedi Osman
+181,438,0,Atlanta Hawks,0.437537,5,Isaiah Taylor,"$1,312,611.00 ",2017,Rookie,0.091946789,225,1627819,Isaiah Taylor
+182,442,0,Atlanta Hawks,0.64564,5,John Collins,"$1,936,920.00 ",2017,Rookie,0.902693919,420,1628381,John Collins
+183,445,0,Atlanta Hawks,0.833333333,5,Malcolm Delaney,"$2,500,000.00 ",2017,Rookie,-6.571510319,423,1627098,Malcolm Delaney
+184,447,0,Atlanta Hawks,1.666666667,5,Mike Muscala,"$5,000,000.00 ",2017,Rookie,3.86703762,59,203488,Mike Muscala
+185,449,0,Atlanta Hawks,0.437537,5,Nicolas Brussino,"$1,312,611.00 ",2017,Rookie,0.883159482,497,1627852,Nicolas Brussino
+186,454,0,Atlanta Hawks,0.016666667,5,Tyler Cavanaugh,"$50,000.00 ",2017,Rookie,1.471316796,381,1628463,Tyler Cavanaugh
+187,455,0,Atlanta Hawks,0.271871667,5,Tyler Dorsey,"$815,615.00 ",2017,Rookie,-7.344102004,60,1628416,Tyler Dorsey
+16,27,13.43031611,Golden State Warriors,11.56085,5,Stephen Curry,"$34,682,550.00 ",2017,Non-rookie,8.730764244,290,201939,Stephen Curry

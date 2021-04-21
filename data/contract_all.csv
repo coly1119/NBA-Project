@@ -465,7 +465,7 @@
 463,Andrea Bargnani," $4,501,200.00 ",2006,Toronto Raptors ,Rookie
 464,Andrea Bargnani," $4,838,880.00 ",2007,Toronto Raptors ,Rookie
 465,Andrea Bargnani," $5,176,440.00 ",2008,Toronto Raptors ,Rookie
-466,Andrea Bargnani," $6,527,491.00 ",2009,Toronto Raptors ,Non-rookie
+466,Andrea Bargnani," $6,527,491.00 ",2009,Toronto Raptors ,Rookie
 467,Andrea Bargnani," $8,500,000.00 ",2010,Toronto Raptors ,Non-rookie
 468,Andrea Bargnani," $9,250,000.00 ",2011,Toronto Raptors ,Non-rookie
 469,Andrea Bargnani," $10,000,000.00 ",2012,Toronto Raptors ,Non-rookie
@@ -496,7 +496,7 @@
 494,Andrew Bogut," $4,340,520.00 ",2005,Milwaukee Bucks,Rookie
 495,Andrew Bogut," $4,665,960.00 ",2006,Milwaukee Bucks,Rookie
 496,Andrew Bogut," $4,991,520.00 ",2007,Milwaukee Bucks,Rookie
-497,Andrew Bogut," $6,294,310.00 ",2008,Milwaukee Bucks,Non-rookie
+497,Andrew Bogut," $6,294,310.00 ",2008,Milwaukee Bucks,Rookie
 498,Andrew Bogut," $10,000,000.00 ",2009,Milwaukee Bucks,Non-rookie
 499,Andrew Bogut," $11,000,000.00 ",2010,Milwaukee Bucks,Non-rookie
 500,Andrew Bogut," $12,000,000.00 ",2011,Milwaukee Bucks,Non-rookie
@@ -568,7 +568,7 @@
 566,Andy Toolson," $310,000.00 ",1995,Utah Jazz,Non-rookie
 567,Anfernee Hardaway," $1,244,000.00 ",1993,Orlando Magic,Rookie
 568,Anfernee Hardaway," $5,230,000.00 ",1995,Orlando Magic,Rookie
-569,Anfernee Hardaway," $6,655,000.00 ",1996,Orlando Magic,Non-rookie
+569,Anfernee Hardaway," $6,655,000.00 ",1996,Orlando Magic,Rookie
 570,Anfernee Hardaway," $7,580,000.00 ",1997,Orlando Magic,Non-rookie
 571,Anfernee Hardaway," $8,505,000.00 ",1998,Orlando Magic,Non-rookie
 572,Anfernee Hardaway," $10,130,000.00 ",2000,Phoenix Suns,Non-rookie
@@ -639,7 +639,7 @@
 637,Anthony Davis," $5,144,280.00 ",2012,New Orleans Pelicans,Rookie
 638,Anthony Davis," $5,375,760.00 ",2013,New Orleans Pelicans,Rookie
 639,Anthony Davis," $5,607,240.00 ",2014,New Orleans Pelicans,Rookie
-640,Anthony Davis," $7,070,730.00 ",2015,New Orleans Pelicans,Non-rookie
+640,Anthony Davis," $7,070,730.00 ",2015,New Orleans Pelicans,Rookie
 641,Anthony Davis," $22,116,750.00 ",2016,New Orleans Pelicans,Non-rookie
 642,Anthony Davis," $23,775,506.00 ",2017,New Orleans Pelicans,Non-rookie
 643,Anthony Frederick," $30,000.00 ",1990,Sacramento Kings,Rookie
@@ -832,7 +832,7 @@
 830,Aron Baynes," $401,170.00 ",2012,San Antonio Spurs,Rookie
 831,Aron Baynes," $788,872.00 ",2013,San Antonio Spurs,Rookie
 832,Aron Baynes," $2,077,000.00 ",2014,San Antonio Spurs,Rookie
-833,Aron Baynes," $6,500,000.00 ",2015,Detroit Pistons,Non-rookie
+833,Aron Baynes," $6,500,000.00 ",2015,Detroit Pistons,Rookie
 834,Aron Baynes," $6,500,000.00 ",2016,Detroit Pistons,Non-rookie
 835,Aron Baynes," $4,328,000.00 ",2017,Boston Celtics,Non-rookie
 836,Arron Afflalo," $944,520.00 ",2007,Detroit Pistons,Rookie
@@ -863,8 +863,8 @@
 861,Ashraf Amaya," $225,000.00 ",1995,Memphis Grizzlies,Rookie
 862,Ashraf Amaya," $247,500.00 ",1996,Washington Wizards,Rookie
 863,Austin Croshere," $5,300,000.00 ",2000,Indiana Pacers,Rookie
-864,Austin Croshere," $6,310,000.00 ",2001,Indiana Pacers,Non-rookie
-865,Austin Croshere," $6,960,000.00 ",2002,Indiana Pacers,Non-rookie
+864,Austin Croshere," $6,310,000.00 ",2001,Indiana Pacers,Rookie
+865,Austin Croshere," $6,960,000.00 ",2002,Indiana Pacers,Rookie
 866,Austin Croshere," $7,610,000.00 ",2003,Indiana Pacers,Non-rookie
 867,Austin Croshere," $8,260,000.00 ",2004,Indiana Pacers,Non-rookie
 868,Austin Croshere," $7,900,000.00 ",2005,Indiana Pacers,Non-rookie
@@ -951,7 +951,7 @@
 949,Ben Gordon," $3,610,200.00 ",2005,Chicago Bulls,Rookie
 950,Ben Gordon," $3,862,080.00 ",2006,Chicago Bulls,Rookie
 951,Ben Gordon," $4,881,669.00 ",2007,Chicago Bulls,Rookie
-952,Ben Gordon," $6,404,750.00 ",2008,Chicago Bulls,Non-rookie
+952,Ben Gordon," $6,404,750.00 ",2008,Chicago Bulls,Rookie
 953,Ben Gordon," $10,000,000.00 ",2009,Detroit Pistons,Non-rookie
 954,Ben Gordon," $11,600,000.00 ",2011,Detroit Pistons,Non-rookie
 955,Ben Gordon," $4,500,000.00 ",2014,Orlando Magic,Non-rookie
@@ -1138,8 +1138,8 @@
 1136,Bob Thornton," $335,000.00 ",1990,Minnesota Timberwolves,Rookie
 1137,Bob Thornton," $335,000.00 ",1991,Minnesota Timberwolves,Rookie
 1138,Boban Marjanovic," $1,200,000.00 ",2015,San Antonio Spurs,Rookie
-1139,Boban Marjanovic," $7,000,000.00 ",2016,Detroit Pistons,Non-rookie
-1140,Boban Marjanovic," $7,000,000.00 ",2017,Detroit Pistons,Non-rookie
+1139,Boban Marjanovic," $7,000,000.00 ",2016,Detroit Pistons,Rookie
+1140,Boban Marjanovic," $7,000,000.00 ",2017,Detroit Pistons,Rookie
 1141,Bobby Brown," $442,114.00 ",2008,Minnesota Timberwolves,Rookie
 1142,Bobby Brown," $736,420.00 ",2009,Los Angeles Clippers,Rookie
 1143,Bobby Brown," $934,293.00 ",2016,Houston Rockets,Non-rookie
@@ -1197,8 +1197,8 @@
 1195,Boniface N\'Dong," $839,209.00 ",2006,Los Angeles Clippers,Rookie
 1196,Bonzi Wells," $1,528,440.00 ",2000,Portland Trail Blazers,Rookie
 1197,Bonzi Wells," $2,028,239.00 ",2001,Portland Trail Blazers,Rookie
-1198,Bonzi Wells," $6,300,000.00 ",2002,Portland Trail Blazers,Non-rookie
-1199,Bonzi Wells," $7,000,000.00 ",2003,Memphis Grizzlies,Non-rookie
+1198,Bonzi Wells," $6,300,000.00 ",2002,Portland Trail Blazers,Rookie
+1199,Bonzi Wells," $7,000,000.00 ",2003,Memphis Grizzlies,Rookie
 1200,Bonzi Wells," $7,700,000.00 ",2004,Memphis Grizzlies,Non-rookie
 1201,Bonzi Wells," $8,000,000.00 ",2005,Sacramento Kings,Non-rookie
 1202,Bonzi Wells," $2,115,000.00 ",2006,Houston Rockets,Non-rookie
@@ -2092,7 +2092,7 @@
 2090,Chris Taft," $664,209.00 ",2006,Golden State Warriors,Rookie
 2091,Chris Webber," $1,600,000.00 ",1993,Golden State Warriors,Rookie
 2092,Chris Webber," $2,080,000.00 ",1994,Washington Wizards,Rookie
-2093,Chris Webber," $7,000,000.00 ",1995,Washington Wizards,Non-rookie
+2093,Chris Webber," $7,000,000.00 ",1995,Washington Wizards,Rookie
 2094,Chris Webber," $8,000,000.00 ",1996,Washington Wizards,Non-rookie
 2095,Chris Webber," $9,000,000.00 ",1997,Washington Wizards,Non-rookie
 2096,Chris Webber," $10,000,000.00 ",1998,Sacramento Kings,Non-rookie
@@ -3120,7 +3120,7 @@
 3118,Derrick Rose," $4,822,800.00 ",2008,Chicago Bulls,Rookie
 3119,Derrick Rose," $5,184,480.00 ",2009,Chicago Bulls,Rookie
 3120,Derrick Rose," $5,546,160.00 ",2010,Chicago Bulls,Rookie
-3121,Derrick Rose," $6,993,708.00 ",2011,Chicago Bulls,Non-rookie
+3121,Derrick Rose," $6,993,708.00 ",2011,Chicago Bulls,Rookie
 3122,Derrick Rose," $16,402,500.00 ",2012,Chicago Bulls,Non-rookie
 3123,Derrick Rose," $17,632,688.00 ",2013,Chicago Bulls,Non-rookie
 3124,Derrick Rose," $20,093,063.00 ",2015,Chicago Bulls,Non-rookie
@@ -3130,7 +3130,7 @@
 3128,Derrick Williams," $4,602,720.00 ",2011,Minnesota Timberwolves,Rookie
 3129,Derrick Williams," $4,947,840.00 ",2012,Minnesota Timberwolves,Rookie
 3130,Derrick Williams," $5,016,960.00 ",2013,Minnesota Timberwolves,Rookie
-3131,Derrick Williams," $6,331,404.00 ",2014,Sacramento Kings,Non-rookie
+3131,Derrick Williams," $6,331,404.00 ",2014,Sacramento Kings,Rookie
 3132,Derrick Williams," $4,900,000.00 ",2015,New York Knicks,Non-rookie
 3133,Derrick Williams," $4,598,000.00 ",2016,Miami Heat,Non-rookie
 3134,Derrick Williams," $402,043.00 ",2016,Cleveland Caveliers,Non-rookie
@@ -3686,7 +3686,7 @@
 3684,Eddie Robinson," $600,000.00 ",2000,Charlotte Hornets,Rookie
 3685,Eddie Robinson," $5,170,000.00 ",2001,Chicago Bulls,Rookie
 3686,Eddie Robinson," $5,687,000.00 ",2002,Chicago Bulls,Rookie
-3687,Eddie Robinson," $6,204,000.00 ",2003,Chicago Bulls,Non-rookie
+3687,Eddie Robinson," $6,204,000.00 ",2003,Chicago Bulls,Rookie
 3688,Eddie Robinson," $5,444,444.00 ",2005,Chicago Bulls,Non-rookie
 3689,Eddy Curry," $2,678,400.00 ",2001,Chicago Bulls,Rookie
 3690,Eddy Curry," $2,879,280.00 ",2002,Chicago Bulls,Rookie
@@ -3991,7 +3991,7 @@
 3989,Evan Turner," $4,602,720.00 ",2010,Philadelphia 76ers,Rookie
 3990,Evan Turner," $4,947,840.00 ",2011,Philadelphia 76ers,Rookie
 3991,Evan Turner," $5,293,080.00 ",2012,Philadelphia 76ers,Rookie
-3992,Evan Turner," $6,679,867.00 ",2013,Philadelphia 76ers,Non-rookie
+3992,Evan Turner," $6,679,867.00 ",2013,Philadelphia 76ers,Rookie
 3993,Evan Turner," $3,278,000.00 ",2014,Boston Celtics,Non-rookie
 3994,Evan Turner," $3,425,510.00 ",2015,Boston Celtics,Non-rookie
 3995,Evan Turner," $16,393,443.00 ",2016,Portland Trail Blazers,Non-rookie
@@ -4274,7 +4274,7 @@
 4272,Glen Davis," $711,517.00 ",2008,Boston Celtics,Rookie
 4273,Glen Davis," $3,000,000.00 ",2009,Boston Celtics,Rookie
 4274,Glen Davis," $3,300,000.00 ",2010,Boston Celtics,Rookie
-4275,Glen Davis," $6,300,000.00 ",2011,Orlando Magic,Non-rookie
+4275,Glen Davis," $6,300,000.00 ",2011,Orlando Magic,Rookie
 4276,Glen Davis," $6,400,000.00 ",2012,Orlando Magic,Non-rookie
 4277,Glen Davis," $6,400,000.00 ",2013,Orlando Magic,Non-rookie
 4278,Glen Davis," $6,600,000.00 ",2014,Orlando Magic,Non-rookie
@@ -4437,7 +4437,7 @@
 4435,Greg Oden," $4,662,000.00 ",2007,Portland Trail Blazers,Rookie
 4436,Greg Oden," $5,011,680.00 ",2008,Portland Trail Blazers,Rookie
 4437,Greg Oden," $5,361,240.00 ",2009,Portland Trail Blazers,Rookie
-4438,Greg Oden," $6,760,524.00 ",2010,Portland Trail Blazers,Non-rookie
+4438,Greg Oden," $6,760,524.00 ",2010,Portland Trail Blazers,Rookie
 4439,Greg Oden," $1,500,000.00 ",2011,Portland Trail Blazers,Non-rookie
 4440,Greg Oden," $1,027,424.00 ",2013,Miami Heat,Non-rookie
 4441,Greg Ostertag," $498,000.00 ",1995,Utah Jazz,Rookie
@@ -4816,7 +4816,7 @@
 4814,Jabari Parker," $4,930,560.00 ",2014,Milwaukee Bucks,Rookie
 4815,Jabari Parker," $5,152,440.00 ",2015,Milwaukee Bucks,Rookie
 4816,Jabari Parker," $5,374,320.00 ",2016,Milwaukee Bucks,Rookie
-4817,Jabari Parker," $6,782,392.00 ",2017,Milwaukee Bucks,Non-rookie
+4817,Jabari Parker," $6,782,392.00 ",2017,Milwaukee Bucks,Rookie
 4818,Jabari Smith," $316,969.00 ",2000,Sacramento Kings,Rookie
 4819,Jabari Smith," $465,850.00 ",2001,Sacramento Kings,Rookie
 4820,Jabari Smith," $638,679.00 ",2003,Sacramento Kings,Rookie
@@ -6010,7 +6010,7 @@
 6008,Jonathan Kerner," $5,000.00 ",1999,Washington Wizards,Rookie
 6009,Jonathon Simmons," $525,093.00 ",2015,San Antonio Spurs,Rookie
 6010,Jonathon Simmons," $874,636.00 ",2016,San Antonio Spurs,Rookie
-6011,Jonathon Simmons," $6,300,000.00 ",2017,Orlando Magic,Non-rookie
+6011,Jonathon Simmons," $6,300,000.00 ",2017,Orlando Magic,Rookie
 6012,Jonny Flynn," $2,969,280.00 ",2009,Minnesota Timberwolves,Rookie
 6013,Jonny Flynn," $3,192,000.00 ",2010,Minnesota Timberwolves,Rookie
 6014,Jonny Flynn," $3,414,720.00 ",2011,Houston Rockets,Rookie
@@ -6296,7 +6296,7 @@
 6294,Karl Malone," $1,500,000.00 ",2003,Los Angeles Lakers,Non-rookie
 6295,Karl-Anthony Towns," $5,703,600.00 ",2015,Minnesota Timberwolves,Rookie
 6296,Karl-Anthony Towns," $5,960,160.00 ",2016,Minnesota Timberwolves,Rookie
-6297,Karl-Anthony Towns," $6,216,840.00 ",2017,Minnesota Timberwolves,Non-rookie
+6297,Karl-Anthony Towns," $6,216,840.00 ",2017,Minnesota Timberwolves,Rookie
 6298,Kawhi Leonard," $1,731,960.00 ",2011,San Antonio Spurs,Rookie
 6299,Kawhi Leonard," $1,861,920.00 ",2012,San Antonio Spurs,Rookie
 6300,Kawhi Leonard," $1,887,840.00 ",2013,San Antonio Spurs,Rookie
@@ -6855,7 +6855,7 @@
 6853,Kyrie Irving," $5,144,280.00 ",2011,Cleveland Caveliers,Rookie
 6854,Kyrie Irving," $5,530,080.00 ",2012,Cleveland Caveliers,Rookie
 6855,Kyrie Irving," $5,607,240.00 ",2013,Cleveland Caveliers,Rookie
-6856,Kyrie Irving," $7,070,730.00 ",2014,Cleveland Caveliers,Non-rookie
+6856,Kyrie Irving," $7,070,730.00 ",2014,Cleveland Caveliers,Rookie
 6857,Kyrie Irving," $14,746,000.00 ",2015,Cleveland Caveliers,Non-rookie
 6858,Kyrie Irving," $17,638,063.00 ",2016,Cleveland Caveliers,Non-rookie
 6859,Kyrie Irving," $18,868,625.00 ",2017,Boston Celtics,Non-rookie
@@ -6929,13 +6929,13 @@
 6927,Lance Thomas," $6,655,325.00 ",2017,New York Knicks,Non-rookie
 6928,Landry Fields," $473,604.00 ",2010,New York Knicks,Rookie
 6929,Landry Fields," $762,195.00 ",2011,New York Knicks,Rookie
-6930,Landry Fields," $6,250,000.00 ",2012,Toronto Raptors ,Non-rookie
-6931,Landry Fields," $6,250,000.00 ",2013,Toronto Raptors ,Non-rookie
+6930,Landry Fields," $6,250,000.00 ",2012,Toronto Raptors ,Rookie
+6931,Landry Fields," $6,250,000.00 ",2013,Toronto Raptors ,Rookie
 6932,Landry Fields," $6,250,000.00 ",2014,Toronto Raptors ,Non-rookie
 6933,Langston Galloway," $235,762.00 ",2014,New York Knicks,Rookie
 6934,Langston Galloway," $845,059.00 ",2015,New York Knicks,Rookie
 6935,Langston Galloway," $5,200,000.00 ",2016,Sacramento Kings,Rookie
-6936,Langston Galloway," $6,666,667.00 ",2017,Detroit Pistons,Non-rookie
+6936,Langston Galloway," $6,666,667.00 ",2017,Detroit Pistons,Rookie
 6937,LaPhonso Ellis," $1,900,000.00 ",1992,Denver Nuggets,Rookie
 6938,LaPhonso Ellis," $2,350,000.00 ",1993,Denver Nuggets,Rookie
 6939,LaPhonso Ellis," $2,731,000.00 ",1994,Denver Nuggets,Rookie
@@ -6954,7 +6954,7 @@
 6952,Laron Profit," $745,046.00 ",2004,Washington Wizards,Non-rookie
 6953,Laron Profit," $745,248.00 ",2005,Los Angeles Lakers,Non-rookie
 6954,Larry Bird," $1,500,000.00 ",1990,Boston Celtics,Rookie
-6955,Larry Bird," $7,070,000.00 ",1991,Boston Celtics,Non-rookie
+6955,Larry Bird," $7,070,000.00 ",1991,Boston Celtics,Rookie
 6956,Larry Bird," $2,300,000.00 ",1992,Boston Celtics,Rookie
 6957,Larry Drew," $550,000.00 ",1990,Los Angeles Lakers,Rookie
 6958,Larry Drew," $600,000.00 ",1991,Los Angeles Lakers,Rookie
@@ -7170,7 +7170,7 @@
 7168,Lonny Baxter," $636,679.00 ",2003,Toronto Raptors ,Rookie
 7169,Lonny Baxter," $542,475.00 ",2004,New Orleans Pelicans,Rookie
 7170,Lonny Baxter," $745,248.00 ",2005,Houston Rockets,Rookie
-7171,Lonzo Ball," $6,286,560.00 ",2017,Los Angeles Lakers,Non-rookie
+7171,Lonzo Ball," $6,286,560.00 ",2017,Los Angeles Lakers,Rookie
 7172,Loren Meyer," $556,000.00 ",1995,Dallas Mavericks,Rookie
 7173,Loren Meyer," $639,000.00 ",1996,Phoenix Suns,Rookie
 7174,Loren Meyer," $722,760.00 ",1997,Phoenix Suns,Rookie
@@ -7212,9 +7212,9 @@
 7210,Lou Roe," $247,500.00 ",1996,Golden State Warriors,Rookie
 7211,Lou Roe," $97,412.00 ",1999,Minnesota Timberwolves,Rookie
 7212,Lou Williams," $5,450,000.00 ",2014,Toronto Raptors ,Rookie
-7213,Lou Williams," $7,000,000.00 ",2015,Los Angeles Lakers,Non-rookie
-7214,Lou Williams," $7,000,000.00 ",2016,Houston Rockets,Non-rookie
-7215,Lou Williams," $7,000,000.00 ",2017,Los Angeles Clippers,Non-rookie
+7213,Lou Williams," $7,000,000.00 ",2015,Los Angeles Lakers,Rookie
+7214,Lou Williams," $7,000,000.00 ",2016,Houston Rockets,Rookie
+7215,Lou Williams," $7,000,000.00 ",2017,Los Angeles Clippers,Rookie
 7216,Louis Amundson," $105,696.00 ",2006,Philadelphia 76ers,Rookie
 7217,Louis Amundson," $75,000.00 ",2006,Sacramento Kings,Rookie
 7218,Louis Amundson," $797,581.00 ",2008,Phoenix Suns,Rookie
@@ -7542,7 +7542,7 @@
 7540,Marcus Smart," $4,538,020.00 ",2017,Boston Celtics,Rookie
 7541,Marcus Thornton," $457,888.00 ",2009,New Orleans Pelicans,Rookie
 7542,Marcus Thornton," $762,195.00 ",2010,Sacramento Kings,Rookie
-7543,Marcus Thornton," $7,000,000.00 ",2011,Sacramento Kings,Non-rookie
+7543,Marcus Thornton," $7,000,000.00 ",2011,Sacramento Kings,Rookie
 7544,Marcus Thornton," $7,525,000.00 ",2012,Sacramento Kings,Non-rookie
 7545,Marcus Thornton," $8,050,000.00 ",2013,Sacramento Kings,Non-rookie
 7546,Marcus Thornton," $8,575,000.00 ",2014,Phoenix Suns,Non-rookie
@@ -7685,7 +7685,7 @@
 7683,Mark West," $1,000,000.00 ",1998,Atlanta Hawks,Non-rookie
 7684,Markel Brown," $507,336.00 ",2014,Brooklyn Nets,Rookie
 7685,Markel Brown," $845,059.00 ",2015,Brooklyn Nets,Rookie
-7686,Markelle Fultz," $7,026,240.00 ",2017,Philadelphia 76ers,Non-rookie
+7686,Markelle Fultz," $7,026,240.00 ",2017,Philadelphia 76ers,Rookie
 7687,Markieff Morris," $1,919,160.00 ",2011,Phoenix Suns,Rookie
 7688,Markieff Morris," $2,063,040.00 ",2012,Phoenix Suns,Rookie
 7689,Markieff Morris," $2,091,840.00 ",2013,Phoenix Suns,Rookie
@@ -7710,7 +7710,7 @@
 7708,Marquese Chriss," $3,073,800.00 ",2017,Phoenix Suns,Rookie
 7709,Marquis Daniels," $4,903,000.00 ",2004,Dallas Mavericks,Rookie
 7710,Marquis Daniels," $5,393,300.00 ",2005,Dallas Mavericks,Rookie
-7711,Marquis Daniels," $6,373,900.00 ",2007,Indiana Pacers,Non-rookie
+7711,Marquis Daniels," $6,373,900.00 ",2007,Indiana Pacers,Rookie
 7712,Marquis Daniels," $6,864,200.00 ",2008,Indiana Pacers,Non-rookie
 7713,Marquis Daniels," $1,990,000.00 ",2009,Boston Celtics,Non-rookie
 7714,Marquis Daniels," $2,470,000.00 ",2010,Sacramento Kings,Non-rookie
@@ -7948,7 +7948,7 @@
 7946,Michael Ansley," $200,000.00 ",1990,Orlando Magic,Rookie
 7947,Michael Beasley," $4,638,600.00 ",2009,Miami Heat,Rookie
 7948,Michael Beasley," $4,962,240.00 ",2010,Minnesota Timberwolves,Rookie
-7949,Michael Beasley," $6,262,347.00 ",2011,Minnesota Timberwolves,Non-rookie
+7949,Michael Beasley," $6,262,347.00 ",2011,Minnesota Timberwolves,Rookie
 7950,Michael Beasley," $5,750,000.00 ",2012,Phoenix Suns,Rookie
 7951,Michael Beasley," $4,666,667.00 ",2013,Phoenix Suns,Non-rookie
 7952,Michael Beasley," $1,027,424.00 ",2013,Miami Heat,Non-rookie
@@ -8030,7 +8030,7 @@
 8028,Michael Jordan," $33,140,000.00 ",1997,Chicago Bulls,Non-rookie
 8029,Michael Jordan," $1,000,000.00 ",2001,Washington Wizards,Non-rookie
 8030,Michael Jordan," $1,030,000.00 ",2002,Washington Wizards,Non-rookie
-8031,Michael Kidd-Gilchrist," $6,331,404.00 ",2015,Charlotte Hornets,Non-rookie
+8031,Michael Kidd-Gilchrist," $6,331,404.00 ",2015,Charlotte Hornets,Rookie
 8032,Michael Kidd-Gilchrist," $13,000,000.00 ",2016,Charlotte Hornets,Non-rookie
 8033,Michael Kidd-Gilchrist," $13,000,000.00 ",2017,Charlotte Hornets,Non-rookie
 8034,Michael Olowokandi," $2,700,000.00 ",1998,Los Angeles Clippers,Rookie
@@ -8727,7 +8727,7 @@
 8725,Patricio Garino," $31,969.00 ",2016,Orlando Magic,Rookie
 8726,Patrick Beverley," $788,872.00 ",2013,Houston Rockets,Rookie
 8727,Patrick Beverley," $915,243.00 ",2014,Houston Rockets,Rookie
-8728,Patrick Beverley," $6,500,000.00 ",2015,Houston Rockets,Non-rookie
+8728,Patrick Beverley," $6,500,000.00 ",2015,Houston Rockets,Rookie
 8729,Patrick Beverley," $6,000,000.00 ",2016,Houston Rockets,Rookie
 8730,Patrick Beverley," $5,513,514.00 ",2017,Los Angeles Clippers,Non-rookie
 8731,Patrick Eddie," $130,000.00 ",1991,New York Knicks,Rookie
@@ -10752,7 +10752,7 @@
 10750,Theo Ratliff," $821,000.00 ",1996,Detroit Pistons,Rookie
 10751,Theo Ratliff," $928,080.00 ",1997,Detroit Pistons,Rookie
 10752,Theo Ratliff," $6,000,000.00 ",1998,Philadelphia 76ers,Rookie
-10753,Theo Ratliff," $7,031,250.00 ",1999,Philadelphia 76ers,Non-rookie
+10753,Theo Ratliff," $7,031,250.00 ",1999,Philadelphia 76ers,Rookie
 10754,Theo Ratliff," $9,667,969.00 ",2001,Atlanta Hawks,Non-rookie
 10755,Theo Ratliff," $9,375,000.00 ",2002,Atlanta Hawks,Non-rookie
 10756,Theo Ratliff," $10,156,250.00 ",2003,Atlanta Hawks,Non-rookie
@@ -11409,7 +11409,7 @@
 11407,Victor Oladipo," $4,763,760.00 ",2013,Orlando Magic,Rookie
 11408,Victor Oladipo," $4,978,200.00 ",2014,Orlando Magic,Rookie
 11409,Victor Oladipo," $5,192,520.00 ",2015,Orlando Magic,Rookie
-11410,Victor Oladipo," $6,552,960.00 ",2016,Oklahoma City Thunder,Non-rookie
+11410,Victor Oladipo," $6,552,960.00 ",2016,Oklahoma City Thunder,Rookie
 11411,Victor Oladipo," $21,000,000.00 ",2017,Indiana Pacers,Non-rookie
 11412,Viktor Khryapa," $1,019,400.00 ",2004,Portland Trail Blazers,Rookie
 11413,Viktor Khryapa," $1,095,960.00 ",2005,Portland Trail Blazers,Rookie
@@ -11620,7 +11620,7 @@
 11618,Wesley Matthews," $457,588.00 ",2009,Utah Jazz,Rookie
 11619,Wesley Matthews," $5,765,000.00 ",2010,Portland Trail Blazers,Rookie
 11620,Wesley Matthews," $6,135,160.00 ",2011,Portland Trail Blazers,Rookie
-11621,Wesley Matthews," $6,505,320.00 ",2012,Portland Trail Blazers,Non-rookie
+11621,Wesley Matthews," $6,505,320.00 ",2012,Portland Trail Blazers,Rookie
 11622,Wesley Matthews," $6,875,480.00 ",2013,Portland Trail Blazers,Non-rookie
 11623,Wesley Matthews," $7,245,640.00 ",2014,Portland Trail Blazers,Non-rookie
 11624,Wesley Matthews," $16,400,000.00 ",2015,Dallas Mavericks,Non-rookie

@@ -1,0 +1,230 @@
+,Team,rating,Type,mu,sd,name
+0,Golden State Warriors,13.43031611,Rookie,0.2718716666666667,5,Jordan Bell
+6,Golden State Warriors,13.43031611,Rookie,0.437537,5,Damian Jones
+8,Golden State Warriors,13.43031611,Rookie,0.49046066666666666,5,Kevon Looney
+9,Golden State Warriors,13.43031611,Rookie,0.437537,5,Patrick McCaw
+16,San Antonio Spurs,8.154010436,Rookie,0.7172346666666667,5,Kyle Anderson
+17,San Antonio Spurs,8.154010436,Rookie,0.437537,5,Davis Bertans
+18,San Antonio Spurs,8.154010436,Rookie,0.437537,5,Bryn Forbes
+23,San Antonio Spurs,8.154010436,Rookie,0.5081016666666667,5,Joffrey Lauvergne
+26,San Antonio Spurs,8.154010436,Rookie,0.437537,5,Dejounte Murray
+28,San Antonio Spurs,8.154010436,Rookie,0.2718716666666667,5,Brandon Paul
+29,San Antonio Spurs,8.154010436,Rookie,0.4682,5,Derrick White
+32,Houston Rockets,6.894414691000001,Rookie,1.0966666666666667,5,Tarik Black
+34,Houston Rockets,6.894414691000001,Rookie,0.7781733333333334,5,Clint Capela
+39,Houston Rockets,6.894414691000001,Rookie,0.001536,5,Aaron Jackson
+41,Houston Rockets,6.894414691000001,Rookie,0.437537,5,Chinanu Onuaku
+43,Houston Rockets,6.894414691000001,Rookie,0.2718716666666667,5,Zhou Qi
+44,Houston Rockets,6.894414691000001,Rookie,0.032135333333333335,5,Tim Quarterman
+45,Houston Rockets,6.894414691000001,Rookie,0.49046066666666666,5,Troy Williams
+50,Cleveland Cavaliers,5.695697826,Rookie,0.7956213333333333,5,Rodney Hood
+54,Cleveland Cavaliers,5.695697826,Rookie,0.49046066666666666,5,Larry Nance Jr.
+55,Cleveland Cavaliers,5.695697826,Rookie,0.8809523333333333,5,Cedi Osman
+59,Cleveland Cavaliers,5.695697826,Rookie,0.5484,5,Ante Zizic
+62,Los Angeles Clippers,5.382403139,Rookie,0.5982,5,Sam Dekker
+63,Los Angeles Clippers,5.382403139,Rookie,0.2718716666666667,5,Jawun Evans
+65,Los Angeles Clippers,5.382403139,Rookie,0.49046066666666666,5,Montrezl Harrell
+69,Los Angeles Clippers,5.382403139,Rookie,2.3333333333333335,5,Boban Marjanovic
+71,Los Angeles Clippers,5.382403139,Rookie,2.0,5,Milos Teodosic
+72,Los Angeles Clippers,5.382403139,Rookie,0.2718716666666667,5,Sindarius Thornwell
+74,Utah Jazz,4.969595181,Rookie,0.47164,5,Tony Bradley
+77,Utah Jazz,4.969595181,Rookie,1.6641283333333334,5,Dante Exum
+82,Utah Jazz,4.969595181,Rookie,0.87376,5,Donovan Mitchell
+83,Utah Jazz,4.969595181,Rookie,0.49046066666666666,5,Raul Neto
+84,Utah Jazz,4.969595181,Rookie,0.2718716666666667,5,Royce O'Neale
+87,Utah Jazz,4.969595181,Rookie,0.064271,5,David Stockton
+89,Utah Jazz,4.969595181,Rookie,0.437537,5,Joel Bolomboy
+91,Boston Celtics,2.709757135,Rookie,1.65216,5,Jaylen Brown
+92,Boston Celtics,2.709757135,Rookie,0.014831666666666667,5,Jonathan Gibson
+98,Boston Celtics,2.709757135,Rookie,0.389111,5,Abdel Nader
+99,Boston Celtics,2.709757135,Rookie,0.43063066666666666,5,Semi Ojeleye
+100,Boston Celtics,2.709757135,Rookie,0.66284,5,Terry Rozier
+101,Boston Celtics,2.709757135,Rookie,0.024719666666666668,5,Xavier Silas
+102,Boston Celtics,2.709757135,Rookie,1.5126733333333333,5,Marcus Smart
+103,Boston Celtics,2.709757135,Rookie,1.8818,5,Jayson Tatum
+104,Boston Celtics,2.709757135,Rookie,0.2718716666666667,5,Daniel Theis
+105,Boston Celtics,2.709757135,Rookie,0.74916,5,Guerschon Yabusele
+106,Boston Celtics,2.709757135,Rookie,0.030952666666666667,5,Demetrius Jackson
+108,Washington Wizards,2.37472787,Rookie,0.6666666666666666,5,Tim Frazier
+111,Washington Wizards,2.37472787,Rookie,0.49046066666666666,5,Chris McCullough
+114,Washington Wizards,2.37472787,Rookie,0.69768,5,Kelly Oubre Jr.
+115,Washington Wizards,2.37472787,Rookie,1.0,5,Tomas Satoransky
+119,Oklahoma City Thunder,2.082185522,Rookie,1.9083333333333334,5,Alex Abrines
+124,Oklahoma City Thunder,2.082185522,Rookie,0.595,5,Terrance Ferguson
+126,Oklahoma City Thunder,2.082185522,Rookie,0.5081016666666667,5,Jerami Grant
+127,Oklahoma City Thunder,2.082185522,Rookie,0.49046066666666666,5,Josh Huestis
+128,Oklahoma City Thunder,2.082185522,Rookie,0.2718716666666667,5,Dakari Johnson
+133,Memphis Grizzlies,1.934503325,Rookie,0.2718716666666667,5,Dillon Brooks
+137,Memphis Grizzlies,1.934503325,Rookie,0.437537,5,Deyonta Davis
+141,Memphis Grizzlies,1.934503325,Rookie,0.437537,5,Andrew Harrison
+142,Memphis Grizzlies,1.934503325,Rookie,0.44372,5,Brice Johnson
+143,Memphis Grizzlies,1.934503325,Rookie,0.009216,5,Omari Johnson
+144,Memphis Grizzlies,1.934503325,Rookie,0.49046066666666666,5,Jarell Martin
+147,Memphis Grizzlies,1.934503325,Rookie,0.31666666666666665,5,Ivan Rabb
+148,Memphis Grizzlies,1.934503325,Rookie,0.01536,5,Xavier Rathan-Mayes
+149,Memphis Grizzlies,1.934503325,Rookie,0.437537,5,Wayne Selden
+152,Miami Heat,1.904907009,Rookie,0.83012,5,Bam Adebayo
+158,Miami Heat,1.904907009,Rookie,1.96042,5,Tyler Johnson
+159,Miami Heat,1.904907009,Rookie,0.437537,5,Rodney McGruder
+160,Miami Heat,1.904907009,Rookie,0.49046066666666666,5,Jordan Mickey
+162,Miami Heat,1.904907009,Rookie,0.49046066666666666,5,Josh Richardson
+165,Miami Heat,1.904907009,Rookie,0.90168,5,Justise Winslow
+168,Denver Nuggets,1.813798095,Rookie,0.56688,5,Malik Beasley
+172,Denver Nuggets,1.813798095,Rookie,0.8500183333333333,5,Gary Harris
+173,Denver Nuggets,1.813798095,Rookie,0.49046066666666666,5,Nikola Jokic
+174,Denver Nuggets,1.813798095,Rookie,0.52648,5,Tyler Lydon
+175,Denver Nuggets,1.813798095,Rookie,0.8138,5,Trey Lyles
+177,Denver Nuggets,1.813798095,Rookie,1.11844,5,Jamal Murray
+180,Charlotte Hornets,1.0653689709999998,Rookie,0.2718716666666667,5,Dwayne Bacon
+183,Charlotte Hornets,1.0653689709999998,Rookie,0.437537,5,Treveon Graham
+184,Charlotte Hornets,1.0653689709999998,Rookie,0.47858333333333336,5,Willy Hernangomez
+186,Charlotte Hornets,1.0653689709999998,Rookie,0.9492,5,Frank Kaminsky
+189,Charlotte Hornets,1.0653689709999998,Rookie,0.96816,5,Malik Monk
+196,Milwaukee Bucks,0.8606942540000001,Rookie,0.437537,5,Malcolm Brogdon
+197,Milwaukee Bucks,0.8606942540000001,Rookie,0.2718716666666667,5,Sterling Brown
+202,Milwaukee Bucks,0.8606942540000001,Rookie,0.89472,5,Thon Maker
+204,Milwaukee Bucks,0.8606942540000001,Rookie,2.2607973333333335,5,Jabari Parker
+208,Milwaukee Bucks,0.8606942540000001,Rookie,0.71168,5,D.J. Wilson
+212,Chicago Bulls,0.8249325909999999,Rookie,1.34892,5,Kris Dunn
+213,Chicago Bulls,0.8249325909999999,Rookie,0.033451,5,Jarell Eddie
+215,Chicago Bulls,0.8249325909999999,Rookie,0.57128,5,Jerian Grant
+216,Chicago Bulls,0.8249325909999999,Rookie,1.5384616666666666,5,Justin Holiday
+217,Chicago Bulls,0.8249325909999999,Rookie,0.721002,5,Sean Kilpatrick
+218,Chicago Bulls,0.8249325909999999,Rookie,1.0674056666666667,5,Zach LaVine
+220,Chicago Bulls,0.8249325909999999,Rookie,1.27388,5,Lauri Markkanen
+221,Chicago Bulls,0.8249325909999999,Rookie,0.437537,5,David Nwaba
+222,Chicago Bulls,0.8249325909999999,Rookie,0.73448,5,Cameron Payne
+224,Chicago Bulls,0.8249325909999999,Rookie,0.50544,5,Bobby Portis
+225,Chicago Bulls,0.8249325909999999,Rookie,0.49046066666666666,5,Willie Reed
+226,Chicago Bulls,0.8249325909999999,Rookie,0.7288,5,Denzel Valentine
+227,Chicago Bulls,0.8249325909999999,Rookie,1.168411,5,Noah Vonleh
+229,Chicago Bulls,0.8249325909999999,Rookie,0.437537,5,Paul Zipser
+230,Chicago Bulls,0.8249325909999999,Rookie,0.437537,5,Kay Felder
+231,Indiana Pacers,0.567018304,Rookie,0.31666666666666665,5,Ike Anigbogu
+236,Indiana Pacers,0.567018304,Rookie,0.01536,5,Trey McKinney-Jones
+238,Indiana Pacers,0.567018304,Rookie,0.259556,5,Alex Poythress
+239,Indiana Pacers,0.567018304,Rookie,0.5081016666666667,5,Glenn Robinson III
+240,Indiana Pacers,0.567018304,Rookie,0.85,5,Domantas Sabonis
+242,Indiana Pacers,0.567018304,Rookie,0.85664,5,Myles Turner
+244,Indiana Pacers,0.567018304,Rookie,0.49046066666666666,5,Joe Young
+246,Indiana Pacers,0.567018304,Rookie,0.03333333333333333,5,Georges Niang
+248,Minnesota Timberwolves,0.487595368,Rookie,1.3166663333333333,5,Nemanja Bjelica
+252,Minnesota Timberwolves,0.487595368,Rookie,0.437537,5,Marcus Georges-Hunt
+254,Minnesota Timberwolves,0.487595368,Rookie,0.49046066666666666,5,Tyus Jones
+256,Minnesota Timberwolves,0.487595368,Rookie,0.74916,5,Justin Patton
+258,Minnesota Timberwolves,0.487595368,Rookie,2.07228,5,Karl-Anthony Towns
+262,Atlanta Hawks,0.0,Rookie,0.5224,5,DeAndre' Bembry
+263,Atlanta Hawks,0.0,Rookie,0.3017496666666667,5,Nicolas Brussino
+264,Atlanta Hawks,0.0,Rookie,0.24330633333333335,5,Tyler Cavanaugh
+265,Atlanta Hawks,0.0,Rookie,0.64564,5,John Collins
+267,Atlanta Hawks,0.0,Rookie,2.0,5,Dewayne Dedmon
+268,Atlanta Hawks,0.0,Rookie,0.8333333333333334,5,Malcolm Delaney
+269,Atlanta Hawks,0.0,Rookie,0.2718716666666667,5,Tyler Dorsey
+273,Atlanta Hawks,0.0,Rookie,0.04608,5,Damion Lee
+274,Atlanta Hawks,0.0,Rookie,0.064512,5,Jaylen Morris
+275,Atlanta Hawks,0.0,Rookie,1.6666666666666667,5,Mike Muscala
+277,Atlanta Hawks,0.0,Rookie,0.80752,5,Taurean Prince
+279,Atlanta Hawks,0.0,Rookie,0.437537,5,Isaiah Taylor
+280,Atlanta Hawks,0.0,Rookie,0.437537,5,Okaro White
+281,Atlanta Hawks,0.0,Rookie,0.03333333333333333,5,Quinn Cook
+283,Detroit Pistons,-0.16488799,Rookie,0.24938666666666667,5,Dwight Buycks
+285,Detroit Pistons,-0.16488799,Rookie,0.5936,5,Henry Ellenson
+286,Detroit Pistons,-0.16488799,Rookie,2.2222223333333333,5,Langston Galloway
+289,Detroit Pistons,-0.16488799,Rookie,1.0326,5,Stanley Johnson
+290,Detroit Pistons,-0.16488799,Rookie,0.91976,5,Luke Kennard
+292,Detroit Pistons,-0.16488799,Rookie,0.5797776666666666,5,Eric Moreland
+296,New Orleans Pelicans,-0.5621548279999999,Rookie,0.49046066666666666,5,Ian Clark
+300,New Orleans Pelicans,-0.5621548279999999,Rookie,0.437537,5,Cheick Diallo
+301,New Orleans Pelicans,-0.5621548279999999,Rookie,0.049439333333333335,5,Larry Drew II
+309,New Orleans Pelicans,-0.5621548279999999,Rookie,0.62968,5,Rashad Vaughn
+312,Dallas Mavericks,-1.412858355,Rookie,0.437537,5,Yogi Ferrell
+313,Dallas Mavericks,-1.412858355,Rookie,0.437537,5,Dorian Finney-Smith
+314,Dallas Mavericks,-1.412858355,Rookie,0.05819033333333333,5,Aaron Harrison
+315,Dallas Mavericks,-1.412858355,Rookie,0.024719666666666668,5,Scotty Hopson
+316,Dallas Mavericks,-1.412858355,Rookie,0.2718716666666667,5,Maxi Kleber
+318,Dallas Mavericks,-1.412858355,Rookie,1.0983313333333333,5,Doug McDermott
+320,Dallas Mavericks,-1.412858355,Rookie,0.49046066666666666,5,Salah Mejri
+324,Dallas Mavericks,-1.412858355,Rookie,1.07276,5,Dennis Smith Jr.
+325,Dallas Mavericks,-1.412858355,Rookie,0.01536,5,Jameel Warney
+326,Dallas Mavericks,-1.412858355,Rookie,0.5257733333333333,5,Jeff Withey
+327,Dallas Mavericks,-1.412858355,Rookie,0.016666666666666666,5,Gian Clavell
+330,Sacramento Kings,-2.167864662,Rookie,0.817075,5,Bruno Caboclo
+332,Sacramento Kings,-2.167864662,Rookie,1.23472,5,Willie Cauley-Stein
+333,Sacramento Kings,-2.167864662,Rookie,1.5364,5,De'Aaron Fox
+334,Sacramento Kings,-2.167864662,Rookie,1.22516,5,Buddy Hield
+335,Sacramento Kings,-2.167864662,Rookie,0.78852,5,Justin Jackson
+338,Sacramento Kings,-2.167864662,Rookie,0.437537,5,Skal Labissiere
+339,Sacramento Kings,-2.167864662,Rookie,0.76712,5,Georgios Papagiannis
+343,Sacramento Kings,-2.167864662,Rookie,0.394795,5,Frank Mason
+344,New York Knicks,-2.7420113280000002,Rookie,1.4426666666666668,5,Ron Baker
+347,New York Knicks,-2.7420113280000002,Rookie,0.36666666666666664,5,Damyean Dotson
+351,New York Knicks,-2.7420113280000002,Rookie,1.008345,5,Mindaugas Kuzminskas
+353,New York Knicks,-2.7420113280000002,Rookie,1.12716,5,Emmanuel Mudiay
+355,New York Knicks,-2.7420113280000002,Rookie,1.16704,5,Frank Ntilikina
+357,New York Knicks,-2.7420113280000002,Rookie,1.5012,5,Kristaps Porzingis
+360,New York Knicks,-2.7420113280000002,Rookie,0.03333333333333333,5,Marshall Plumlee
+361,Phoenix Suns,-4.014177796,Rookie,1.4896,5,Dragan Bender
+362,Phoenix Suns,-4.014177796,Rookie,0.77312,5,Devin Booker
+363,Phoenix Suns,-4.014177796,Rookie,0.33251566666666665,5,Isaiah Canaan
+365,Phoenix Suns,-4.014177796,Rookie,1.0246,5,Marquese Chriss
+366,Phoenix Suns,-4.014177796,Rookie,1.1361733333333333,5,Troy Daniels
+368,Phoenix Suns,-4.014177796,Rookie,0.033792,5,Josh Gray
+369,Phoenix Suns,-4.014177796,Rookie,0.08905333333333333,5,Shaquille Harrison
+370,Phoenix Suns,-4.014177796,Rookie,1.69668,5,Josh Jackson
+373,Phoenix Suns,-4.014177796,Rookie,1.11078,5,Elfrid Payton
+374,Phoenix Suns,-4.014177796,Rookie,0.2718716666666667,5,Davon Reed
+375,Phoenix Suns,-4.014177796,Rookie,0.437537,5,Tyler Ulis
+376,Phoenix Suns,-4.014177796,Rookie,1.050977,5,T.J. Warren
+377,Phoenix Suns,-4.014177796,Rookie,2.0,5,Alan Williams
+378,Philadelphia 76ers,-4.722418349,Rookie,0.52648,5,Justin Anderson
+382,Philadelphia 76ers,-4.722418349,Rookie,2.033422,5,Joel Embiid
+383,Philadelphia 76ers,-4.722418349,Rookie,2.34208,5,Markelle Fultz
+384,Philadelphia 76ers,-4.722418349,Rookie,0.49046066666666666,5,Richaun Holmes
+386,Philadelphia 76ers,-4.722418349,Rookie,0.48864,5,Furkan Korkmaz
+387,Philadelphia 76ers,-4.722418349,Rookie,0.4622,5,Timothe Luwawu-Cabarrot
+388,Philadelphia 76ers,-4.722418349,Rookie,0.49046066666666666,5,T.J. McConnell
+389,Philadelphia 76ers,-4.722418349,Rookie,0.80752,5,Dario Saric
+390,Philadelphia 76ers,-4.722418349,Rookie,2.05628,5,Ben Simmons
+391,Los Angeles Lakers,-5.179052184,Rookie,2.09552,5,Lonzo Ball
+394,Los Angeles Lakers,-5.179052184,Rookie,0.2718716666666667,5,Thomas Bryant
+397,Los Angeles Lakers,-5.179052184,Rookie,0.5081016666666667,5,Tyler Ennis
+399,Los Angeles Lakers,-5.179052184,Rookie,0.46484,5,Josh Hart
+400,Los Angeles Lakers,-5.179052184,Rookie,0.004608,5,Andre Ingram
+401,Los Angeles Lakers,-5.179052184,Rookie,1.8398,5,Brandon Ingram
+402,Los Angeles Lakers,-5.179052184,Rookie,0.47452,5,Kyle Kuzma
+404,Los Angeles Lakers,-5.179052184,Rookie,1.3830806666666666,5,Julius Randle
+406,Los Angeles Lakers,-5.179052184,Rookie,0.09887866666666667,5,Travis Wear
+408,Los Angeles Lakers,-5.179052184,Rookie,0.437537,5,Ivica Zubac
+409,Los Angeles Lakers,-5.179052184,Rookie,0.016666666666666666,5,Briante Weber
+410,Los Angeles Lakers,-5.179052184,Rookie,0.016666666666666666,5,Vander Blue
+412,Orlando Magic,-5.4976070560000005,Rookie,0.2718716666666667,5,Khem Birch
+415,Orlando Magic,-5.4976070560000005,Rookie,1.8348066666666667,5,Aaron Gordon
+416,Orlando Magic,-5.4976070560000005,Rookie,1.35944,5,Mario Hezonja
+417,Orlando Magic,-5.4976070560000005,Rookie,1.39544,5,Jonathan Isaac
+419,Orlando Magic,-5.4976070560000005,Rookie,0.05376,5,Rodney Purvis
+421,Orlando Magic,-5.4976070560000005,Rookie,2.1,5,Jonathon Simmons
+425,Brooklyn Nets,-5.629013734,Rookie,0.57124,5,Jarrett Allen
+429,Brooklyn Nets,-5.629013734,Rookie,0.5081016666666667,5,Spencer Dinwiddie
+430,Brooklyn Nets,-5.629013734,Rookie,0.5081016666666667,5,Joe Harris
+431,Brooklyn Nets,-5.629013734,Rookie,0.49046066666666666,5,Rondae Hollis-Jefferson
+432,Brooklyn Nets,-5.629013734,Rookie,0.54416,5,Caris LeVert
+435,Brooklyn Nets,-5.629013734,Rookie,1.66504,5,Jahlil Okafor
+436,Brooklyn Nets,-5.629013734,Rookie,1.85412,5,D'Angelo Russell
+437,Brooklyn Nets,-5.629013734,Rookie,1.269049,5,Nik Stauskas
+438,Brooklyn Nets,-5.629013734,Rookie,0.437537,5,Isaiah Whitehead
+440,Portland Trailblazers,,Rookie,1.01908,5,Zach Collins
+441,Portland Trailblazers,,Rookie,0.49046066666666666,5,Pat Connaughton
+444,Portland Trailblazers,,Rookie,0.437537,5,Jake Layman
+448,Portland Trailblazers,,Rookie,0.78712,5,Shabazz Napier
+449,Portland Trailblazers,,Rookie,0.982435,5,Jusuf Nurkic
+450,Portland Trailblazers,,Rookie,0.48864,5,Caleb Swanigan
+452,Toronto Raptors,,Rookie,0.5484,5,OG Anunoby
+454,Toronto Raptors,,Rookie,0.03072,5,Nigel Hayes
+457,Toronto Raptors,,Rookie,0.2718716666666667,5,Alfonzo McKinnie
+458,Toronto Raptors,,Rookie,0.982435,5,Lucas Nogueira
+459,Toronto Raptors,,Rookie,0.94188,5,Jakob Poeltl
+460,Toronto Raptors,,Rookie,0.49046066666666666,5,Norman Powell
+461,Toronto Raptors,,Rookie,0.50152,5,Malachi Richardson
+462,Toronto Raptors,,Rookie,0.437537,5,Pascal Siakam
+464,Toronto Raptors,,Rookie,0.437537,5,Fred VanVleet
+465,Toronto Raptors,,Rookie,0.5484,5,Delon Wright

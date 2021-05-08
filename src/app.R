@@ -1,4 +1,5 @@
 library(shiny)
+library(plotly)
 library(ggplot2)
 
 # results <- read.csv("../data/bayesian_results_df.csv")
@@ -64,7 +65,6 @@ results_17$Year <- rep(2017, nrow(results_17))
 results_18$Year <- rep(2018, nrow(results_18))
 all_players <- rbind(results_16, results_17, results_18)
 all_players <- all_players[,c("Name", "Year", "Rating")]
-
 
 ui <- fluidPage(
   
@@ -144,28 +144,8 @@ ui <- fluidPage(
       
       # Output: Histogram ----
       plotOutput(outputId = "plot"),
-      plotOutput("player_timeline"),
-      fluidRow(
-        column(width = 4,
-               plotOutput("plot_scatter", height = 900, width = 1200,
-                          click = "plot_scatter_click",
-                          brush = brushOpts(
-                            id = "plot_scatter_brush"
-                          )
-               )
-        )
-      ),
-      fluidRow(
-        column(width = 6,
-               h4("Selected Player (Click)"),
-               verbatimTextOutput("click_info")
-        ),
-        column(width = 6,
-               h4("Selected Player(s) (Brush)"),
-               verbatimTextOutput("brush_info")
-        )
-      )
-      
+      plotlyOutput("player_timeline"),
+      plotlyOutput("plot_scatter", height = 900, width = 1200)
     )
   )
 )
@@ -219,35 +199,31 @@ server <- function(input, output) {
     g
     })
   
-  output$player_timeline <- renderPlot({
+  output$player_timeline <- renderPlotly({
     filtered_timeline <- 
       all_players[all_players$Name %in% input$select_players_timeline,]
-    ggplot(filtered_timeline, aes(Year, Rating, color = Name)) + geom_line() + 
-      ggtitle("Player Ratings by Season")
+    if(nrow(filtered_timeline) == 0){
+      p <- ggplot(filtered_timeline, aes(Year, Rating, color = Name))
+    }
+    else{
+    p <- ggplot(filtered_timeline, aes(Year, Rating, color = Name)) + geom_line() + 
+      geom_point() + 
+      ggtitle("Player Ratings by Season") + 
+      scale_x_continuous(breaks = c(2016,2017,2018),
+                       labels = c("2016","2017","2018"))
+    }
+    ggplotly(p)
   })
   
-  output$plot_scatter <- renderPlot({
+  output$plot_scatter <- renderPlotly({
     if(input$select_season == '2015-2016') results = results_16
     else if (input$select_season == '2016-2017') results = results_17
     else results = results_18
-    ggplot(results, aes(Prior, Rating, color = Team)) + geom_point() + 
+    p_scatter <- 
+      ggplot(results, aes(Prior, Rating, label = SD, label2 = Name,
+                          color = Team)) + geom_point() + 
       ggtitle("Player Ratings by Prior Estimates")
-  })
-  
-  output$click_info <- renderPrint({
-    if(input$select_season == '2015-2016') results = results_16
-    else if (input$select_season == '2016-2017') results = results_17
-    else results = results_18
-    # Because it's a ggplot2, we don't need to supply xvar or yvar; if this
-    # were a base graphics plot, we'd need those.
-    nearPoints(results, input$plot_scatter_click, addDist = TRUE)
-  })
-  
-  output$brush_info <- renderPrint({
-    if(input$select_season == '2015-2016') results = results_16
-    else if (input$select_season == '2016-2017') results = results_17
-    else results = results_18
-    brushedPoints(results, input$plot_scatter_brush)
+    ggplotly(p_scatter)
   })
   
 }
